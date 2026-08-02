@@ -1,0 +1,6 @@
+schema_version = 4
+
+[channels.email]
+
+[site]
+lang = "en"

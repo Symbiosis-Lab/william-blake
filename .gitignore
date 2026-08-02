@@ -1,0 +1,7 @@
+.DS_Store
+
+# moss build/runtime state — regenerated locally, never tracked
+.moss/build/
+.moss/identity/
+.moss/data/
+.moss/cache/

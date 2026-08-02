@@ -1,0 +1,22 @@
+---
+title: Infant Joy
+date: 1789-09-01
+uid: blk-songs-inn-infant-joy
+cover: "songs-of-innocence-24-infant-joy.jpg"
+---
+
+![[songs-of-innocence-24-infant-joy.jpg]]
+
+I have no name  
+I am but two days old.--  
+What shall I call thee?  
+I happy am  
+Joy is my name,--  
+Sweet joy befall thee!  
+
+Pretty joy!  
+Sweet joy but two days old,  
+Sweet joy I call thee;  
+Thou dost smile.  
+I sing the while  
+Sweet joy befall thee.  

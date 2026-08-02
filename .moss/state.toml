@@ -1,0 +1,19 @@
+[deployment]
+deploy_method = "moss"
+dns_configured = false
+last_deployed_generation_id = "c10e04ba0e9e1b0a"
+last_deployment_at = "2026-07-11T16:21:54+00:00"
+last_deployment_url = "https://william-blake.mosspub.com"
+site_id = "william-blake"
+
+[[deployment.dns_target.records]]
+name = "@"
+record_type = "A"
+ttl = 3600
+value = "45.76.13.224"
+
+[[deployment.dns_target.records]]
+name = "www"
+record_type = "A"
+ttl = 3600
+value = "45.76.13.224"
