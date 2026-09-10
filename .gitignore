@@ -5,3 +5,6 @@
 .moss/identity/
 .moss/data/
 .moss/cache/
+
+# git worktrees (project-local)
+.worktrees/
