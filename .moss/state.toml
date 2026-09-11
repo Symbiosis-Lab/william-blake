@@ -1,19 +1,24 @@
 [deployment]
-deploy_method = "moss"
-dns_configured = false
-last_deployed_generation_id = "c10e04ba0e9e1b0a"
-last_deployment_at = "2026-07-11T16:21:54+00:00"
-last_deployment_url = "https://william-blake.mosspub.com"
 site_id = "blake"
 
-[[deployment.dns_target.records]]
+[deployment.observed]
+checked_at = "2026-09-11T12:20:26+00:00"
+
+[deployment.observed.dns_target]
+
+[[deployment.observed.dns_target.records]]
 name = "@"
 record_type = "A"
 ttl = 3600
 value = "45.76.13.224"
 
-[[deployment.dns_target.records]]
+[[deployment.observed.dns_target.records]]
 name = "www"
 record_type = "A"
 ttl = 3600
 value = "45.76.13.224"
+
+[deployment.targets."moss:blake"]
+last_deployed_generation_id = "abe4dc368c95ed64"
+last_deployment_at = "2026-09-11T12:20:26+00:00"
+last_deployment_url = "https://blake.mosspub.com"
