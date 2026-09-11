@@ -3,13 +3,9 @@ title: Laocoön
 date: "1826"
 uid: blk-laocoon
 weight: 16
-description: "Aphorisms engraved around Blake's plate of the Laocoön group, renamed \"Jehovah & his two sons Satan & Adam\" — \"Without unceasing Practice nothing can be done: Practice is Art. If you leave off you are lost.\""
-source: "Engraved plate, c. 1826–27; printed in Sampson, The Poetical Works of William Blake (Oxford, 1913), p. 428. Public domain."
+description: "Without unceasing Practice nothing can be done: Practice is Art. If you leave off you are lost."
+source: "Engraved plate, c. 1826–27, retitling the antique sculpture group's figures Jehovah, Satan and Adam; the sayings run around all four margins, in no settled order, and are grouped below by where they stand on the plate. No image of the plate is available here under a free licence. Printed in Sampson, The Poetical Works of William Blake (Oxford, 1913), p. 428. Public domain."
 ---
-
-*No image of the plate is available here under a free licence.*
-
-Blake engraved the antique sculpture group of Laocoön and his sons, retitling the figures Jehovah, Satan and Adam, and filled every margin of the plate with short sayings on Art, Money and the State — written from all four sides, in no settled order. Sampson prints them grouped by where they stand on the plate.
 
 ## To left of plate
 

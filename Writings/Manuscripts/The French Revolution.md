@@ -1,6 +1,6 @@
 ---
 title: The French Revolution
-description: "*The French Revolution: A Poem in Seven Books, Book the First*, set in type at the press of Joseph Johnson, St Paul's Churchyard, 1791. Withdrawn before publication; the remaining six books were never written. A single proof copy survives at the Huntington Library."
+description: "The dead brood over Europe: the cloud and vision descends over cheerful France; / O cloud well appointed!"
 weight: 2
 uid: blk-french-rev
 date: "1791"

@@ -2,12 +2,10 @@
 title: The Pastorals of Virgil
 date: "1821"
 uid: "past1821"
-description: Fourteen of the seventeen wood engravings Blake cut for Dr. Robert John Thornton's schoolbook edition of Ambrose Philips's imitation of Virgil's first Eclogue — his only work in wood engraving.
+description: Thenot and Colinet Lead Their Flocks Together
 cover: virgil-01-thenot-and-colinet-lead-their-flocks-together.jpg
-source: Engraved 1821 for R. J. Thornton, "The Pastorals of Virgil, with a Course of English Reading, Adapted for Schools" (3rd ed., London, 1821). Fourteen of the seventeen designs, Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1931–32 (accession numbers below), CC0 / Open Access, isPublicDomain true. Three designs in the traditional set of seventeen are not held by the Met and are not reproduced here.
+source: "Fourteen of the seventeen wood engravings cut for Dr. Robert John Thornton's schoolbook edition of Ambrose Philips's imitation of Virgil's first Eclogue, \"Imitation of the First Eclogue of Virgil\" — his only work in wood engraving, and the only one of his print series meant for schoolchildren rather than collectors. Thornton's fellow editors thought the results too rough and had three of the seventeen blocks re-cut by a journeyman before publication; the fourteen below are his own, as the Metropolitan Museum holds them. Captions are the Met's own titles. Engraved 1821 for R. J. Thornton, \"The Pastorals of Virgil, with a Course of English Reading, Adapted for Schools\" (3rd ed., London, 1821). Fourteen of the seventeen designs, Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1931–32 (accession numbers below), CC0 / Open Access, isPublicDomain true. Three designs in the traditional set of seventeen are not held by the Met and are not reproduced here."
 ---
-
-Thornton commissioned a set of small wood blocks from Blake to illustrate Ambrose Philips's "Imitation of the First Eclogue of Virgil" in his schoolbook anthology. The blocks are Blake's only work cut in wood, and the only one of his print series meant for schoolchildren rather than collectors. Thornton's fellow editors thought the results too rough and had three of the seventeen blocks re-cut by a journeyman before publication; the fourteen below are Blake's own, as the Metropolitan Museum holds them. Captions are the Met's own titles.
 
 ![[virgil-01-thenot-and-colinet-lead-their-flocks-together.jpg|Thenot and Colinet Lead Their Flocks Together (Met 31.87.27)]]
 

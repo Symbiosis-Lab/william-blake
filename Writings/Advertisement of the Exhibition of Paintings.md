@@ -3,7 +3,7 @@ title: Advertisement of the Exhibition of Paintings
 date: "1809"
 uid: blk-exhibition-advertisement
 weight: 4
-description: "The handbill for Blake's one-man show at 28 Broad Street: Nelson and Pitt, the Canterbury Pilgrims, and a defence of fresco — \"Fit audience find tho' few\" — after the Royal Academy and the British Institution had refused his water-colours."
+description: "Exhibition of Paintings in Fresco, Poetical and Historical Inventions, by Wm. Blake — \"Fit audience find tho' few\"."
 source: "Printed 1809; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain."
 ---
 
@@ -25,7 +25,7 @@ Two Pictures, representing grand Apotheoses of Nelson and Pitt, with variety of 
 
 No. 28, Corner of Broad Street, Golden-Square.
 
-*"Fit audience find tho' few" — Milton.*
+"Fit audience find tho' few" — Milton.
 
 Admittance 2s. 6d. each Person, a descriptive Catalogue included.
 

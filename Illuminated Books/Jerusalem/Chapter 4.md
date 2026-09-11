@@ -12,8 +12,6 @@ children_style: grid
 
 ![[jerusalem-076.jpg|Plate 76]]
 
-*[Illustration only — no text on this plate.]*
-
 ##### Plate 77
 
 ![[jerusalem-077.jpg|Plate 77]]
@@ -91,7 +89,7 @@ Our souls exult & Londons towers,
 Recieve the Lamb of God to dwell  
 In Englands green & pleasant bowers.
 
-*[Incised in the bottom corners of the plate, partly illegible: "The Real Self[hood] ... in the ... is the Imagination Divine ... Man" — the fourth segment reconstructed by G. E. Bentley, Jr.]*
+<!-- ocr_note: incised in the bottom corners of the plate, partly illegible: "The Real Self[hood] ... in the ... is the Imagination Divine ... Man" — the fourth segment reconstructed by G. E. Bentley, Jr. -->
 
 ##### Plate 78
 
@@ -1336,5 +1334,3 @@ of Jerusalem
 ##### Plate 100
 
 ![[jerusalem-100.jpg|Plate 100]]
-
-*[Illustration only — no text on this plate.]*

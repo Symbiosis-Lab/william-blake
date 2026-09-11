@@ -2,20 +2,17 @@
 title: Frescos
 date: "1809"
 uid: "743285c1"
-description: Blake's tempera paintings, 1795–1827, which he called "Fresco" or "Portable Fresco" — "water Colours... Being the Ancient Method of Fresco Painting Restored," in the words of his own 1809 catalogue title-page.
+description: This Picture also is a proof of the power of colours unsullied with oil or with any cloggy vehicle.
 cover: "fresco-ghost_of_a_flea.jpg"
-source: "Verbatim from Blake's *A Descriptive Catalogue of Pictures, Poetical and Historical Inventions, Painted by William Blake, in Water Colours, Being the Ancient Method of Fresco Painting Restored* (London: D. N. Shury, 1809). Holdings: Tate; Glasgow Life Museums (Pollok House, Stirling Maxwell Collection); Victoria and Albert Museum; Manchester Art Gallery. Public domain."
+source: "Title-page, *A Descriptive Catalogue of Pictures, Poetical and Historical Inventions, Painted by William Blake, in Water Colours, Being the Ancient Method of Fresco Painting Restored* (London: D. N. Shury, 1809), quoted verbatim in the first entry below; tempera paintings, 1795–1827, which he called \"Fresco\" or \"Portable Fresco.\" Adam Naming the Beasts and Eve Naming the Birds, signed and dated 1810, painted for Thomas Butts, have no catalogue entry; The Ghost of a Flea, c. 1819-20, descends from the Visionary Heads drawn for John Varley and has no catalogue entry; the Milton head is one of eighteen Heads of the Poets painted c. 1800-1803 for the library of Hayley's Turret House at Felpham, discussed but not individually named in Blake's letters from Felpham to Hayley. Holdings: Tate; Glasgow Life Museums (Pollok House, Stirling Maxwell Collection); Victoria and Albert Museum; Manchester Art Gallery. Public domain."
+ocr_note: "Three of the Tate-held originals are represented only through their Wikimedia Commons mirrors, each carrying Commons's own Public Domain Mark 1.0 tag (Commons hosts the photographic reproduction as PD-Art of a public-domain painting, independently of any reuse terms Tate states on its own site): `fresco-bathsheba.jpg` is Commons *File:William Blake - Bathsheba at the Bath.jpg*; `fresco-pitt_behemoth.jpg` is Commons *File:Blake Pitt Behemoth.jpg*; `fresco-ghost_of_a_flea.jpg` is Commons *File:William Blake - The Ghost of a Flea - Google Art Project.jpg*. None of the three were drawn from tate.org.uk."
 ---
 
 ![[fresco-bathsheba.jpg|Bathsheba at the Bath, Tate Britain]]
 
-## On the medium
-
 From the title-page of *A Descriptive Catalogue*, 1809:
 
 > A Descriptive Catalogue of Pictures, Poetical and Historical Inventions, Painted by William Blake, in Water Colours, Being the Ancient Method of Fresco Painting Restored: and Drawings, For Public Inspection, and for Sale by Private Contract.
-
-## Against oil
 
 From the entry for *The spiritual form of Pitt, guiding Behemoth* — Number II of the 1809 Catalogue — where the medium is taken up at length:
 
@@ -27,7 +24,7 @@ And further, in the same entry:
 
 > All Frescos are as high finished as miniatures or enamels, and they are known to be unchangeable; but oil being a body itself, will drink or absorb very little colour, and changing yellow, and at length brown, destroys every colour it is mixed with, especially every delicate colour. It turns every permanent white to a yellow and brown putty, and has compelled the use of that destroyer of colour, white lead; which, when its protecting oil is evaporated, will become lead again. This is an awful thing to say to oil Painters; they may call it madness, but it is true. All the genuine old little Pictures, called Cabinet Pictures, are in fresco and not in oil, Oil was not used except by blundering ignorance, till after Vandyke's time, but the art of fresco painting being lost, oil became a fetter to genius, and a dungeon to art. But one convincing proof among many others, that these assertions are true is, that real gold and silver cannot be used with oil, as they are in all the old pictures and in Mr. B.'s frescos.
 
-## On *The Bard, from Gray*
+## The Bard, from Gray
 
 From Number IV of the 1809 Catalogue:
 
@@ -46,7 +43,7 @@ And further:
 
 > The execution of this picture is also in Water Colours, or Fresco.
 
-## On *Satan calling up his Legions*
+## Satan calling up his Legions
 
 ![[fresco-satan_legions.jpg|Satan Calling Up His Legions, Victoria and Albert Museum]]
 
@@ -66,21 +63,13 @@ In the same entry, on the demons that Blake holds responsible for the corruption
 
 ![[fresco-eve.jpg|Eve Naming the Birds, Pollok House]]
 
-Blake left no public catalogue entry for these Pollok House panels (signed and dated 1810, both tempera on canvas, painted for Thomas Butts). What he left of his method applies to them as to all his Frescos — see the Pitt-Behemoth passages above.
-
 ## The Ghost of a Flea
 
 ![[fresco-ghost_of_a_flea.jpg|The Ghost of a Flea, Tate Britain]]
 
-Tate N05889; tempera and gold on mahogany, c. 1819–20. Painted late, the panel descends from the Visionary Heads drawn for John Varley. No catalogue entry by Blake survives.
-
-## Head of John Milton
+## John Milton
 
 ![[fresco-milton_head.jpg|John Milton, from Heads of the Poets, Manchester Art Gallery]]
-
-One of eighteen *Heads of the Poets* painted in tempera on canvas, c. 1800–1803, for the library of Hayley's Turret House at Felpham. Manchester Art Gallery (1885.3). Blake's letters from Felpham to Hayley discuss the commission but the surviving correspondence does not single out the Milton head.
-
-## Per-file attribution
 
 | File | Subject | Holding institution | Medium |
 |------|---------|---------------------|--------|
@@ -93,5 +82,3 @@ One of eighteen *Heads of the Poets* painted in tempera on canvas, c. 1800–180
 | `fresco-milton_head.jpg` | John Milton, from *Heads of the Poets* | Manchester Art Gallery (1885.3) | tempera on canvas, c. 1800–1803 |
 
 Public domain — Blake d. 1827. Image files sourced via Wikimedia Commons mirroring the named institutional originals. Text verbatim from Blake's *A Descriptive Catalogue* (London, 1809).
-
-The three Tate-held originals above are represented here only through their Wikimedia Commons mirrors, each carrying Commons's own Public Domain Mark 1.0 tag (Commons hosts the photographic reproduction as PD-Art of a public-domain painting, independently of any reuse terms Tate states on its own site): `fresco-bathsheba.jpg` is Commons *File:William Blake - Bathsheba at the Bath.jpg*; `fresco-pitt_behemoth.jpg` is Commons *File:Blake Pitt Behemoth.jpg*; `fresco-ghost_of_a_flea.jpg` is Commons *File:William Blake - The Ghost of a Flea - Google Art Project.jpg*. None of the three were drawn from tate.org.uk.

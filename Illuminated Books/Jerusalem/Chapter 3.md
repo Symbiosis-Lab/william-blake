@@ -12,8 +12,6 @@ children_style: grid
 
 ![[jerusalem-051.jpg|Plate 51]]
 
-*[Illustration only — no text on this plate.]*
-
 ##### Plate 52
 
 ![[jerusalem-052.jpg|Plate 52]]

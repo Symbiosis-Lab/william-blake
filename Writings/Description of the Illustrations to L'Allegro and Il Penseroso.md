@@ -3,12 +3,10 @@ title: "Description of the Illustrations to L'Allegro and Il Penseroso"
 date: "1816"
 uid: blk-allegro-penseroso-desc
 weight: 9
-description: Blake's own numbered notes on the twelve watercolours he made for Thomas Butts, each keyed to the lines of Milton it illustrates — Mirth and Melancholy, the Lark as an angel, the Goblin fleeing crop-full at cock-crow.
+description: "The Lark is an Angel on the Wing. Dull Night starts from his Watch Tower on a Cloud."
 source: "Written c. 1816, accompanying a set of watercolours made for Thomas Butts; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain. Keynes's own heading dates the manuscript \"about 1810\"; this site follows the later date now generally given to the Butts set."
-ocr_note: "Design 7, introducing the Il Penseroso series on the pattern of Design 1 for L'Allegro, is numbered by inference from that pattern and from the continuous 1–10 numbering long used for this set; the source prints the figure faintly or not at all at the head of that paragraph."
+ocr_note: "Design 7, introducing the Il Penseroso series on the pattern of Design 1 for L'Allegro, is numbered by inference from that pattern and from the continuous 1–10 numbering long used for this set; the source prints the figure faintly or not at all at the head of that paragraph. The last two designs, a \"Conclusion\" to each poem, have no descriptive note and are left undescribed; the watercolours themselves are on [[Illustrations to Milton]]."
 ---
-
-*Blake made twelve watercolours illustrating Milton's companion poems for Thomas Butts, and wrote a short descriptive note for each of the first ten — the last two, a "Conclusion" to each poem, are left undescribed. The watercolours themselves are on [[Illustrations to Milton]].*
 
 ## L'Allegro
 

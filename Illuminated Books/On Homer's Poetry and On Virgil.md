@@ -3,11 +3,9 @@ title: "On Homer's Poetry and On Virgil"
 date: "1822"
 uid: blk-homer-virgil
 weight: 17
-description: "Two short plates, engraved together — \"The Classics! it is the Classics, and not Goths nor Monks, that desolate Europe with wars.\""
-source: "Engraved plate, c. 1822; printed in Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 430–432. Public domain."
+description: "The Classics! it is the Classics, and not Goths nor Monks, that desolate Europe with wars."
+source: "Two pieces engraved together on a single plate, c. 1822; printed in Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 430–432. Public domain."
 ---
-
-Blake engraved these two pieces on a single plate, in his illuminated printing, around 1822.
 
 ## On Homer's Poetry
 

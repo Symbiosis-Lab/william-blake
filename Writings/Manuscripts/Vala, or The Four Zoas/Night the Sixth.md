@@ -1,6 +1,6 @@
 ---
 title: Vala — Night the Sixth
-description: Urizen's daughters flee into their rivers, and his long, solitary fall through the Abyss ends in the building of his own fallen world of Science.
+description: "So Urizen arose, & leaning on his spear explor'd his dens."
 date: "1797"
 uid: blk-vala-night-vi
 weight: 6

@@ -2,9 +2,9 @@
 title: Designs to Blair's Grave
 date: "1808"
 uid: "grav1808"
-description: "Thirteen watercolour designs (Butlin 633) for Robert Blair's *The Grave* — twelve illustrative subjects plus a title-page design. The 1808 volume (London: R. H. Cromek) printed twelve plates engraved by Louis Schiavonetti after Blake. Blake's only contribution in his own hand to the printed volume was the dedicatory poem \"To the Queen,\" below."
+description: "The Door of Death is made of Gold, That Mortal Eyes cannot behold;"
 cover: grave-11-deaths-door.jpg
-source: First edition, London, R. H. Cromek, 1808 — designs engraved by Louis Schiavonetti after Blake. Watercolour designs (Butlin 633) held at the National Gallery of Art and dispersed institutional collections; reproductions via Wikimedia Commons. Public domain.
+source: "Thirteen watercolour designs (Butlin 633) for Robert Blair's *The Grave* — twelve illustrative subjects plus a title-page design. First edition, London, R. H. Cromek, 1808 — twelve plates engraved by Louis Schiavonetti after Blake; the dedicatory poem \"To the Queen\" below was his only contribution in his own hand to the printed volume. Watercolour designs (Butlin 633) held at the National Gallery of Art and dispersed institutional collections; reproductions via Wikimedia Commons. Public domain."
 ---
 
 > The Door of Death is made of Gold,  

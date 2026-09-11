@@ -2,7 +2,7 @@
 title: To John Linnell
 uid: "f9fa044c"
 date: "1825-11-10"
-description: First mention of the Job plates in the Linnell correspondence — "if you should put on your considering cap ... I have no doubt that the plates would be all the better for it."
+description: "I have, I believe, done nearly all that we agreed on. And if you should put on your considering cap, just as you did last time we met, I have no doubt that the plates would be all the better for it."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 210–211. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Text recovered from 1906 OCR; spacing & date glyphs lightly normalized. Running heads and footnote bodies stripped. Original spelling preserved.
 ---

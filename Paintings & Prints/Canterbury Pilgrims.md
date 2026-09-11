@@ -2,9 +2,9 @@
 title: Canterbury Pilgrims
 date: "1810-10-08"
 uid: "03de7e57"
-description: Chaucer's Canterbury Pilgrims, 1810. Large copperplate engraved by Blake after his own tempera of c. 1808, issued by subscription. The catalogue entry below is Blake's longest single piece of art-prose, written in his own defence after his design was, as he saw it, plagiarised.
+description: Sir Jeffery Chaucer and the nine and twenty Pilgrims on their journey to Canterbury.
 cover: canterbury-canterbury_pilgrims_engraving.jpg
-source: The opening of NUMBER III is quoted from Blake's *A Descriptive Catalogue of Pictures* (1809); see [[A Descriptive Catalogue]] for the rest, quoted there in full from the 1809 original. The 1810 engraving is held by the British Museum (1856,0209.418), Tate, Yale Center for British Art (B1992.8.10) and the Library of Congress. The tempera (1808) is at Pollok House, Glasgow. Public domain.
+source: "The opening of NUMBER III is quoted from *A Descriptive Catalogue of Pictures* (1809), longest single piece of his art-prose, written in his own defence after the design was, as he saw it, plagiarised; see [[A Descriptive Catalogue]] for the rest, quoted there in full from the 1809 original. The 1810 engraving is held by the British Museum (1856,0209.418), Tate, Yale Center for British Art (B1992.8.10) and the Library of Congress. The tempera (1808) is at Pollok House, Glasgow. Public domain."
 ---
 
 ![[canterbury-canterbury_pilgrims_engraving.jpg|Chaucer's Canterbury Pilgrims (engraving, 1810)]]
@@ -17,11 +17,9 @@ source: The opening of NUMBER III is quoted from Blake's *A Descriptive Catalogu
 
 ![[canterbury-detail_knight_squire.jpg|Detail: the Knight, the Squire, and the Yeoman leading the procession]]
 
-*— A Descriptive Catalogue of Pictures, Number III, 1809.* This is the opening of Blake's longest single piece of art-prose, written in his own defence after his Chaucer design was, as he saw it, plagiarised; it continues in [[A Descriptive Catalogue]].
+— A Descriptive Catalogue of Pictures, Number III, 1809; it continues in [[A Descriptive Catalogue]].
 
 ![[canterbury-canterbury_pilgrims_tempera.jpg|Sir Jeffery Chaucer and the Nine and Twenty Pilgrims (tempera, c. 1808)]]
-
-## Attribution
 
 | File | Subject | Medium | Date | Holding institution |
 |------|---------|--------|------|---------------------|

@@ -3,7 +3,7 @@ title: Prospectus, To the Public
 date: "1793-10-10"
 uid: blk-prospectus-1793
 weight: 7
-description: Blake's declaration of independence as a publisher — a single relief-etched broadside announcing his own illuminated printing, with a price list for ten works.
+description: "This difficulty has been obviated by the Author of the following productions now presented to the Public; who has invented a method of Printing both Letter-press and Engraving in a style more ornamental, uniform, and grand, than any before discovered."
 source: "The relief-etched broadside of 10 October 1793, text as printed in Gilchrist, *Life of William Blake* (London: Macmillan, 1863), vol. 2. Public domain."
 ---
 

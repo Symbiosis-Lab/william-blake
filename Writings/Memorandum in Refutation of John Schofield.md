@@ -3,11 +3,9 @@ title: Memorandum in Refutation of John Schofield
 date: "1803"
 uid: blk-schofield-memo
 weight: 2
-description: Blake's own point-by-point case against the Private who swore he heard him curse the King — "if such a Perjury as this can take effect, any Villain in future may come and drag me and my Wife out of our House."
-source: "Written August 1803; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 2. Public domain."
+description: "if such a Perjury as this can take effect, any Villain in future may come and drag me and my Wife out of our House."
+source: "Written August 1803, drafted to refute John Scholfield's charge of sedition before Blake's trial at Chichester, January 1804, where he was acquitted; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 2. Public domain."
 ---
-
-*In the Felpham garden on 12 August 1803 Blake ordered a soldier, John Scholfield (Blake spells it Schofield), off his ground; the two scuffled in the road outside, and Scholfield swore before the Chichester magistrates that Blake had cursed the King. Blake drafted this memorandum — point by point, witness by witness — to refute the charge before his trial for sedition. He was acquitted in January 1804.*
 
 ## Memorandum in refutation of "The Information and Complaint of John Scholfield, a Private Soldier"
 

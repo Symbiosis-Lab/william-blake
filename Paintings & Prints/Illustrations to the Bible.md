@@ -3,11 +3,9 @@ uid: blk-bible-watercolours
 cover: illustrations-to-the-bible-26-the-great-red-dragon-and-the-woman-clothed-with-the-sun-brooklyn.jpg
 date: "1800"
 title: Illustrations to the Bible
-description: Biblical watercolours and temperas painted from the 1780s to the 1820s, mostly for Thomas Butts; 24 are reproduced here, dispersed among Tate Britain, the British Museum, the Metropolitan Museum of Art, the National Gallery of Art, the Museum of Fine Arts Boston, Harvard Art Museums, the Yale Center for British Art, the Fitzwilliam Museum, the Morgan Library & Museum, the Brooklyn Museum, the Philadelphia Museum of Art, and Petworth House, each via its own public-domain release on Wikimedia Commons.
-source: Wikimedia Commons, reproducing institutional originals, including seven pictures held by Tate Britain and the British Museum restored 2026-09-11 once each one's own Commons record was confirmed "Public domain" with no Commons credit or category pointing upstream to an unusable rights holder. Per-picture institution, accession and licence below; every file carries Commons's own "Public domain" or "CC0" licence tag, independent of any reuse terms the holding institution states on its own site. Public domain.
+description: "The Creation of Eve: \"And She Shall Be Called Woman\""
+source: "Biblical watercolours and temperas painted from the 1780s to the 1820s, mostly for Thomas Butts — a clerk in the office of the Commissary General of Musters, who from around 1799 began buying a picture a week for a decade; other biblical subjects went to other patrons in the same years, among them *The Vision of the Last Judgment* (1808), commissioned by the Countess of Egremont. The set was broken up and sold at auction in 1853. 24 are reproduced here, dispersed among Tate Britain, the British Museum, the Metropolitan Museum of Art, the National Gallery of Art, the Museum of Fine Arts Boston, Harvard Art Museums, the Yale Center for British Art, the Fitzwilliam Museum, the Morgan Library & Museum, the Brooklyn Museum, the Philadelphia Museum of Art, and Petworth House, each via its own public-domain release on Wikimedia Commons. Wikimedia Commons, reproducing institutional originals, including seven pictures held by Tate Britain and the British Museum restored 2026-09-11 once each one's own Commons record was confirmed \"Public domain\" with no Commons credit or category pointing upstream to an unusable rights holder. Per-picture institution, accession and licence below; every file carries Commons's own \"Public domain\" or \"CC0\" licence tag, independent of any reuse terms the holding institution states on its own site. Public domain."
 ---
-
-From around 1799, Thomas Butts — a clerk in the office of the Commissary General of Musters — began buying a picture a week from Blake: small tempera paintings and watercolours, mostly on Biblical subjects, that Blake kept producing for him for a decade. Blake painted other biblical subjects for other patrons in the same years, among them *The Vision of the Last Judgment* (1808), commissioned by the Countess of Egremont. The set was broken up and sold at auction in 1853, and the pictures below are now held across museums in Britain and the United States.
 
 ## Old Testament
 
@@ -62,8 +60,6 @@ From around 1799, Thomas Butts — a clerk in the office of the Commissary Gener
 ![[illustrations-to-the-bible-28-the-four-and-twenty-elders.jpg|The Four and Twenty Elders Casting their Crowns before the Divine Throne, Tate Britain]]
 
 ![[illustrations-to-the-bible-30-the-whore-of-babylon.jpg|The Whore of Babylon, British Museum]]
-
-## Per-picture attribution
 
 | File | Subject | Institution | Accession / catalogue | Licence |
 |------|---------|-------------|------------------------|---------|

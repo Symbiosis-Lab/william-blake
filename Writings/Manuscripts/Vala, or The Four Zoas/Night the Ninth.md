@@ -8,7 +8,7 @@ source: "Geoffrey Keynes, ed., *The Writings of William Blake* vol. II (London: 
 ocr_note: "Keynes prints this Night as a diplomatic transcription showing Blake's own deletions and interlineations in the manuscript; this page gives the text as it stands after revision, silently omitting the canceled readings, running heads and page numbers. It ends, as the manuscript does, at Blake's own subscript; the separate prose notes and alternate draft fragments Keynes appends after it are apparatus, not part of the Night, and are not given here."
 ---
 
-*Being the Last Judgment*
+Being the Last Judgment
 
 And Los & Enitharmon builded Jerusalem, weeping  
 Over the Sepulcher & over the Crucified body  

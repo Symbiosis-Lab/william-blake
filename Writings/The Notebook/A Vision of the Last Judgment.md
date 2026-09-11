@@ -1,6 +1,6 @@
 ---
 title: A Vision of the Last Judgment
-description: Blake's prose meditation on his own painting *A Last Judgment* (now lost), drafted in the Notebook c. 1810. Survives as the principal late prose statement of Blake's aesthetic theory.
+description: "The Last Judgment is not fable, or allegory, but vision. Fable, or allegory, is a totally distinct and inferior kind of poetry."
 date: "1810"
 uid: blk-vision-last-judgment
 weight: 3

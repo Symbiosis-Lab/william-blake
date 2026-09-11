@@ -2,9 +2,9 @@
 title: Illustrations of the Book of Job
 date: "1826-03"
 uid: blk-job
-description: Twenty-two plates engraved by Blake from his own designs at the commission of John Linnell — designed 1823–25, engraved 1825–26, published March 1826. Blake's last completed great work.
+description: Job and his Family
 cover: job-01-job-and-his-family.jpg
-source: Twenty-one plates from the Metropolitan Museum of Art Open Access (CC0) — the Linnell India-paper proof set, Rogers Fund 1917, accession 17.65.1ff. Plate 14 (*When the Morning Stars sang together*) from the Yale Center for British Art via Wikimedia Commons (B1978.43.1516). Public domain.
+source: "Twenty-two plates from designs at the commission of John Linnell — designed 1823–25, engraved 1825–26, published March 1826, his last completed great work. Twenty-one plates from the Metropolitan Museum of Art Open Access (CC0) — the Linnell India-paper proof set, Rogers Fund 1917, accession 17.65.1ff. Plate 14 (*When the Morning Stars sang together*) from the Yale Center for British Art via Wikimedia Commons (B1978.43.1516). Public domain."
 ---
 
 ![[job-00-title-page-illustrations-of-the-book-of-job.jpg|Title Page]]

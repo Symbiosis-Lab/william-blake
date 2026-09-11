@@ -3,15 +3,13 @@ title: Prospectus of the Chaucer Engraving
 date: "1809"
 uid: blk-chaucer-prospectus
 weight: 5
-description: Three successive subscription notices for Blake's engraving of the Canterbury Pilgrims, May 1809 to about 1810 — the same picture pitched three times, at four guineas, then at three, as the subscribers did not come.
+description: "Blake's Chaucer, the Canterbury Pilgrims. The Fresco Picture, representing Chaucer's Characters painted by William Blake, as it is now submitted to the Public."
 source: "Printed May 1809; a draft from the Rossetti MS, written 1809; and a revised prospectus, printed about 1810; all printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain."
 ---
 
-*Blake engraved his own fresco of the Canterbury Pilgrims to compete directly with Stothard's rival print, then being engraved by Schiavonetti for Cromek. He issued three successive prospectuses between May 1809 and about 1810, each time revising the pitch as subscriptions failed to come in.*
-
 ## Prospectus of the Engraving of Chaucer's Canterbury Pilgrims
 
-*Printed, May 1809*
+Printed, May 1809
 
 ### Blake's Chaucer, the Canterbury Pilgrims. The Fresco Picture, representing Chaucer's Characters painted by William Blake, as it is now submitted to the Public
 
@@ -31,7 +29,7 @@ May 15th, 1809.
 
 ## Draft for Prospectus of the Engraving of Chaucer's Canterbury Pilgrims
 
-*From the Rossetti MS, written 1809*
+From the Rossetti MS, written 1809
 
 ### Blake's Chaucer. An Original Engraving by William Blake from his Fresco Painting of Chaucer's Canterbury Pilgrims
 
@@ -56,7 +54,7 @@ The Characters of Chaucer's Pilgrims are the Characters that compose all Ages & 
 
 ## Prospectus of the Engraving of Chaucer's Canterbury Pilgrims
 
-*Printed about 1810*
+Printed about 1810
 
 ### Blake's Chaucer: an Original Engraving by him from his Fresco Painting of Sir Jeffery Chaucer and his Nine and Twenty Pilgrims setting forth from Southwark on their Journey to Canterbury
 

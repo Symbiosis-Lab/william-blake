@@ -6,8 +6,6 @@ description: Away to sweet Felpham, for Heaven is there; The Ladder of Angels de
 source: "Verses signed W. Blake, sent inside Catherine Blake's letter to Mrs Flaxman of 14 September 1800; Archibald G. B. Russell, ed., The Letters of William Blake (Methuen, 1906), pp. 72–74. Public domain."
 ---
 
-*Sent inside Catherine Blake's letter of farewell to Nancy Flaxman, four days before the move to Felpham.*
-
 TO MY DEAR FRIEND, MRS. ANNA FLAXMAN
 
 This song to the flower of Flaxman's joy;  

@@ -1,6 +1,6 @@
 ---
 title: Public Address
-description: Blake's prose statement on engraving, the "Knaves of the Trade," and his engraving of *Chaucer's Canterbury Pilgrims*. Drafted in the Notebook c. 1810. Not engraved or published in Blake's lifetime.
+description: "The originality of this production makes it necessary to say a few words."
 date: "1810"
 uid: blk-public-address
 weight: 2

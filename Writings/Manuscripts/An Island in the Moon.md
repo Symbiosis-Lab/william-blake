@@ -3,15 +3,13 @@ title: An Island in the Moon
 date: "1784"
 uid: blk-island-in-the-moon
 weight: 5
-description: "An unfinished prose satire on Blake's own circle of acquaintance — three philosophers, a houseful of squabbling eccentrics, and the first drafts of three Songs of Innocence, sung as drinking songs by characters called Quid the Cynic and Tilly Lally."
+description: "In the Moon, is a certain Island near by a mighty continent, which small island seems to have some affinity to England."
 source: "Manuscript, c. 1784, never published in Blake's lifetime. Text from Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 1, cross-read against the Wikisource diplomatic transcription (en.wikisource.org/wiki/An_Island_in_the_Moon) to resolve OCR garbling. Public domain."
-ocr_note: "Manuscript deletions and false starts, which Keynes and Wikisource both mark editorially, are omitted here, leaving Blake's final reading. A handful of words garbled past sense in Keynes's OCR (\"Ohrascology\" for \"Phraseology\" among them) are corrected against the Wikisource transcription of the same manuscript."
+ocr_note: "Manuscript deletions and false starts, which Keynes and Wikisource both mark editorially, are omitted here, leaving Blake's final reading. A handful of words garbled past sense in Keynes's OCR (\"Ohrascology\" for \"Phraseology\" among them) are corrected against the Wikisource transcription of the same manuscript. The songs sung by Mrs. Nannicantipot, and by Obtuse Angle and Quid, are the first drafts of \"Holy Thursday,\" the \"Nurse's Song,\" and \"The Little Boy Lost,\" later rewritten for Songs of Innocence; after the song sung by Sipsop, a leaf or more of the manuscript is missing."
 children_style: list
 ---
 
 <!-- allow-hard-wrap -->
-
-Blake's narrator drops the reader, without introduction, into an island "near by a mighty continent" that resembles England so closely its people speak the same language — a thin disguise for a satire on his own London circle of artists, collectors and eccentrics, ten years before he engraved his first illuminated book. Eleven short chapters of talk, song and interruption follow, breaking off mid-scene. Three of the drinking-songs sung in the last chapter are first drafts of poems Blake rewrote for Songs of Innocence: "Holy Thursday," the nurse's song that became "Nurse's Song," and "The Little Boy Lost."
 
 ## Chapter I
 
@@ -612,8 +610,6 @@ Or like harmonious thunderings the seats of heav'n among.
 Beneath them sit the rev'rend men, the guardians of the poor;
 Then cherish pity lest you drive an angel from your door.
 
-*This is the first draft of "Holy Thursday," rewritten for Songs of Innocence.*
-
 After this they all sat silent for a quarter of an hour, & Mrs. Nannicantipot said, "It puts me in mind of my mother's song:
 
 When the tongues of children are heard on the green,
@@ -636,8 +632,6 @@ And then go home to bed.'
 The little ones leaped, & shouted, & laugh'd,
 And all the hills ecchoed."
 
-*This is the first draft of the "Nurse's Song," rewritten for Songs of Innocence.*
-
 Then sung Quid:
 
 O father, father, where are you going?
@@ -649,8 +643,6 @@ The night it was dark & no father was there,
 And the child was wet with dew.
 The mire was deep, & the child did weep,
 And away the vapour flew.
-
-*This is the first draft of "The Little Boy Lost," rewritten for Songs of Innocence.*
 
 Here nobody could sing any longer, till Tilly Lally pluck'd up a spirit, & he sung:
 
@@ -725,8 +717,6 @@ Thro' the clouds of smoke he makes his way,
 And the shout of his thousands fills his heart with rejoicing & victory:
 And the shout of his thousands fills his heart with rejoicing & victory.
 Victory! Victory! 'twas William, the prince of Orange, —
-
-*Here a leaf, or more, is missing.*
 
 "—thus Illuminating the Manuscript."
 

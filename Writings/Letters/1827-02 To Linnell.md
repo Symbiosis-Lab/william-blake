@@ -2,7 +2,7 @@
 title: To John Linnell
 uid: "4d8f02c7"
 date: "1827-02"
-description: Fear overtakes him at the thought of removing house — "intellectual peculiarity, that must be myself alone shut up in myself, or reduced to nothing."
+description: "I have thought and thought of the removal. I cannot get my mind out of a state of terrible fear at such a step."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 218–220. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Russell gives only "February 1827," no day. Running heads, footnote numerals and footnote bodies stripped; hyphenated line-breaks rejoined.
 ---

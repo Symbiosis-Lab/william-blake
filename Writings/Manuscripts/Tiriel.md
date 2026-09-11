@@ -1,6 +1,6 @@
 ---
 title: Tiriel
-description: A manuscript narrative poem, c. 1788–89 — the earliest of Blake's longer poems to survive, and the first to use the cast of characters (Har, Heva, Mnetha, Ijim, Zazel) he carried into the later prophetic books. Never engraved or published.
+description: "And aged Tiriel stood before the gates of his beautiful palace / With Myratana, once the Queen of all the western plains"
 date: "1789"
 uid: blk-tiriel
 weight: 1

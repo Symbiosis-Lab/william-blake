@@ -1,6 +1,6 @@
 ---
 title: Vala — Night the Fifth
-description: Urizen's daughters flee him in the flood, Los chains the new-born Orc in the chain of Jealousy, and Urizen laments his ruined kingdom.
+description: "Infected, Mad, he danc'd on his mountains high & dark as heaven, / Now fix'd into one stedfast bulk his features stonify"
 date: "1797"
 uid: blk-vala-night-v
 weight: 5

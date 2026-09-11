@@ -2,7 +2,7 @@
 uid: blk-songs-innocence
 title: Songs of Innocence
 cover: songs-of-innocence-01-frontispiece.jpg
-description: Blake's 1789 book, engraved and hand-coloured, nineteen songs on twenty-seven plates.
+description: Piping down the valleys wild, / Piping songs of pleasant glee.
 date: "1789"
 weight: 1
 children_style: grid

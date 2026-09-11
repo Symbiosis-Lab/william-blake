@@ -7,8 +7,6 @@ source: "Text: John Sampson, ed., The Poetical Works of William Blake (Oxford, 1
 children_style: grid
 ---
 
-*The five plates of the only complete copy are at the British Museum, whose images are not free to reuse; the text is given here without them.*
-
 
 
 

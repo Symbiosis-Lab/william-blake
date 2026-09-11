@@ -3,8 +3,8 @@ uid: blk-color-prints
 cover: the-large-colour-prints-newton.jpg
 date: "1795"
 title: The Large Colour Prints
-description: "Twelve large colour-printed drawings of 1795, of which the ten with a public-domain reproduction are shown; Lamech and his Two Wives and The House of Death have none."
-source: Wikimedia Commons, reproducing institutional originals at Tate Britain, the Fitzwilliam Museum (Cambridge), the Metropolitan Museum of Art, the J. Paul Getty Museum, and the National Gallery of Art, Washington. Per-file attribution below. Public domain, except the two files flagged in the provenance note as unresolved Tate stock photos.
+description: Elohim Creating Adam
+source: "Twelve large colour-printed drawings of 1795, of which the ten with a public-domain reproduction are shown; Lamech and his Two Wives and The House of Death have none. Wikimedia Commons, reproducing institutional originals at Tate Britain, the Fitzwilliam Museum (Cambridge), the Metropolitan Museum of Art, the J. Paul Getty Museum, and the National Gallery of Art, Washington. Per-file attribution below. Public domain, except the two files flagged in the provenance note as unresolved Tate stock photos."
 ---
 
 Twelve large colour-printed drawings, 1795.
@@ -28,8 +28,6 @@ Twelve large colour-printed drawings, 1795.
 ![[the-large-colour-prints-good.jpg|The Good and Evil Angels]]
 
 ![[the-large-colour-prints-christ_appearing.jpg|Christ Appearing to the Apostles]]
-
-## Per-file attribution
 
 | File | Subject | Holding institution | Medium |
 |------|---------|---------------------|--------|

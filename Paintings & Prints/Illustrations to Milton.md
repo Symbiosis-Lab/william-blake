@@ -131,61 +131,61 @@ Twelve watercolours for Thomas Butts illustrating Milton's paired poems, now at 
 
 > These personifications are all brought together in the First design, Surrounding the Principal Figure which is Mirth herself.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-02-night-startled-by-the-lark.jpg|Night Startled by the Lark, Morgan Library & Museum]]
 
 > The Lark is an Angel on the Wing. Dull Night starts from his Watch Tower on a Cloud. The Dawn with her Dappled Horses arises above the Earth. The Earth beneath awakes at the Lark's Voice.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-03-the-sun-at-his-eastern-gate.jpg|The Sun at His Eastern Gate, Morgan Library & Museum]]
 
 > The Great Sun is represented clothed in Flames, Surrounded by the Clouds in their Liveries, in their various Offices at the Eastern Gate; beneath, in Small Figures, Milton walking by Elms on Hillocks green, The Plowman, The Milkmaid, The Mower whetting his Scythe, & The Shepherd & his Lass under a Hawthorn in the Dale.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-04-a-sunshine-holiday.jpg|A Sunshine Holiday, Morgan Library & Museum]]
 
 > Mountains, Clouds, Rivers, Trees appear Humanized on the Sunshine Holiday. The Church Steeple with its merry bells. The Clouds arise from the bosoms of Mountains, While Two Angels sound their Trumpets in the Heavens to announce the Sunshine Holiday.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-05-the-goblin.jpg|The Goblin, Morgan Library & Museum]]
 
 > The Goblin, crop full, flings out of doors from his Laborious task, dropping his Flail & Cream bowl, yawning & stretching, vanishes into the Sky, in which is seen Queen Mab Eating Junkets. The Sports of the Fairies are seen thro' the Cottage where "She" lays in Bed "pinch'd & pull'd" by Fairies as they dance on the Bed, the Ceiling, & the Floor, & a Ghost pulls the Bed Clothes at her Feet. "He" is seen following the Friars Lantern towards the Convent.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-06-the-youthful-poets-dream.jpg|The Youthful Poet's Dream, Morgan Library & Museum]]
 
 > The youthful Poet, sleeping on a bank by the Haunted Stream by Sun Set, sees in his dream the more bright Sun of Imagination under the auspices of Shakespeare & Johnson, in which is Hymen at a Marriage & the Antique Pageantry attending it.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-07-melancholy.jpg|Melancholy, Morgan Library & Museum]]
 
 > These Personifications are all brought together in this design, surrounding the Principal Figure Who is Melancholy herself.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-08-the-wandering-moon.jpg|The Wandering Moon, Morgan Library & Museum]]
 
 > Milton, in his Character of a Student at Cambridge, Sees the Moon terrified as one led astray in the midst of her path thro' heaven. The distant Steeple seen across a wide water indicates the sound of the Curfew Bell.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-09-the-spirit-of-plato.jpg|The Spirit of Plato, Morgan Library & Museum]]
 
 > The Spirit of Plato unfolds his Worlds to Milton in Contemplation. The Three destinies sit on the Circles of Plato's Heavens, weaving the Thread of Mortal Life; these Heavens are Venus, Jupiter & Mars. Hermes flies before as attending on the Heaven of Jupiter; the Great Bear is seen in the sky beneath Hermes, & The Spirits of Fire, Air, Water & Earth Surround Milton's Chair.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-10-the-sun-in-his-wrath.jpg|The Sun in His Wrath, Morgan Library & Museum]]
 
 > Milton led by Melancholy into the Groves away from the Sun's flaming Beams, who is seen in the Heavens throwing his darts & flames of fire. The Spirits of the Trees on each side are seen under the domination of Insects raised by the Sun's heat.
 
-*Blake's description, printed in Keynes 1925, vol. 3.*
+— his description, printed in Keynes 1925, vol. 3.
 
 ![[milton-allegro-penseroso-11-miltons-mysterious-dream.jpg|Milton's Mysterious Dream, Morgan Library & Museum]]
 

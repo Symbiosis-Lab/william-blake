@@ -2,7 +2,7 @@
 title: To Dawson Turner
 uid: l18180609
 date: "1818-06-09"
-description: Blake's own catalogue and price-list of the illuminated books, printed "without the writing" for general sale.
+description: "I send you a list of the different works you have done me the honour to inquire after. They are unprofitable enough to me, though expensive to the buyer."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 207–208. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Text recovered from 1906 OCR; the price table reflowed into a markdown table. Running heads and footnote bodies stripped.
 ---

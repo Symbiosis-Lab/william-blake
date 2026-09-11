@@ -4,14 +4,14 @@ date: "1809"
 uid: "7ac3a83c"
 cover: "a-descriptive-catalogue-jacobs_ladder.jpg"
 weight: 1
-description: Pictures, Poetical and Historical Inventions — the catalogue of his 1809 exhibition at 28 Broad Street.
+description: "Poetical and Historical Inventions, painted by William Blake in water-colours — the ancient method of Fresco Painting Restored."
 source: "A Descriptive Catalogue of Pictures, Poetical and Historical Inventions (London: D. N. Shury, 1809). Public domain."
 ocr_note: "Two OCR letter-misreadings corrected against the printed text — \"awful things\" to \"awful thing\" (Number II) and \"this l[i]ne\" to \"this line\" (Number XV). A paragraph split by a page turn after \"Mr.\" (before Number XVI) has been rejoined, sentence-ending periods lost to the OCR are restored after \"Towers\" (Number II) and after \"Drawing\" (Number XVI), and the quoted Chaucer and Gray verse is given the line breaks the OCR collapsed into running prose. Several more page-turn losses have since been repaired: the Monk's-tragedy quotation (Number III) was bleeding into the following prose sentence across the blockquote boundary and has been rejoined as prose after the quote closes; sentence-ending periods and paragraph breaks lost to page turns are restored after \"Newton\" (Number VI), after the second \"Picture\" (Number IX), and after \"Drawing\" (Number XIV); and the Ruth entry's paragraph opening (Number XV) had a stray quotation mark and an OCR fragment (\"/a\") from the page-turn, both removed."
 ---
 
 ## A Descriptive Catalogue of Pictures
 
-*Poetical and Historical Inventions, painted by William Blake in water-colours — the ancient method of Fresco Painting Restored.*
+Poetical and Historical Inventions, painted by William Blake in water-colours — the ancient method of Fresco Painting Restored.
 
 THE eye that can prefer the Colouring of Titian and Rubens to that of Michael Angelo and Rafael, ought to be modest and to doubt its own powers. Connoisseurs talk as if Rafael and Michael Angelo had never seen the colouring of Titian or Correggio: They ought to know that Correggio was born two years before Michael Angelo, and Titian but four years after. Both Rafael and Michael Angelo knew the Venetian, and contemned and rejected all he did with the utmost disdain, as that which is fabricated for the purpose to destroy art. Mr. B. appeals to the Public, from the judgment of those narrow blinking eyes, that have too long governed art in a dark corner. The eyes of stupid cunning never will be pleased with the work any more than with the look of self-devoting genius. The quarrel of the Florentine with the Venetian is not because he does not understand Drawing, but because he does not understand Colouring. How should he? he who does not know how to draw a hand or a foot, know how to colour it. Colouring does not depend on where the Colours are put, but on where the lights and darks are put, and all depends on Form or Outline. On where that is put; where that is wrong, the Colouring never can be right; and it is always wrong in Titian and Correggio, Rubens and Rembrandt. Till we get rid of Titian and Correggio, Rubens and Rembrandt, We never shall equal Rafael and Albert Durer, Michael Angelo, and Julio Romano.
 

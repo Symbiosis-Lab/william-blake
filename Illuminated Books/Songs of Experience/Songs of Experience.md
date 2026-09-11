@@ -3,7 +3,7 @@ date: "1794"
 title: Songs of Experience
 uid: blk-songs-experience
 cover: songs-of-experience-01-frontispiece.jpg
-description: Blake's 1794 companion to Innocence, twenty-seven songs "Shewing the Two Contrary States of the Human Soul."
+description: Shewing the Two Contrary States of the Human Soul.
 weight: 2
 children_style: grid
 series: true

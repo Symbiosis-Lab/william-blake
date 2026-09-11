@@ -2,7 +2,7 @@
 title: To Ozias Humphrey
 uid: "84b1e7c9"
 date: "1808-02-18"
-description: Blake's own description, plan by plan, of his water-colour "Vision of the Last Judgment" made for the Countess of Egremont.
+description: "The design of 'The Last Judgment,' which I have completed, by your recommendation, for the Countess of Egremont, it is necessary to give some account of."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 198–203. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Running heads, footnote numerals and footnote bodies stripped; hyphenated line-breaks rejoined.
 ---
