@@ -1,8 +1,10 @@
 ---
 title: Illustrations to Dante
-date: 1824-07-01
+date: 1824-10
 uid: dant1827
 cover: "illustrations-to-dante-circle-of-the-lustful-whirlwind-of-lovers.jpg"
+description: 102 watercolour designs and seven engravings for Dante's Divine Comedy, begun October 1824 at John Linnell's commission and unfinished at Blake's death in August 1827; the seven plates were published by Linnell in 1838.
+source: John Linnell commission, 1824. Watercolours dispersed among Tate, the Fogg Art Museum (Harvard), the Ashmolean, the Fitzwilliam, and other collections; the seven engravings at the National Gallery of Art, Washington, the British Museum, and the Yale Center for British Art. Public domain.
 ---
 
 ![[illustrations-to-dante-mission-of-virgil.jpg|The Mission of Virgil]]

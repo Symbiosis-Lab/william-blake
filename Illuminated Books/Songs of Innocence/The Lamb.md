@@ -1,8 +1,11 @@
 ---
 title: The Lamb
-date: 1789-09-01
+date: "1789"
 uid: blk-songs-inn-lamb
 cover: "songs-of-innocence-07-the-lamb.jpg"
+description: Little Lamb who made thee / Dost thou know who made thee.
+weight: 4
+source: Text after the engraved plate (Songs of Innocence, 1789), preserving Blake's spelling and lineation. Public domain.
 ---
 
 ![[songs-of-innocence-07-the-lamb.jpg]]

@@ -1,8 +1,11 @@
 ---
 title: London
-date: 1794-07-01
+date: "1794"
 uid: blk-songs-exp-london
 cover: "songs-of-experience-19-london.jpg"
+description: I wander thro' each charter'd street, / Near where the charter'd Thames does flow.
+weight: 18
+source: Text after the engraved plate, Metropolitan Museum of Art, Copy Y (Songs of Experience, 1794). CC0. Public domain.
 ---
 
 ![[songs-of-experience-19-london.jpg]]

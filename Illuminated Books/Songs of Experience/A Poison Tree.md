@@ -1,8 +1,11 @@
 ---
 title: A Poison Tree
-date: 1794-07-01
+date: "1794"
 uid: blk-songs-exp-poison-tree
 cover: "songs-of-experience-22-a-poison-tree.jpg"
+description: I was angry with my friend; / I told my wrath, my wrath did end.
+weight: 21
+source: Text after the engraved plate, Metropolitan Museum of Art, Copy Y (Songs of Experience, 1794). CC0. Public domain.
 ---
 
 ![[songs-of-experience-22-a-poison-tree.jpg]]

@@ -1,8 +1,11 @@
 ---
 title: Holy Thursday
-date: 1789-09-01
+date: "1789"
 uid: blk-songs-inn-holy-thursday
 cover: "songs-of-innocence-18-holy-thursday.jpg"
+description: Twas on a Holy Thursday their innocent faces clean / The children walking two & two in red & blue & green.
+weight: 13
+source: Text after the engraved plate (Songs of Innocence, 1789), preserving Blake's spelling and lineation. Public domain.
 ---
 
 ![[songs-of-innocence-18-holy-thursday.jpg]]

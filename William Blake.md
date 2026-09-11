@@ -1,6 +1,10 @@
 ---
 uid: 8f508658
-description: The selected works of William Blake
+description: William Blake, 1757–1827. The books, the pictures, the letters, in his own words and in the order he made them.
+children_style: summary
+children_depth: all
+children_limit: 24
+sort: date
 ---
 
 I must Create a System, or be enslav'd by another Man's.  

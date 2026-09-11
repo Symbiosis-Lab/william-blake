@@ -8,3 +8,7 @@
 
 # git worktrees (project-local)
 .worktrees/
+
+# moss writes an agent skill file into the vault on every build
+.claude/
+.cursor/

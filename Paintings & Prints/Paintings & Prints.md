@@ -2,6 +2,7 @@
 uid: blk-paintings
 cover: the-large-colour-prints-newton.jpg
 title: Paintings & Prints
+description: Pictures, Poetical and Historical Inventions — colour prints, frescos, watercolours, engravings, and the Visionary Heads.
 children_style: summary
 weight: 2
 ---

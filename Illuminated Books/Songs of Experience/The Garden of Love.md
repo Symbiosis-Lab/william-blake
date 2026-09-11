@@ -1,8 +1,11 @@
 ---
 title: The Garden of Love
-date: 1794-07-01
+date: "1794"
 uid: blk-songs-exp-garden-of-love
 cover: "songs-of-experience-17-the-garden-of-love.jpg"
+description: I went to the Garden of Love, / And saw what I never had seen.
+weight: 16
+source: Text after the engraved plate, Metropolitan Museum of Art, Copy Y (Songs of Experience, 1794). CC0. Public domain.
 ---
 
 ![[songs-of-experience-17-the-garden-of-love.jpg]]

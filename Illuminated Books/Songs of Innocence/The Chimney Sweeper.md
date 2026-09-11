@@ -1,8 +1,11 @@
 ---
 title: The Chimney Sweeper
-date: 1789-09-01
+date: "1789"
 uid: blk-songs-inn-chimney-sweeper
 cover: "songs-of-innocence-11-the-chimney-sweeper.jpg"
+description: When my mother died I was very young, / And my father sold me while yet my tongue.
+weight: 7
+source: Text after the engraved plate (Songs of Innocence, 1789), preserving Blake's spelling and lineation. Public domain.
 ---
 
 ![[songs-of-innocence-11-the-chimney-sweeper.jpg]]

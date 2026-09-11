@@ -1,8 +1,11 @@
 ---
 title: The Clod & the Pebble
-date: 1794-07-01
+date: "1794"
 uid: blk-songs-exp-clod-and-pebble
 cover: "songs-of-experience-05-the-clod-and-the-pebble.jpg"
+description: Love seeketh not Itself to please, / Nor for itself hath any care.
+weight: 3
+source: Text after the engraved plate, Metropolitan Museum of Art, Copy Y (Songs of Experience, 1794). CC0. Public domain.
 ---
 
 ![[songs-of-experience-05-the-clod-and-the-pebble.jpg]]

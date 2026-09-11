@@ -1,8 +1,11 @@
 ---
 title: Infant Joy
-date: 1789-09-01
+date: "1789"
 uid: blk-songs-inn-infant-joy
 cover: "songs-of-innocence-24-infant-joy.jpg"
+description: I have no name / I am but two days old.
+weight: 17
+source: Text after the engraved plate (Songs of Innocence, 1789), preserving Blake's spelling and lineation. Public domain.
 ---
 
 ![[songs-of-innocence-24-infant-joy.jpg]]

@@ -1,8 +1,11 @@
 ---
 title: The Tyger
-date: 1794-07-01
+date: "1794"
 uid: blk-songs-exp-tyger
 cover: "songs-of-experience-15-the-tyger.jpg"
+description: Tyger Tyger, burning bright, / In the forests of the night.
+weight: 12
+source: Text after the engraved plate, Metropolitan Museum of Art, Copy Y (Songs of Experience, 1794). CC0. Public domain.
 ---
 
 ![[songs-of-experience-15-the-tyger.jpg]]

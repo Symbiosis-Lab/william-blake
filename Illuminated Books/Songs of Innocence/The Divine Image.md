@@ -1,8 +1,11 @@
 ---
 title: The Divine Image
-date: 1789-09-01
+date: "1789"
 uid: blk-songs-inn-divine-image
 cover: "songs-of-innocence-17-the-divine-image.jpg"
+description: To Mercy Pity Peace and Love, / All pray in their distress.
+weight: 12
+source: Text after the engraved plate (Songs of Innocence, 1789), preserving Blake's spelling and lineation. Public domain.
 ---
 
 ![[songs-of-innocence-17-the-divine-image.jpg]]
