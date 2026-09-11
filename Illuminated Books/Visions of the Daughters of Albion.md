@@ -1,7 +1,7 @@
 ---
 title: Visions of the Daughters of Albion
-date: "1793-01"
-date_basis: "The title page is dated '1793' with no month; placed at the start of the year per Bentley's Blake Books, which gives no finer date."
+date: "1793-10"
+date_basis: "The title page is dated '1793'; the Prospectus 'To the Public' of 10 October 1793 lists Visions of the Daughters of Albion as already available, so it was in print by October 1793."
 uid: blk-visions
 cover: "visions-of-the-daughters-of-albion-02-title-page.jpg"
 description: "The Eye sees more than the Heart knows. Enslav'd, the Daughters of Albion weep: a trembling lamentation upon their mountains."

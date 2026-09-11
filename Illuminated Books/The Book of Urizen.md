@@ -1,7 +1,7 @@
 ---
 title: The Book of Urizen
-date: "1794-01"
-date_basis: "The title page is dated '1794' with no month; Bentley's Blake Books records no finer date."
+date: "1794-06"
+date_basis: "The title page is dated '1794' with no month; Bentley's Blake Books records the earliest copies as printed in 1794, but no record narrows the month itself, so placed at mid-year by convention."
 uid: blk-urizen
 cover: "urizen-001.jpg"
 description: "Of the primeval Priests assum'd power,"

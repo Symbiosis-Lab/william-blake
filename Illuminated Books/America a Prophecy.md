@@ -1,7 +1,7 @@
 ---
 title: America a Prophecy
-date: "1793-01"
-date_basis: "The title page imprint reads only '1793'; Bentley's Blake Books records no finer date for this Lambeth book."
+date: "1793-10"
+date_basis: "The title page imprint reads '1793'; the Prospectus 'To the Public' of 10 October 1793 lists this book as already available, so it was in print by October 1793."
 uid: blk-america
 cover: "america-02-title-page.jpg"
 description: "The shadowy daughter of Urthona stood before red Orc."

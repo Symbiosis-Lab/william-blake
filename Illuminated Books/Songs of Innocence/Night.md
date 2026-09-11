@@ -1,7 +1,7 @@
 ---
 title: Night
-date: "1789-01"
-date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
+date: "1789-06"
+date_basis: "Songs of Innocence's title page is dated 1789, and Bentley's Blake Books dates the first copies to 1789; no record narrows the month itself, so placed at mid-year by convention."
 uid: blk-songs-inn-night
 cover: "songs-of-innocence-19-night-1.jpg"
 description: The sun descending in the west, / The evening star does shine.

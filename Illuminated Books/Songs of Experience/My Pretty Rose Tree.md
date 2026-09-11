@@ -1,7 +1,7 @@
 ---
 title: My Pretty Rose Tree
-date: "1794-01"
-date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
+date: "1794-06"
+date_basis: "Songs of Experience's title page is dated 1794, its combined first printing with Songs of Innocence is documented to 1794, and the Prospectus 'To the Public' of 10 October 1793 already lists Songs of Experience as available; no record narrows the month itself, so placed at mid-year by convention."
 uid: blk-songs-exp-my-pretty-rose-tree
 cover: "songs-of-experience-16-my-pretty-rose-tree.jpg"
 description: A flower was offerd to me; / Such a flower as May never bore.

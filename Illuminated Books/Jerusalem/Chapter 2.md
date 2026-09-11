@@ -1,7 +1,7 @@
 ---
 title: Chapter 2
-date: "1804-01"
-date_basis: "The title page reads '1804', though Blake continued etching and printing the poem through c. 1820 (Bentley, Blake Books); dated here to the title page's own year, no month being recorded for it."
+date: "1804-06"
+date_basis: "The title page reads '1804', though Bentley's Blake Books dates the first complete copies to c. 1820; no month is recorded, so placed at mid-year by convention within the title-page year."
 uid: 38c39b71
 description: To the Jews. Jerusalem the Emanation of the Giant Albion! Can it be?
 cover: "jerusalem-027.jpg"

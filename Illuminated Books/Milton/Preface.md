@@ -1,7 +1,7 @@
 ---
 title: Preface
-date: "1804-01"
-date_basis: "The title page reads '1804', though Viscomi's printing chronology and Bentley's Blake Books place the book's actual etching and printing across several campaigns into 1811; dated here to the title page's own year, no month being recorded for it."
+date: "1804-06"
+date_basis: "The title page reads '1804', though Viscomi's printing chronology and Bentley's Blake Books place the book's actual etching and printing across several campaigns into c. 1811; no month is recorded, so placed at mid-year by convention within the title-page year."
 uid: a91f9e05
 description: And did those feet in ancient time, walk upon England's mountains green?
 cover: "milton-002.jpg"

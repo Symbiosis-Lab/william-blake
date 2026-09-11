@@ -1,7 +1,7 @@
 ---
 title: The Book of Ahania
-date: "1795-01"
-date_basis: "The colophon reads only '1795'; Bentley's Blake Books records no finer date for this Lambeth book, so it is placed at the start of the year."
+date: "1795-06"
+date_basis: "The colophon reads only '1795'; no record narrows the month further, so placed at mid-year by convention."
 uid: blk-ahania
 cover: "ahania-002.jpg"
 description: Fuzon, on a chariot iron-wing'd, on spiked flames rose; his hot visage flam'd furious.

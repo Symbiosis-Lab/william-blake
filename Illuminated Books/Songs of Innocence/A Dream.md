@@ -1,7 +1,7 @@
 ---
 title: A Dream
-date: "1789-01"
-date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
+date: "1789-06"
+date_basis: "Songs of Innocence's title page is dated 1789, and Bentley's Blake Books dates the first copies to 1789; no record narrows the month itself, so placed at mid-year by convention."
 uid: blk-songs-inn-dream
 cover: "songs-of-innocence-25-a-dream.jpg"
 description: Once a dream did weave a shade, / O'er my Angel-guarded bed.

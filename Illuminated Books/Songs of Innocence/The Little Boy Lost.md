@@ -1,7 +1,7 @@
 ---
 title: The Little Boy Lost
-date: "1789-01"
-date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
+date: "1789-06"
+date_basis: "Songs of Innocence's title page is dated 1789, and Bentley's Blake Books dates the first copies to 1789; no record narrows the month itself, so placed at mid-year by convention."
 uid: blk-songs-inn-little-boy-lost
 cover: "songs-of-innocence-12-the-little-boy-lost.jpg"
 description: Father, father, where are you going / O do not walk so fast.
