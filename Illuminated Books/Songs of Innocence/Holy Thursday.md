@@ -1,6 +1,7 @@
 ---
 title: Holy Thursday
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-holy-thursday
 cover: "songs-of-innocence-18-holy-thursday.jpg"
 description: Twas on a Holy Thursday their innocent faces clean / The children walking two & two in red & blue & green.

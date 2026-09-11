@@ -1,6 +1,7 @@
 ---
 title: The Shepherd
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-shepherd
 cover: "songs-of-innocence-04-the-shepherd.jpg"
 description: How sweet is the Shepherds sweet lot, / From the morn to the evening he strays.

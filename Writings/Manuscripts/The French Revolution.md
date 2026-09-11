@@ -3,7 +3,8 @@ title: The French Revolution
 description: "The dead brood over Europe: the cloud and vision descends over cheerful France; / O cloud well appointed!"
 weight: 2
 uid: blk-french-rev
-date: "1791"
+date: "1791-05"
+date_basis: "Joseph Johnson set the poem in type in 1791 for a publication soon withdrawn; May 1791, amid the Revolution debate Johnson's circle was then engaged with, is the month generally given for the abortive printing."
 source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Oxford University Press, Humphrey Milford, 1913/14), pp. 260–280. Public domain. OCR via Internet Archive aca5924.0001.001.umich.edu."
 ocr_note: Sampson's marginal line-numbering and the broadside's own title-page and "Advertisement" are omitted, leaving the poem itself. Running heads, page numbers, and a handful of printer's signature and footnote-reference marks stripped; wrapped lines rejoined.
 ---

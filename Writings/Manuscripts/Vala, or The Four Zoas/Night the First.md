@@ -1,7 +1,8 @@
 ---
 title: Vala — Night the First
 description: The opening Night of the unpublished manuscript *Vala, or The Four Zoas*, c. 1796–1807.
-date: "1797"
+date: "1797-06"
+date_basis: "The manuscript as a whole is dated only to a span of c. 1796–1807; no month is documented for this Night, so mid-year of the page's own 1797 date is an arbitrary placeholder."
 uid: blk-vala-night-i
 weight: 1
 source: "Edwin John Ellis & W. B. Yeats, eds., *The Works of William Blake* vol. III (London: Bernard Quaritch, 1893), pp. 9–17. Public domain."

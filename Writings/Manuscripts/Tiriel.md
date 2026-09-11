@@ -1,7 +1,8 @@
 ---
 title: Tiriel
 description: "And aged Tiriel stood before the gates of his beautiful palace / With Myratana, once the Queen of all the western plains"
-date: "1789"
+date: "1789-06"
+date_basis: "No month is documented for this manuscript beyond the year 1789; mid-year is an arbitrary placeholder."
 uid: blk-tiriel
 weight: 1
 source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Oxford University Press, Humphrey Milford, 1913/14). Public domain. OCR via Internet Archive aca5924.0001.001.umich.edu."

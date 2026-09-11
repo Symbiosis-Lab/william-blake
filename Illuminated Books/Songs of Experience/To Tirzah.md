@@ -1,6 +1,7 @@
 ---
 title: To Tirzah
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-to-tirzah
 cover: "songs-of-experience-25-to-tirzah.jpg"
 description: Whate'er is Born of Mortal Birth, / Must be consumed with the Earth.

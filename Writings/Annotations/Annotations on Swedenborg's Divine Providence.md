@@ -1,7 +1,8 @@
 ---
 title: Annotations on Swedenborg's Divine Providence
 uid: blk-notes-swedenborg-dp
-date: "1790"
+date: "1790-06"
+date_basis: "No month is documented for these annotations beyond the year 1790; mid-year is an arbitrary placeholder."
 description: "Predestination after this Life is more Abominable than Calvin's."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 1, pp. 176-180. Public domain in the United States (the 1925 edition's US copyright term expired 1 January 2021).
 ocr_note: Running heads and page numbers are removed, and wrapped OCR lines are rejoined into paragraphs. Swedenborg's own sentences, where Keynes prints them, are set in italics immediately before Blake's reply; his numbered section marks (§69, §185 and so on) are Swedenborg's own and are kept because Blake's notes cross-refer to them by number. Blake's spelling and capitals are kept. A few words Blake wrote hastily in pencil and Keynes could only guess at are kept with his own bracketed uncertainty, [day?] and [is] and occu[p]ying, exactly as Keynes printed them.

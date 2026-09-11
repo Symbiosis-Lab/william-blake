@@ -1,6 +1,7 @@
 ---
 uid: blk-auguries
-date: "1807"
+date: "1807-06"
+date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so mid-year is an arbitrary placeholder."
 title: Auguries of Innocence
 weight: 8
 description: From the Pickering Manuscript, c. 1807. "To see a World in a Grain of Sand / And a Heaven in a Wild Flower."

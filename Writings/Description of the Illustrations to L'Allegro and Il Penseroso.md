@@ -1,6 +1,7 @@
 ---
 title: "Description of the Illustrations to L'Allegro and Il Penseroso"
-date: "1816"
+date: "1816-06"
+date_basis: "The source gives only \"c. 1816\" for the Butts watercolour set this text accompanies; no month is documented, so mid-year is an arbitrary placeholder within that range."
 uid: blk-allegro-penseroso-desc
 weight: 9
 description: "The Lark is an Angel on the Wing. Dull Night starts from his Watch Tower on a Cloud."

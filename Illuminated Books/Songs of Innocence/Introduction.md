@@ -1,6 +1,7 @@
 ---
 title: Introduction
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-introduction
 cover: "songs-of-innocence-03-introduction.jpg"
 description: Piping down the valleys wild, / Piping songs of pleasant glee.

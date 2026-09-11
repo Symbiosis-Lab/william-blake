@@ -1,6 +1,7 @@
 ---
 title: "Poems from the Notebook, 1800-1810"
-date: "1800"
+date: "1800-06"
+date_basis: "These poems are dated only to the span 1800–1810 in the page's own title; the page's date field keeps the earlier year, and no month is documented, so mid-year is an arbitrary placeholder."
 uid: blk-notebook-later-poems
 weight: 5
 description: "My Spectre around me night and day / Like a wild beast guards my way;"

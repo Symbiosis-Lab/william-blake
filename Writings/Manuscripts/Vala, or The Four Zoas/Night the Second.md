@@ -1,7 +1,8 @@
 ---
 title: Vala — Night the Second
 description: "Rising upon his Couch of death Albion beheld his sons, turning his Eyes outward to Self, losing the Divine Vision."
-date: "1797"
+date: "1797-06"
+date_basis: "The manuscript as a whole is dated only to a span of c. 1796–1807; no month is documented for this Night, so mid-year of the page's own 1797 date is an arbitrary placeholder."
 uid: blk-vala-night-ii
 weight: 2
 source: "printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 2, pp. 22–36. Public domain."

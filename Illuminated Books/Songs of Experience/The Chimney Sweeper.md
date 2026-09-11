@@ -1,6 +1,7 @@
 ---
 title: The Chimney Sweeper
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-chimney-sweeper
 cover: "songs-of-experience-10-the-chimney-sweeper.jpg"
 description: "A little black thing among the snow: / Crying weep, weep, in notes of woe!"

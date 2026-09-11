@@ -1,7 +1,8 @@
 ---
 title: Annotations on Swedenborg's Divine Love and Divine Wisdom
 uid: blk-notes-swedenborg-dldw
-date: "1789"
+date: "1789-04"
+date_basis: "Blake and his wife attended the New Jerusalem Church's first General Conference in London in April 1789, the documented occasion usually tied to his reading and annotating this Swedenborg volume that year."
 description: "He who Loves feels love descend into him & if he has wisdom may perceive it is from the Poetic Genius, which is the Lord."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 1, pp. 115-129. Public domain in the United States (the 1925 edition's US copyright term expired 1 January 2021).
 ocr_note: Running heads and page numbers are removed, and wrapped OCR lines are rejoined into paragraphs. Swedenborg's own sentences, which Keynes prints in smaller type before Blake's remarks, are set in italics here; Blake's own cross-references to Swedenborg's numbered paragraphs, and Keynes's bracketed page-glosses on them (e.g. "N. 257 [p. 220]"), are kept because Blake's notes depend on them. Blake's spelling and capitals are kept. A handful of broken ligatures left by the scan ("aéts", "Readion" for "Reaction") are silently restored, and one plainly misread word ("Ong" for "One") is corrected. The opening note, written in pencil on the fly-leaf, is badly worn in the original; Keynes marks several words illegible, and a run of stray characters past the point he could read no further is dropped rather than guessed at.

@@ -1,6 +1,7 @@
 ---
 title: America a Prophecy
-date: "1793"
+date: "1793-01"
+date_basis: "The title page imprint reads only '1793'; Bentley's Blake Books records no finer date for this Lambeth book."
 uid: blk-america
 cover: "america-02-title-page.jpg"
 description: "The shadowy daughter of Urthona stood before red Orc."

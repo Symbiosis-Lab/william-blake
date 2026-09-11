@@ -1,6 +1,7 @@
 ---
 title: "On Art and Artists"
-date: "1808"
+date: "1808-06"
+date_basis: "No month is documented for these Notebook epigrams beyond the year 1808; mid-year is an arbitrary placeholder."
 uid: blk-on-art-and-artists
 weight: 7
 description: "When Sir Joshua Reynolds died / All Nature was degraded;"

@@ -1,7 +1,8 @@
 ---
 title: Designs to Blair's Grave
-date: "1808"
+date: "1808-06"
 uid: "grav1808"
+date_basis: "Cromek's first edition of The Grave is dated 1808 on its title page; Bentley's Blake Books places its publication in June 1808."
 description: "The Door of Death is made of Gold, That Mortal Eyes cannot behold;"
 cover: grave-11-deaths-door.jpg
 source: "Thirteen watercolour designs (Butlin 633) for Robert Blair's *The Grave* — twelve illustrative subjects plus a title-page design. First edition, London, R. H. Cromek, 1808 — twelve plates engraved by Louis Schiavonetti after Blake; the dedicatory poem \"To the Queen\" below was his only contribution in his own hand to the printed volume. Watercolour designs (Butlin 633) held at the National Gallery of Art and dispersed institutional collections; reproductions via Wikimedia Commons. Public domain."

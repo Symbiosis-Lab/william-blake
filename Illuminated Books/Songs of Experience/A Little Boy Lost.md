@@ -1,6 +1,7 @@
 ---
 title: A Little Boy Lost
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-little-boy-lost
 cover: "songs-of-experience-23-a-little-boy-lost.jpg"
 description: Nought loves another as itself, / Nor venerates another so.

@@ -1,6 +1,7 @@
 ---
 title: Jerusalem
-date: "1804"
+date: "1804-01"
+date_basis: "The title page reads '1804', though Blake continued etching and printing the poem through c. 1820 (Bentley, Blake Books); dated here to the title page's own year, no month being recorded for it."
 uid: blk-jerusalem
 description: Jerusalem, The Emanation of the Giant Albion, 1804–1820. I give you the end of a golden string.
 cover: "jerusalem-001.jpg"

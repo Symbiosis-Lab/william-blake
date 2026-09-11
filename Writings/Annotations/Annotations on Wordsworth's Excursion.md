@@ -1,7 +1,8 @@
 ---
 title: Annotations on Wordsworth's Excursion
 uid: blk-notes-wordsworth-excursion
-date: "1826"
+date: "1826-06"
+date_basis: "No month is documented for these annotations beyond the year 1826; mid-year is an arbitrary placeholder."
 description: "You shall not bring me down to believe such fitting & fitted. I know better & please your Lordship."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3, pp. 379-380. Public domain (US). OCR via Internet Archive writingsofwillia03blak.
 ocr_note: Keynes notes that Blake also copied out, in his own hand on two separate leaves, the poetical portion of Wordsworth's Preface — the lemmas below are that copied-out verse, not Wordsworth's printed page.

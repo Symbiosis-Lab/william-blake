@@ -1,6 +1,7 @@
 ---
 title: Chapter 1
-date: "1804"
+date: "1804-01"
+date_basis: "The title page reads '1804', though Blake continued etching and printing the poem through c. 1820 (Bentley, Blake Books); dated here to the title page's own year, no month being recorded for it."
 uid: d5a8a25c
 description: Of the Sleep of Ulro! and of the passage through Eternal Death, and of the awaking to Eternal Life.
 cover: "jerusalem-004.jpg"

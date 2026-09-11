@@ -1,7 +1,8 @@
 ---
 title: Annotations on Berkeley's Siris
 uid: blk-notes-berkeley
-date: "1820"
+date: "1820-06"
+date_basis: "No month is documented for these annotations beyond the year 1820; mid-year is an arbitrary placeholder."
 description: "The Whole Bible is fill'd with Imagination & Visions from End to End & not with Moral Virtues; that is the baseness of Plato & the Greeks & all Warriors."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3, pp. 354-356. Public domain (US). OCR via Internet Archive writingsofwillia03blak.
 ocr_note: Two short words the scan could not recover are a Greek phrase Berkeley himself quotes on page 219 of Siris (left here as [Greek, illegible in this scan]) and one stray OCR-mangled page header; both are Keynes's or Berkeley's matter, not Blake's.

@@ -1,6 +1,7 @@
 ---
 title: Laughing Song
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-laughing-song
 cover: "songs-of-innocence-14-laughing-song.jpg"
 description: When the green woods laugh with the voice of joy, / And the dimpling stream runs laughing by.

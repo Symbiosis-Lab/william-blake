@@ -9,7 +9,9 @@ I will not Reason & Compare: my business is to Create.
 
 ![[/|depth:all,covers:only,limit:6,style:grid,sort:date]]
 
-[[Everything|Everything, 1783–1827 →]]
+[[Archive|Archive →]]
+
+---
 
 :::grid 3
 [[Illuminated Books]]

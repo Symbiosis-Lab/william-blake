@@ -1,6 +1,7 @@
 ---
 title: Earth's Answer
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-earths-answer
 cover: "songs-of-experience-04-earths-answer.jpg"
 description: Earth rais'd up her head, / From the darkness dread & drear.

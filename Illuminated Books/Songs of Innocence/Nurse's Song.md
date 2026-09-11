@@ -1,6 +1,7 @@
 ---
 title: Nurse's Song
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-nurses-song
 cover: "songs-of-innocence-23-nurses-song.jpg"
 description: When the voices of children are heard on the green / And laughing is heard on the hill.

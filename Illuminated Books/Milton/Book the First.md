@@ -1,6 +1,7 @@
 ---
 title: Book the First
-date: "1804"
+date: "1804-01"
+date_basis: "The title page reads '1804', though Viscomi's printing chronology and Bentley's Blake Books place the book's actual etching and printing across several campaigns into 1811; dated here to the title page's own year, no month being recorded for it."
 uid: 0fabda6e
 description: Daughters of Beulah! Muses who inspire the Poet's Song, record the journey of immortal Milton thro' your Realms.
 cover: "milton-003.jpg"

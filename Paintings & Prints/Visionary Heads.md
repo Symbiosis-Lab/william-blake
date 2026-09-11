@@ -1,7 +1,8 @@
 ---
 title: Visionary Heads
-date: "1819"
+date: "1819-10"
 uid: "7b3445a6"
+date_basis: "Varley's and Gilchrist's record of the night sittings places the earliest dated sketches in October 1819."
 description: I can't go on, — it is gone! I must wait till it returns.
 cover: visionary-heads-ghost_of_a_flea.jpg
 source: "Sketches made during John Varley's late-night drawing sessions, c. 1819–1825, of historical and visionary figures Varley watched him draw and whose sitting he described aloud as he worked; most famous, *The Ghost of a Flea* (Tate, both pencil sketch and tempera versions). Among the figures drawn during the night sittings, per Varley's and Gilchrist's record — Wat Tyler, the Black Prince, Caractacus, William Wallace, Edward I, Old Tom Parr in his youth, Solomon, Pindar, Corinna the Theban, Lais the Courtesan, the man who built the pyramids, and the man who taught him painting in his dreams — six survive as sketches, reproduced below. Verbatim speech reported by John Varley in *A Treatise on Zodiacal Physiognomy* (1828) and by Alexander Gilchrist in *Life of William Blake* (1880 ed., vol. I, ch. 28, pp. 372–376). Further speech on visions from Henry Crabb Robinson's diary (10 December 1825 and after). The annotations-on-Reynolds passage is from Ellis & Yeats, eds., *The Works of William Blake*, vol. II (Bernard Quaritch, 1893), pp. 318–329. Sheets dispersed: Tate Britain, British Museum, Yale Center for British Art, Edwin Wolf 2nd collection (Philadelphia), and elsewhere; where a sheet is Tate- or British Museum-held, the image file here is its Wikimedia Commons mirror under Commons's own Public Domain Mark / PD-Art tag, not a file drawn from the institution's own site. Public domain — Blake d. 1827."

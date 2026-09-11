@@ -1,7 +1,8 @@
 ---
 uid: blk-job-watercolours
 cover: the-book-of-job-watercolours-01-job-and-his-family.jpg
-date: "1805"
+date: "1805-06"
+date_basis: "The source note dates the Butts set to probably around 1805–1806; no month is recorded, so mid-1805, the earliest year in that range, is an estimate."
 title: "The Book of Job, watercolours"
 description: Job and His Family
 source: "The Book of Job was illustrated twice in watercolour before the plates reproduced on the [[Illustrations of the Book of Job]] page were ever cut. The first set, reproduced below, was made for Thomas Butts, probably around 1805–1806; the second, closely following the first, was drawn in 1821 for John Linnell, who went on to commission the engravings from it. The Linnell set is not reproduced here — it is now dispersed among other collections, including the Fogg Art Museum, Harvard, not the Fitzwilliam — because Wikimedia Commons' copies of it are Blake Archive files, not free enough to use under this site's rules. Wikimedia Commons, reproducing The Morgan Library & Museum's Butts set. Every file carries Commons's own \"Public domain\" licence tag. Public domain."

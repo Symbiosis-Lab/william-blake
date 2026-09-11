@@ -1,6 +1,7 @@
 ---
 title: "For Children, The Gates of Paradise"
-date: "1793"
+date: "1793-01"
+date_basis: "The title page of the 1793 'For Children' issue gives only the year; Bentley's Blake Books records no finer date."
 uid: blk-gates
 cover: "gates-02-title-page.jpg"
 description: Mutual Forgiveness of each vice, such are the Gates of Paradise, against the Accuser's chief desire, who walk'd among the stones of fire.

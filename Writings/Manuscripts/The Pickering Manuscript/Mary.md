@@ -1,7 +1,8 @@
 ---
 title: Mary
 description: From the Pickering Manuscript, c. 1807.
-date: "1807"
+date: "1807-06"
+date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so mid-year is an arbitrary placeholder."
 uid: blk-pickering-mary
 weight: 5
 source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1905), pp. 280–282. Public domain. OCR via Internet Archive cu31924013436013."

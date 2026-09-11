@@ -1,7 +1,8 @@
 ---
 title: Vala — Night the Third
 description: "Now sat the King of Light on high upon his starry throne, and bright Ahania bow'd herself before his splendid feet."
-date: "1797"
+date: "1797-06"
+date_basis: "The manuscript as a whole is dated only to a span of c. 1796–1807; no month is documented for this Night, so mid-year of the page's own 1797 date is an arbitrary placeholder."
 uid: blk-vala-night-iii
 weight: 3
 source: "printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 2, pp. 37–46. Public domain."

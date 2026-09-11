@@ -1,6 +1,7 @@
 ---
 title: On Another's Sorrow
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-on-anothers-sorrow
 cover: "songs-of-innocence-26-on-anothers-sorrow-1.jpg"
 description: Can I see another's woe, / And not be in sorrow too?

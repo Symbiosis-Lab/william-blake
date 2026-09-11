@@ -1,6 +1,7 @@
 ---
 title: Laocoön
-date: "1826"
+date: "1826-01"
+date_basis: "No date appears on the plate itself; Bentley's Blake Books dates the engraving by paper and style evidence to c. 1826–27, placed here at the start of 1826, the earlier bound of that estimate."
 uid: blk-laocoon
 weight: 16
 description: "Without unceasing Practice nothing can be done: Practice is Art. If you leave off you are lost."

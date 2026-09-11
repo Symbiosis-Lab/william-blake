@@ -1,6 +1,7 @@
 ---
 title: The School Boy
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-school-boy
 cover: "songs-of-experience-26-the-school-boy.jpg"
 description: I love to rise in a summer morn, / When the birds sing on every tree.

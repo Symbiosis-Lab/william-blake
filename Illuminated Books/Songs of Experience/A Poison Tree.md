@@ -1,6 +1,7 @@
 ---
 title: A Poison Tree
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-poison-tree
 cover: "songs-of-experience-22-a-poison-tree.jpg"
 description: I was angry with my friend; / I told my wrath, my wrath did end.

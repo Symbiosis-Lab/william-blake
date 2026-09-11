@@ -1,6 +1,7 @@
 ---
 title: "On Friends and Foes"
-date: "1808"
+date: "1808-06"
+date_basis: "No month is documented for these Notebook epigrams beyond the year 1808; mid-year is an arbitrary placeholder."
 uid: blk-on-friends-and-foes
 weight: 8
 description: "Was I angry with Hayley who us'd me so ill, / Or can I be angry with Felpham's old mill?"

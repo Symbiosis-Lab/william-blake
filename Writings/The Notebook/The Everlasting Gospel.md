@@ -1,6 +1,7 @@
 ---
 title: The Everlasting Gospel
-date: "1818"
+date: "1818-06"
+date_basis: "The source gives only \"c. 1818\" for this poem's final-years dating; no month is documented, so mid-year is an arbitrary placeholder."
 uid: blk-everlasting-gospel
 weight: 10
 description: "The Vision of Christ that thou dost see / Is my vision's greatest enemy."

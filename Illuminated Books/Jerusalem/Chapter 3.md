@@ -1,6 +1,7 @@
 ---
 title: Chapter 3
-date: "1804"
+date: "1804-01"
+date_basis: "The title page reads '1804', though Blake continued etching and printing the poem through c. 1820 (Bentley, Blake Books); dated here to the title page's own year, no month being recorded for it."
 uid: 888412d9
 description: Rahab is an Eternal State. To the Deists.
 cover: "jerusalem-052.jpg"

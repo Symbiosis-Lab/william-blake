@@ -1,7 +1,8 @@
 ---
 title: Annotations on Thornton's Lord's Prayer
 uid: blk-notes-thornton
-date: "1827"
+date: "1827-03"
+date_basis: "Thornton's book, which Blake is annotating, was published in 1827; Blake died in August 1827, so these notes fall sometime before then, and early in the year is an arbitrary placeholder within that window."
 description: "Our Father Augustus Ceasar, who art in these thy Substantial Astronomical Telescopic Heavens, Holiness to thy Name or Title, & reverence to thy Shadow."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3, pp. 384-388. Public domain (US). OCR via Internet Archive writingsofwillia03blak.
 ocr_note: Blake's own spelling "Ceasar" for Caesar is kept throughout, as his own. Words and phrases Blake struck through are marked, following Keynes, as "[... del.]"; a handful of single words the scan could not recover are marked [word illegible] as Keynes marks them. At the end of his paraphrase of Thornton's version, Blake adds a separate sentence swearing that the Greek word for "kingdom" (basileia) means "Kingship" and not "Kingdom"; the Greek itself renders as unreadable characters in this scan and is dropped rather than guessed.

@@ -1,7 +1,8 @@
 ---
 title: To the Editor of the Monthly Magazine
 uid: "7b2e9f41"
-date: "1806"
+date: "1806-07"
+date_basis: "Blake's reply to the 25 May review appeared in the Monthly Magazine's issue for July 1806 (vol. 21), the earliest the magazine could print it after the review it answers."
 description: "Every man ought to be a judge of pictures, and every man is so who has not been connoisseured out of his senses."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 190–193. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Russell prints no exact date; the year follows the letter's subject, Fuseli's "Count Ugolino" at the 1806 Royal Academy exhibition and the Bell's Weekly Messenger review of 25th May it answers. Running heads, footnote numerals and footnote bodies stripped; hyphenated line-breaks rejoined.

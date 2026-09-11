@@ -1,6 +1,7 @@
 ---
 title: The Book of Thel
-date: "1789"
+date: "1789-01"
+date_basis: "The title page is dated '1789' with no month; Bentley's Blake Books records no finer date."
 uid: blk-thel
 cover: "the-book-of-thel-02-title-page.jpg"
 children_style: grid

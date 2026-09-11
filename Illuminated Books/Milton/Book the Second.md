@@ -1,6 +1,7 @@
 ---
 title: Book the Second
-date: "1804"
+date: "1804-01"
+date_basis: "The title page reads '1804', though Viscomi's printing chronology and Bentley's Blake Books place the book's actual etching and printing across several campaigns into 1811; dated here to the title page's own year, no month being recorded for it."
 uid: 01dd7333
 description: There is a place where Contraries are equally True. This place is called Beulah.
 cover: "milton-032.jpg"

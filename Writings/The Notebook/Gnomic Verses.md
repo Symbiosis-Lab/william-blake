@@ -1,6 +1,7 @@
 ---
 title: "Gnomic Verses"
-date: "1808"
+date: "1808-06"
+date_basis: "No month is documented for these Notebook epigrams beyond the year 1808; mid-year is an arbitrary placeholder."
 uid: blk-gnomic-verses
 weight: 6
 description: "What is it men in women do require? / The lineaments of gratified desire."

@@ -1,6 +1,7 @@
 ---
 title: Introduction
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-introduction
 cover: "songs-of-experience-03-introduction.jpg"
 description: Hear the voice of the Bard! / Who Present, Past, & Future sees.

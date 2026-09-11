@@ -1,6 +1,7 @@
 ---
 title: Notes on the Illustrations to Dante
-date: "1825"
+date: "1825-06"
+date_basis: "The source gives a 1825–1827 span for these inscriptions; no month is documented, so mid-1825 is an arbitrary placeholder within that range, taken at the earlier end since the Dante commission and watercolours were already under way by then."
 uid: blk-dante-illustration-notes
 weight: 10
 description: "Every thing in Dante's Comedia shews That for Tyrannical Purposes he has made This World the Foundation of All, & the Goddess Nature is his Inspirer & not the Holy Ghost."

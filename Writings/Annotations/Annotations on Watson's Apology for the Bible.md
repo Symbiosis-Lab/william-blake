@@ -1,7 +1,8 @@
 ---
 title: Annotations on Watson's Apology for the Bible
 uid: blk-notes-watson
-date: "1798"
+date: "1798-06"
+date_basis: "The annotation itself gives only \"this year 1798\"; no month is documented, so mid-year is an arbitrary placeholder."
 description: "I have read this Book with attention & find that the Bishop has only hurt Paine's heel while Paine has broken his head."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 2, pp. 152-170. Public domain in the United States (the 1925 edition's US copyright term expired 1 January 2021).
 ocr_note: Running heads and page numbers are removed, and wrapped OCR lines are rejoined into paragraphs. Watson's own sentences, which Keynes prints in smaller type, are set in italics before Blake's reply. Keynes keys most of Blake's notes to Watson's text with bracketed reference numbers rather than printing them side by side; those numbers are Keynes's apparatus, not Blake's words, and are dropped here once each note is matched to its passage. Blake's spelling and capitals are kept; the broken ligature "aédts" is silently restored to "Acts", and the drop-cap first word of the opening note, lost by the scanner to "O defend", is restored to "To defend".

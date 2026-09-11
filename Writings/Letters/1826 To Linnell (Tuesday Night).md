@@ -1,7 +1,8 @@
 ---
 title: To John Linnell
 uid: "6a194e3b"
-date: "1826"
+date: "1826-03"
+date_basis: "Russell places this letter between the 1 February and 19 May 1826 letters and notes it \"seems to belong to the early part of 1826\"; March falls midway between those two fixed dates."
 description: "I can draw as well in bed as up, and perhaps better; but I cannot engrave. I am going on with Dante."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 213–214. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Russell prints no date beyond "Tuesday Night," noting it "seems to belong to the early part of 1826"; placed here between the 1 February and 19 May letters on that evidence. Running heads, footnote numerals and footnote bodies stripped.

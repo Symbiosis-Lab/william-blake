@@ -1,6 +1,7 @@
 ---
 title: Poetical Sketches
-date: "1783"
+date: "1783-01"
+date_basis: "The 1783 private printing carries no month; dated here to the start of the year as Bentley's Blake Books gives no more precise date for the press run arranged by Flaxman and the Reverend Henry Mathew."
 uid: blk-poetical-sketches
 weight: 2
 description: O thou with dewy locks, who lookest down / Thro' the clear windows of the morning, turn

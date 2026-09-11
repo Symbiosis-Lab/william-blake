@@ -1,6 +1,7 @@
 ---
 title: The Garden of Love
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-garden-of-love
 cover: "songs-of-experience-17-the-garden-of-love.jpg"
 description: I went to the Garden of Love, / And saw what I never had seen.

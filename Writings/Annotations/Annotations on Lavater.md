@@ -1,7 +1,8 @@
 ---
 title: Annotations on Lavater
 uid: blk-notes-lavater
-date: "1788"
+date: "1788-06"
+date_basis: "No month is documented for these annotations beyond the year 1788; mid-year is an arbitrary placeholder."
 description: "I say that this Book is written by consultation with Good Spirits, because it is Good, & that the name Lavater is the amulet of those who purify the heart of man."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 1, pp. 85-114. Public domain in the United States (the 1925 edition's US copyright term expired 1 January 2021).
 ocr_note: Running heads and page numbers are removed, and wrapped OCR lines are rejoined into paragraphs. Lavater's own aphorisms, numbered as Lavater himself numbered them and as Keynes prints them in smaller type before Blake's remarks, are set in italics here; a long aphorism is trimmed with an ellipsis to the clauses Blake is visibly answering, never altered in wording. Aphorisms Blake only underlined, with no remark of his own, are omitted. Blake's spelling and capitals are kept. One clause, in his note on no. 309, is exceptionally garbled in the Internet Archive scan; the bracketed reconstruction there is a best guess, not a transcription.

@@ -1,7 +1,8 @@
 ---
 title: Vala — Night the Sixth
 description: "So Urizen arose, & leaning on his spear explor'd his dens."
-date: "1797"
+date: "1797-06"
+date_basis: "The manuscript as a whole is dated only to a span of c. 1796–1807; no month is documented for this Night, so mid-year of the page's own 1797 date is an arbitrary placeholder."
 uid: blk-vala-night-vi
 weight: 6
 source: "Geoffrey Keynes, ed., The Writings of William Blake vol. II (London: Nonesuch Press, 1925), pp. 62–76. Public domain in the United States."

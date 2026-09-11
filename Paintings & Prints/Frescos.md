@@ -1,7 +1,8 @@
 ---
 title: Frescos
-date: "1809"
+date: "1809-05"
 uid: "743285c1"
+date_basis: "The Descriptive Catalogue's title page is dated 1809; it accompanied Blake's one-man exhibition at his brother James's shop, 28 Broad Street, which opened in May 1809."
 description: This Picture also is a proof of the power of colours unsullied with oil or with any cloggy vehicle.
 cover: "fresco-ghost_of_a_flea.jpg"
 source: "Title-page, *A Descriptive Catalogue of Pictures, Poetical and Historical Inventions, Painted by William Blake, in Water Colours, Being the Ancient Method of Fresco Painting Restored* (London: D. N. Shury, 1809), quoted verbatim in the first entry below; tempera paintings, 1795–1827, which he called \"Fresco\" or \"Portable Fresco.\" Adam Naming the Beasts and Eve Naming the Birds, signed and dated 1810, painted for Thomas Butts, have no catalogue entry; The Ghost of a Flea, c. 1819-20, descends from the Visionary Heads drawn for John Varley and has no catalogue entry; the Milton head is one of eighteen Heads of the Poets painted c. 1800-1803 for the library of Hayley's Turret House at Felpham, discussed but not individually named in Blake's letters from Felpham to Hayley. Holdings: Tate; Glasgow Life Museums (Pollok House, Stirling Maxwell Collection); Victoria and Albert Museum; Manchester Art Gallery. Public domain."

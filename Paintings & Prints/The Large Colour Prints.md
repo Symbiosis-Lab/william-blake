@@ -1,7 +1,8 @@
 ---
 uid: blk-color-prints
 cover: the-large-colour-prints-newton.jpg
-date: "1795"
+date: "1795-06"
+date_basis: "The surviving impressions are dated 1795 in Blake's own inscriptions; Butlin's catalogue records no month, so mid-1795 is an estimate."
 title: The Large Colour Prints
 description: Elohim Creating Adam
 source: "Twelve large colour-printed drawings of 1795, of which the ten with a public-domain reproduction are shown; Lamech and his Two Wives and The House of Death have none. Wikimedia Commons, reproducing institutional originals at Tate Britain, the Fitzwilliam Museum (Cambridge), the Metropolitan Museum of Art, the J. Paul Getty Museum, and the National Gallery of Art, Washington. Per-file attribution below. Public domain, except the two files flagged in the provenance note as unresolved Tate stock photos."

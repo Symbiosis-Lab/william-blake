@@ -1,6 +1,7 @@
 ---
 title: The Chimney Sweeper
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-chimney-sweeper
 cover: "songs-of-innocence-11-the-chimney-sweeper.jpg"
 description: When my mother died I was very young, / And my father sold me while yet my tongue.

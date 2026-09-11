@@ -1,6 +1,7 @@
 ---
 title: Joseph of Arimathea
-date: "1773"
+date: "1773-06"
+date_basis: "The plate's inscription gives only the year, \"Engraved by W Blake 1773\"; no month is recorded for the first state, made during his apprenticeship to James Basire, so mid-1773 is an estimate, not a documented date."
 uid: "josa1810"
 description: JOSEPH of Arimathea among The Rocks of Albion
 cover: joseph-joseph_of_arimathea_second_state.jpg

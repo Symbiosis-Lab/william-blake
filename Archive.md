@@ -1,5 +1,5 @@
 ---
-title: Everything, 1783–1827
+title: Archive
 uid: blk-everything
 listed: false
 nav: false

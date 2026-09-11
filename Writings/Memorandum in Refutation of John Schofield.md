@@ -1,6 +1,7 @@
 ---
 title: Memorandum in Refutation of John Schofield
-date: "1803"
+date: "1803-08"
+date_basis: "The source dates the drafting to August 1803, ahead of Blake's January 1804 trial at Chichester."
 uid: blk-schofield-memo
 weight: 2
 description: "if such a Perjury as this can take effect, any Villain in future may come and drag me and my Wife out of our House."

@@ -1,6 +1,7 @@
 ---
 title: The Song of Los
-date: "1795"
+date: "1795-01"
+date_basis: "The title page reads only '1795'; Bentley's Blake Books records no finer date for this Lambeth book, so it is placed at the start of the year."
 uid: blk-song-of-los
 cover: "song-of-los-002.jpg"
 description: "I will sing you a song of Los, the Eternal Prophet: he sung it to four harps at the tables of Eternity, in heart-formed Africa."

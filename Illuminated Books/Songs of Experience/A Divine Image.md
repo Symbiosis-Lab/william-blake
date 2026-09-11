@@ -1,6 +1,7 @@
 ---
 title: A Divine Image
-date: "1794"
+date: "1794-01"
+date_basis: "Songs of Experience's title page is dated 1794 with no month given; Bentley's Blake Books records no finer date for the first combined printing with Songs of Innocence."
 uid: blk-songs-exp-divine-image
 description: Cruelty has a human heart, / And Jealousy a human face.
 weight: 27

@@ -1,6 +1,7 @@
 ---
 title: Infant Joy
-date: "1789"
+date: "1789-01"
+date_basis: "Songs of Innocence's title page is dated 1789 with no month given; Bentley's Blake Books records no finer date for the first printing."
 uid: blk-songs-inn-infant-joy
 cover: "songs-of-innocence-24-infant-joy.jpg"
 description: I have no name / I am but two days old.

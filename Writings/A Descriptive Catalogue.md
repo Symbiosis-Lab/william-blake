@@ -1,6 +1,7 @@
 ---
 title: A Descriptive Catalogue
-date: "1809"
+date: "1809-05"
+date_basis: "Blake's one-man Exhibition of Paintings in Fresco opened at 28 Broad Street in May 1809, and this catalogue was printed for it."
 uid: "7ac3a83c"
 cover: "a-descriptive-catalogue-jacobs_ladder.jpg"
 weight: 1

@@ -1,7 +1,8 @@
 ---
 title: The Golden Net
 description: From the Pickering Manuscript, c. 1807.
-date: "1807"
+date: "1807-06"
+date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so mid-year is an arbitrary placeholder."
 uid: blk-pickering-the-golden-net
 weight: 2
 source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1905), p. 271. Public domain."

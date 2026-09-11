@@ -1,6 +1,6 @@
 ---
 title: Prospectus of the Chaucer Engraving
-date: "1809"
+date: "1809-05"
 uid: blk-chaucer-prospectus
 weight: 5
 description: "Blake's Chaucer, the Canterbury Pilgrims. The Fresco Picture, representing Chaucer's Characters painted by William Blake, as it is now submitted to the Public."
