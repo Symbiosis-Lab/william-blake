@@ -2,7 +2,6 @@
 uid: blk-books
 title: Illuminated Books
 weight: 1
-nav: true
 cover: songs-of-experience-15-the-tyger.jpg
 description: The illuminated books, 1788–1822, with the letterpress Poetical Sketches of 1783.
 children_style: summary

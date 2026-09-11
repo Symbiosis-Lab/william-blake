@@ -2,7 +2,7 @@
 site_id = "blake"
 
 [deployment.observed]
-checked_at = "2026-09-11T12:42:58+00:00"
+checked_at = "2026-09-11T15:11:50+00:00"
 
 [deployment.observed.dns_target]
 
@@ -19,6 +19,6 @@ ttl = 3600
 value = "45.76.13.224"
 
 [deployment.targets."moss:blake"]
-last_deployed_generation_id = "c4be3b33e9f80f0c"
-last_deployment_at = "2026-09-11T12:42:58+00:00"
+last_deployed_generation_id = "edf4f7cc743a234c"
+last_deployment_at = "2026-09-11T15:11:50+00:00"
 last_deployment_url = "https://blake.mosspub.com"

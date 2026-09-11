@@ -1,5 +1,4 @@
 ---
-nav: true
 cover: '[[illustrations-to-dante-circle-of-the-lustful-whirlwind-of-lovers.jpg]]'
 uid: blk-writings
 title: Writings

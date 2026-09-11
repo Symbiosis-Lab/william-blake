@@ -18,4 +18,3 @@ I will not Reason & Compare: my business is to Create.
 [[Writings]]
 :::
 
-*A few of his last pages, most recent first.*
