@@ -3,8 +3,8 @@ title: Illustrations to Dante
 date: "1824"
 uid: dant1827
 cover: "illustrations-to-dante-circle-of-the-lustful-whirlwind-of-lovers.jpg"
-description: 102 watercolour designs and seven engravings for Dante's Divine Comedy, begun October 1824 at John Linnell's commission and unfinished at Blake's death in August 1827; the seven plates were published by Linnell in 1838. 20 of the 102 watercolours and six of the seven engravings are reproduced here, from the Fogg Art Museum, the Birmingham Museum and Art Gallery, the Metropolitan Museum of Art, and Wikimedia Commons's Google Art Project reproductions of works whose current holder is not otherwise confirmed here. A set of watercolours added in an earlier pass and credited to Tate or the National Gallery of Victoria has been removed, since each one's only traced Commons source was in fact categorised to Tate or the British Museum, or came from the William Blake Archive, whose images are not free enough for this site. The rest are held by Tate, the British Museum, the Ashmolean, the Fitzwilliam, and other collections whose reuse terms this site does not meet, or are not yet found in an acceptable public-domain reproduction, and are not reproduced.
-source: John Linnell commission, 1824. Watercolours dispersed among Tate, the National Gallery of Victoria, the Fogg Art Museum (Harvard), the Ashmolean, the Fitzwilliam, and other collections; the seven engravings at the Metropolitan Museum of Art, the National Gallery of Art, the British Museum, and the Yale Center for British Art. The four engravings reproduced from the Metropolitan Museum of Art are Rogers Fund, 1917, accession 17.65.1, 17.65.2, 17.65.3 and 17.65.5; "Dante Running from the Three Beasts" is Butlin 812.1. Public domain.
+description: 102 watercolour designs and seven engravings for Dante's Divine Comedy, begun October 1824 at John Linnell's commission and unfinished at Blake's death in August 1827; the seven plates were published by Linnell in 1838. 28 of the 102 watercolours and six of the seven engravings are reproduced here, from Tate, the National Gallery of Victoria, the Fogg Art Museum (Harvard), the British Museum, the Birmingham Museum and Art Gallery, and the Metropolitan Museum of Art, each via its own public-domain release on Wikimedia Commons. The rest are dispersed among these and other collections and are not yet found in an acceptable public-domain reproduction, and are not reproduced.
+source: John Linnell commission, 1824. Watercolours dispersed among Tate, the National Gallery of Victoria, the Fogg Art Museum (Harvard), the Birmingham Museum and Art Gallery, the Ashmolean, the Fitzwilliam, and other collections; the seven engravings at the Metropolitan Museum of Art, the National Gallery of Art, the British Museum, and the Yale Center for British Art. The four engravings reproduced from the Metropolitan Museum of Art are Rogers Fund, 1917, accession 17.65.1, 17.65.2, 17.65.3 and 17.65.5; "Dante Running from the Three Beasts" is Butlin 812.1. Every watercolour and engraving here carries its own "Public domain" licence tag on Wikimedia Commons, independent of any reuse terms a holding institution states on its own site. Public domain.
 ---
 
 ## Inferno
@@ -17,13 +17,21 @@ source: John Linnell commission, 1824. Watercolours dispersed among Tate, the Na
 
 ![[illustrations-to-dante-dante-and-virgil-penetrating-the-forest.jpg|Dante and Virgil Penetrating the Forest]]
 
+![[illustrations-to-dante-002-homer-and-the-ancient-poets.jpg|Homer and the Ancient Poets in the First Circle of Hell (Canto IV), Tate]]
+
 ![[illustrations-to-dante-circle-of-the-lustful-whirlwind-of-lovers.jpg|The Whirlwind of Lovers — Paolo and Francesca]]
+
+![[illustrations-to-dante-003-cerberus.jpg|Cerberus (Canto VI), National Gallery of Victoria]]
+
+![[illustrations-to-dante-004-plutus.jpg|Plutus (Canto VII), Tate]]
 
 ![[illustrations-to-dante-005-the-stygian-lake.jpg|The Stygian Lake, with the Ireful Sinners Fighting (Canto VII)]]
 
 ![[illustrations-to-dante-006-virgil-repelling-filippo-argenti.jpg|Virgil Repelling Filippo Argenti from the Boat (Canto VIII), Fogg Art Museum]]
 
 ![[illustrations-to-dante-007-the-angel-at-the-gate-of-dis.jpg|The Angel at the Gate of Dis (Canto IX)]]
+
+![[illustrations-to-dante-008-farinata-degli-uberti.jpg|Farinata degli Uberti (Canto X), British Museum]]
 
 ![[illustrations-to-dante-009-inferno-canto-xi.jpg|Inferno, Canto XI, Fogg Art Museum]]
 
@@ -32,6 +40,12 @@ source: John Linnell commission, 1824. Watercolours dispersed among Tate, the Na
 ![[illustrations-to-dante-capaneus-the-blasphemer.jpg|Capaneus the Blasphemer]]
 
 ![[illustrations-to-dante-wood-of-the-self-murderers.jpg|The Wood of the Self-Murderers]]
+
+![[illustrations-to-dante-011-the-thieves-tormented-by-serpents.jpg|The Thieves Tormented by Serpents (Canto XXIV), British Museum]]
+
+![[illustrations-to-dante-012-the-centaur-cacus.jpg|The Centaur Cacus (Canto XXV), Tate]]
+
+![[illustrations-to-dante-013-ulysses-and-diomedes.jpg|Ulysses and Diomedes (Canto XXVI), Tate]]
 
 ![[illustrations-to-dante-014-the-schismatics-muhammad.jpg|The Schismatics and Sowers of Discord: Muhammad (Canto XXVIII)]]
 
@@ -52,6 +66,8 @@ source: John Linnell commission, 1824. Watercolours dispersed among Tate, the Na
 ## Paradiso
 
 ![[illustrations-to-dante-019-st-peter-and-st-james-with-dante-and-beatrice.jpg|St Peter and St James with Dante and Beatrice]]
+
+![[illustrations-to-dante-020-the-spiral-of-the-blessed.jpg|The Spiral of the Blessed (sketch), British Museum]]
 
 ## Engravings
 
