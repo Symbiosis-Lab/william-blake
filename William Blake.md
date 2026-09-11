@@ -1,14 +1,15 @@
 ---
 uid: 8f508658
 description: "I must Create a System, or be enslav'd by another Man's. I will not Reason & Compare: my business is to Create."
-children_style: list
-children_depth: all
-children_limit: 6
-sort: date
+children: false
 ---
 
 I must Create a System, or be enslav'd by another Man's.  
 I will not Reason & Compare: my business is to Create.
+
+![[/|depth:all,covers:only,limit:6,style:grid,sort:date]]
+
+[[Everything|Everything, 1783–1827 →]]
 
 :::grid 3
 [[Illuminated Books]]
@@ -17,4 +18,3 @@ I will not Reason & Compare: my business is to Create.
 +++
 [[Writings]]
 :::
-
