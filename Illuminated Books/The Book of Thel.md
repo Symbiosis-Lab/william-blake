@@ -1,9 +1,11 @@
 ---
 title: The Book of Thel
-date: 1789-06-01
+date: "1789"
 uid: blk-thel
 cover: "the-book-of-thel-02-title-page.jpg"
 children_style: grid
+description: "Does the Eagle know what is in the pit? Or wilt thou go ask the Mole: Can Wisdom be put in a silver rod? Or Love in a golden bowl?"
+source: "Text: the eight plates as printed in 1789, checked against John Sampson, ed., The Poetical Works of William Blake (Oxford, 1913). Public domain."
 ---
 
 ![[the-book-of-thel-01-thels-motto.jpg]]

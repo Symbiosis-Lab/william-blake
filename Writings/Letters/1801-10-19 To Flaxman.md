@@ -1,7 +1,7 @@
 ---
 title: To John Flaxman
 uid: l18011019
-date: 1801-10-19
+date: "1801-10-19"
 description: Peace opens the way to greater still.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 95–96. Public domain.
 ---

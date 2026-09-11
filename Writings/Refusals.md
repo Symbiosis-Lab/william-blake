@@ -1,6 +1,6 @@
 ---
 description: A gathering of Blake's own words on refusing patronage and fashion, spanning c. 1798–1810 — drawn from his letters, his annotations on Reynolds, and his unpublished *Public Address*. Quoted directly from primary sources throughout.
-date: 1803-07-06
+date: "1803-07-06"
 weight: 8
 uid: blk-refusals
 source: William Blake's letter to Thomas Butts, 6 July 1803 (Russell 1906, pp. 121–123); Annotations on Reynolds (Ellis & Yeats 1893, vol. II, p. 318); the *Public Address* of c. 1810, drafted in the Notebook (Notebook at British Library Add. MS 49460; text in Gilchrist 1880, vol. II).

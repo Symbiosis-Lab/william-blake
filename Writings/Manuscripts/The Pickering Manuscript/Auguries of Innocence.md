@@ -3,181 +3,172 @@ uid: blk-auguries
 date: "1807"
 title: Auguries of Innocence
 weight: 8
-description: From the Pickering Manuscript, c. 1807. "To see a world in a grain of sand / And a heaven in a wild flower."
-source: "Edwin John Ellis & W. B. Yeats, eds., *The Works of William Blake* vol. III (London: Bernard Quaritch, 1893), pp. 76–80. Public domain."
-ocr_note: "The printed page's running title and its opening drop-cap (\"TO\") are omitted/lowercased. Four evident OCR letter-substitutions corrected against the known readings of this poem: \"Carne\" to \"Came\" (laurel-crown couplet), \"wrong\" to \"wrung\" (labourer's-hands couplet), \"puddle\" to \"riddle\" (cricket's-cry couplet), and \"see with not through\" to \"see not through.\" The printed page's French spacing before \";\" and \":\" (a typesetting convention of the 1893 edition, not Blake's punctuation) has been normalised to no space."
+description: From the Pickering Manuscript, c. 1807. "To see a World in a Grain of Sand / And a Heaven in a Wild Flower."
+source: "John Sampson, ed., *The Poetical Works of William Blake: A New and Verbatim Text from the Manuscript Engraved and Letterpress Originals* (Oxford: Clarendon Press, 1905), pp. 288–292 — printed there as the diplomatic text of the manuscript, in Blake's own couplet order. Public domain."
+ocr_note: "Sampson prints this poem with a running apparatus of marginal line numbers and textual-variant footnotes against other editions, plus page running-heads and signature marks; all of that editorial apparatus has been removed, leaving Blake's text. His spelling, capitals, ampersands and elisions (fill'd, thro', arm'd, Swadling, Catterpiller, Lab'rer's) are kept as printed, including the manuscript's own couplet order, which differs from — and is fuller than — the Ellis & Yeats rearrangement most anthologies print."
 ---
 
-To see a world in a grain of sand,  
-And a heaven in a wild flower;  
-Hold infinity in the palm of your hand,  
-And eternity in an hour.
+To see a World in a Grain of Sand,  
+And a Heaven in a Wild Flower,  
+Hold Infinity in the palm of your hand,  
+And Eternity in an hour.
 
-A Robin Redbreast in a cage  
-Puts all Heaven in a rage;
+A Robin Redbreast in a Cage  
+Puts all Heaven in a Rage.  
+A dove-house fill'd with Doves & Pigeons  
+Shudders Hell thro' all its regions.
 
-A dove-house filled with doves and pigeons  
-Shudders hell through all its regions.
+A dog starv'd at his Master's Gate  
+Predicts the ruin of the State.  
+A Horse misused upon the Road  
+Calls to Heaven for Human blood.
 
-A dog starved at his master's gate  
-Predicts the ruin of the state;
+Each outcry of the hunted Hare  
+A fibre from the Brain does tear.  
+A Skylark wounded in the wing;  
+A Cherubim does cease to sing.
 
-A game-cock clipped and armed for fight  
-Doth the rising sun affright;
+The Game Cock dipt and arm'd for fight  
+Does the Rising Sun affright.  
+Every Wolf's & Lion's howl  
+Raises from Hell a Human Soul.
 
-A horse misused upon the road  
-Calls to Heaven for human blood.
+The wild Deer, wand'ring here & there,  
+Keeps the Human Soul from Care.  
+The Lamb misus'd breeds Public Strife,  
+And yet forgives the Butcher's knife.
 
-Every wolf's and lion's howl  
-Raises from hell a human soul;
+The Bat that flits at close of Eve  
+Has left the Brain that won't Believe.  
+The Owl that calls upon the Night  
+Speaks the Unbeliever's fright.
 
-Each outcry of the hunted hare  
-A fibre from the brain doth tear;
+He who shall hurt the little Wren  
+Shall never be belov'd by Men.  
+He who the Ox to wrath has mov'd  
+Shall never be by Woman lov'd.
 
-A skylark wounded on the wing  
-Doth make a cherub cease to sing.
+The wanton Boy that kills the Fly  
+Shall feel the Spider's enmity.  
+He who torments the Chafer's Sprite  
+Weaves a Bower in endless Night.
 
-He who shall hurt the little wren  
-Shall never be beloved by men;
+The Catterpiller on the Leaf  
+Repeats to thee thy Mother's grief.  
+Kill not the Moth nor Butterfly,  
+For the Last Judgment draweth nigh.
 
-He who the ox to wrath has moved  
-Shall never be by woman loved;
+He who shall train the Horse to war  
+Shall never pass the Polar Bar.  
+The Beggar's Dog & Widow's Cat,  
+Feed them & thou wilt grow fat.
 
-He who shall train the horse to war  
-Shall never pass the Polar Bar.
+The Gnat that sings his Summer's Song  
+Poison gets from Slander's tongue.  
+The poison of the Snake & Newt  
+Is the sweat of Envy's Foot.
 
-The wanton boy that kills the fly  
-Shall feel the spider's enmity;
+The poison of the Honey Bee  
+Is the Artist's Jealousy.  
+The Prince's Robes & Beggar's Rags  
+Are Toadstools on the Miser's Bags.
 
-He who torments the chafer's sprite  
-Weaves a bower in endless night.
-
-The caterpillar on the leaf  
-Repeats to thee thy mother's grief;
-
-The wild deer wandering here and there  
-Keep the human soul from care:
-
-The lamb misused breeds public strife,  
-And yet forgives the butcher's knife.
-
-Kill not the moth nor butterfly,  
-For the last judgment draweth nigh;
-
-The beggar's dog and widow's cat,  
-Feed them and thou shalt grow fat.
-
-Every tear from every eye  
-Becomes a babe in eternity;
-
-The bleat, the bark, bellow, and roar,  
-Are waves that beat on heaven's shore.
-
-The bat that flits at close of eve  
-Has left the brain that won't believe;
-
-The owl that calls upon the night  
-Speaks the unbeliever's fright.
-
-The gnat that sings his summer's song  
-Poison gets from Slander's tongue;
-
-The poison of the snake and newt  
-Is the sweat of Envy's foot;
-
-The poison of the honey-bee  
-Is the artist's jealousy;
-
-The strongest poison ever known  
-Came from Caesar's laurel-crown.
-
-Nought can deform the human race  
-Like to the armourer's iron brace;  
-The soldier armed with sword and gun  
-Palsied strikes the summer's sun.  
-When gold and gems adorn the plough,  
-To peaceful hearts shall Envy bow.  
-The beggar's rags fluttering in air  
-Do to rags the heavens tear;  
-The prince's robes and beggar's rags  
-Are toadstools on the miser's bags.
-
-One mite wrung from the labourer's hands  
-Shall buy and sell the miser's lands,  
-Or, if protected from on high,  
-Shall that whole nation sell and buy;  
-The poor man's farthing is worth more  
-Than all the gold on Afric's shore.  
-The whore and gambler, by the state  
-Licensed, build that nation's fate;  
-The harlot's cry from street to street  
-Shall weave old England's winding-sheet;  
-The winner's shout, the loser's curse,  
-Shall dance before dead England's hearse.
-
-He who mocks the infant's faith  
-Shall be mocked in age and death;
-
-He who shall teach the child to doubt  
-The rotting grave shall ne'er get out;
-
-He who respects the infant's faith  
-Triumphs over hell and death.
-
-The babe is more than swaddling-bands  
-Throughout all these human lands;
-
-Tools were made, and born were hands,  
-Every farmer understands.
-
-The questioner who sits so sly  
-Shall never know how to reply.
-
-He who replies to words of doubt  
-Doth put the light of knowledge out;
-
-A riddle, or the cricket's cry,  
-Is to doubt a fit reply.
-
-The child's toys and the old man's reasons  
-Are the fruits of the two seasons.
-
-The emmet's inch and eagle's mile  
-Make lame philosophy to smile.
-
-A truth that's told with bad intent  
-Beats all the lies you can invent.
-
-He who doubts from what he sees  
-Will ne'er believe, do what you please;
-
-If the sun and moon should doubt,  
-They'd immediately go out.
-
-Every night and every morn  
-Some to misery are born;  
-Every morn and every night  
-Some are born to sweet delight;  
-Some are born to sweet delight,  
-Some are born to endless night.  
-Joy and woe are woven fine,  
-A clothing for the soul divine;  
-Under every grief and pine  
-Runs a joy with silken twine.
-
+A Truth that's told with bad intent  
+Beats all the Lies you can invent.  
 It is right it should be so;  
-Man was made for joy and woe;  
-And, when this we rightly know,  
-Safely through the world we go.
+Man was made for Joy & Woe;
 
-We are led to believe a lie  
-When we see not through the eye,
+And when this we rightly know,  
+Thro' the World we safely go.  
+Joy & Woe are woven fine,  
+A Clothing for the soul divine.
 
-Which was born in a night to perish in a night  
-When the soul slept in beams of light.
+Under every grief & pine  
+Runs a joy with silken twine.  
+The Babe is more than Swadling Bands;  
+Throughout all these Human Lands
 
-God appears and God is light  
-To those poor souls who dwell in night;
+Tools were made, & Born were hands,  
+Every Farmer understands.  
+Every Tear from Every Eye  
+Becomes a Babe in Eternity;
 
-But doth a human form display  
-To those who dwell in realms of day.
+This is caught by Females bright,  
+And returned to its own delight.  
+The Bleat, the Bark, Bellow, & Roar,  
+Are Waves that Beat on Heaven's Shore.
+
+The Babe that weeps the Rod beneath  
+Writes Revenge in realms of Death.  
+The Beggar's Rags, fluttering in Air,  
+Does to Rags the Heavens tear.
+
+The Soldier, arm'd with Sword & Gun,  
+Palsied strikes the Summer's Sun.  
+The poor Man's Farthing is worth more  
+Than all the Gold on Afric's Shore.
+
+One Mite wrung from the Lab'rer's hands  
+Shall buy & sell the Miser's Lands;  
+Or, if protected from on high,  
+Does that whole Nation sell & buy.
+
+He who mocks the Infant's Faith  
+Shall be mock'd in Age & Death.  
+He who shall teach the Child to Doubt  
+The rotting Grave shall ne'er get out.
+
+He who respects the Infant's faith  
+Triumphs over Hell & Death.  
+The Child's Toys and the Old Man's Reasons  
+Are the Fruits of the Two Seasons.
+
+The Questioner, who sits so sly,  
+Shall never know how to Reply.  
+He who replies to words of Doubt  
+Doth put the Light of Knowledge out.
+
+The Strongest Poison ever known  
+Came from Caesar's Laurel Crown.  
+Nought can Deform the Human Race  
+Like to the Armour's iron brace.
+
+When Gold and Gems adorn the Plow  
+To peaceful Arts shall Envy Bow.  
+A Riddle, or the Cricket's Cry,  
+Is to Doubt a fit Reply.
+
+The Emmet's Inch & Eagle's Mile  
+Make Lame Philosophy to smile.  
+He who Doubts from what he sees  
+Will ne'er Believe, do what you Please.
+
+If the Sun & Moon should Doubt,  
+They'd immediately Go Out,  
+To be in a Passion you Good may do.  
+But no Good if a Passion is in you.
+
+The Whore & Gambler, by the State  
+Licensed, build that Nation's Fate.  
+The Harlot's cry from Street to Street  
+Shall weave Old England's winding-Sheet.
+
+The Winner's shout, the Loser's Curse,  
+Dance before dead England's Hearse.  
+Every Night and every Morn  
+Some to Misery are Born.
+
+Every Morn and every Night  
+Some are Born to Sweet Delight.  
+Some are Born to Sweet Delight,  
+Some are Born to Endless Night.
+
+We are led to Believe a Lie  
+When we see not Thro' the Eye,  
+Which was Born in a Night to perish in a Night,  
+When the Soul Slept in Beams of Light.
+
+God appears, & God is light,  
+To those poor souls who dwell in Night;  
+But does a Human Form Display  
+To those who Dwell in Realms of Day.

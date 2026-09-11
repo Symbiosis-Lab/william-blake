@@ -4,7 +4,7 @@ date: "1804"
 uid: a91f9e05
 description: And did those feet in ancient time, walk upon England's mountains green?
 cover: "milton-002.jpg"
-source: "Text — A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Milton* (A. H. Bullen, 1904), pp. 21, 23, via Wikisource. Public domain. Plate — Library of Congress, Rosenwald Collection, Copy D. Public domain."
+source: "Text — A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Milton* (A. H. Bullen, 1907), pp. 21, 23, via Wikisource. Public domain. Plate — Library of Congress, Rosenwald Collection, Copy D. Public domain."
 ---
 
 ![[milton-002.jpg|Plate 2, the Preface]]
@@ -38,4 +38,4 @@ Till we have built Jerusalem,
 In England's green & pleasant Land.
 
 Would to God that all the Lord's people were Prophets.  
-*Numbers, xi. 29.*
+*Numbers, xi. ch. 29 v.*

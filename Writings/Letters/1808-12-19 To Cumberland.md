@@ -1,7 +1,7 @@
 ---
 title: To George Cumberland
 uid: l18081219
-date: 1808-12-19
+date: "1808-12-19"
 description: On being unable to return to painting for hire, and the account of his "various inventions in Art" he has begun to print — the Descriptive Catalogue.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 205–206. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Text recovered from 1906 OCR; spacing & date glyphs lightly normalized. Running heads and footnote bodies stripped. Original spelling preserved.

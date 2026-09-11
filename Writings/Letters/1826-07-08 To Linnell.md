@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: "1e4fa937"
-date: 1826-07-08
+date: "1826-07-08"
 description: Congratulations on the birth of another son — "You have a family, I have none; there is no comparison between our necessary avocations."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), p. 216. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Running heads and footnote bodies stripped.

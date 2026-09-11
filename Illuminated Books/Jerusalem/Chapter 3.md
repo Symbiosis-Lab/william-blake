@@ -4,7 +4,7 @@ date: "1804"
 uid: 888412d9
 description: Rahab is an Eternal State. To the Deists.
 cover: "jerusalem-052.jpg"
-source: Text — Wikisource transcription of Jerusalem, The Emanation of the Giant Albion (after David V. Erdman, The Complete Poetry and Prose of William Blake), plate numbering per Bentley/Erdman/Keynes. Public domain. Plates — Yale Center for British Art, Copy E (fully coloured), via Wikimedia Commons / Google Art Project. Public domain.
+source: "Text — Wikisource transcription of Jerusalem, The Emanation of the Giant Albion (after David V. Erdman, The Complete Poetry and Prose of William Blake), plate numbering per Bentley/Erdman/Keynes; cross-checked against A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Jerusalem* (A. H. Bullen, 1904). Public domain. Plates — Yale Center for British Art, Copy E (fully coloured), via Wikimedia Commons / Google Art Project. Public domain."
 children_style: grid
 ---
 
@@ -34,40 +34,40 @@ But you also charge the poor Monks & Religious with being the causes of War: whi
 
 Those who Martyr others or who cause War are Deists, but never can be Forgivers of Sin. The Glory of Christianity is, To Conquer by Forgiveness. All the Destruction therefore, Christian Europe has arisen from Deism, which is Natural Religion.
 
-::&emsp;I saw a Monk of Charlemaine t
-::Arise before my sight
-::&emsp;I talkd with the Grey Monk as we stood t
-::In beams of infernal light
+I saw a Monk of Charlemaine  
+Arise before my sight  
+I talkd with the Grey Monk as we stood  
+In beams of infernal light  
 
-::&emsp;Gibbon arose with a lash of steel t    5
-::And Voltaire with a wracking wheel
-::&emsp;The Schools in clouds of learning rolld t
-::Arose with War in iron & gold.
+Gibbon arose with a lash of steel  
+And Voltaire with a wracking wheel  
+The Schools in clouds of learning rolld  
+Arose with War in iron & gold.  
 
-::&emsp;Thou lazy Monk they sound afar t
-::In vain condemning glorious War t    10
-::&emsp;And in your Cell you shall ever dwell t
-::Rise War & bind him in his Cell.
+Thou lazy Monk they sound afar  
+In vain condemning glorious War  
+And in your Cell you shall ever dwell  
+Rise War & bind him in his Cell.  
 
-::&emsp;The blood. red ran from the Grey Monks side
-::His hands & feet were wounded wide
-::&emsp;His body bent, his arms & knees 15
-::Like to the roots of ancient trees
+The blood red ran from the Grey Monks side  
+His hands & feet were wounded wide  
+His body bent, his arms & knees  
+Like to the roots of ancient trees  
 
-::&emsp;When Satan first the black bow bent t
-::And the Moral Law from the Gospel rent
-::&emsp;He forgd the Law into a Sword
-::And spilld the blood of mercys Lord. 20
+When Satan first the black bow bent  
+And the Moral Law from the Gospel rent  
+He forgd the Law into a Sword  
+And spilld the blood of mercys Lord.  
 
-::&emsp;Titus! Constantine! Charlemaine! t
-::O Voltaire! Rousseau! Gibbon! Vain
-::&emsp;Your Grecian Mocks & Roman Sword t
-::Against this image of his Lord!
+Titus! Constantine! Charlemaine!  
+O Voltaire! Rousseau! Gibbon! Vain  
+Your Grecian Mocks & Roman Sword  
+Against this image of his Lord!  
 
-::&emsp;For a Tear is an Intellectual thing; t    25
-::And a Sigh is the Sword of an Angel King
-::&emsp;And the bitter groan of a Martyrs woe t
-::Is an Arrow from the Almighties Bow!
+For a Tear is an Intellectual thing;  
+And a Sigh is the Sword of an Angel King  
+And the bitter groan of a Martyrs woe  
+Is an Arrow from the Almighties Bow!
 
 ##### Plate 53
 
@@ -122,10 +122,7 @@ Of spiritual Hate, from which springs Sexual Love as iron chains:
 He tosses like a Cloud outstretchd among Jerusalems Ruins  
 Which overspread all the Earth, he groans among his ruind porches  
 
-Reason  
-Pity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wrath  
-This World  
-Desire  
+*[Diagram on the plate: "Reason" / "Pity" and "Wrath" / "This World" / "Desire" — arranged as North, East, South, West.]*
 
 But the Spectre like a hoar frost & a Mildew rose over Albion  
 Saying, I am God O Sons of Men! I am your Rational Power!  

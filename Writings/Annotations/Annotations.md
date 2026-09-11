@@ -1,11 +1,9 @@
 ---
 title: Annotations
 uid: blk-notes-section
-date: "1808"
-description: "Blake read with a pen: marginalia on Lavater, Swedenborg, Watson, Bacon, Reynolds, Berkeley, Wordsworth and Thornton."
-source: Edwin John Ellis & W. B. Yeats, eds., *The Works of William Blake, Poetic, Symbolic, and Critical*, vol. II (Bernard Quaritch, London, 1893). Public domain.
+description: "Blake read with a pen, c.1788-1827: marginalia on Lavater, Swedenborg, Watson, Bacon, Reynolds, Berkeley, Wordsworth, Thornton, Spurzheim and Cennini."
 children_style: list
 weight: 7
 ---
 
-Blake wrote in the margins of books he read, arguing with the author line by line; the set given here in full is his copy of Reynolds's *Discourses*. The other books he annotated will be added to this folder in later additions.
+Blake's notes on Boyd's *Historical Notes on Dante* have no public-domain printing — they first appeared in Keynes's 1957 *Complete Writings*, still in copyright — and so are not given here.

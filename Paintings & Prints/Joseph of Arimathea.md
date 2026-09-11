@@ -19,15 +19,13 @@ source: National Gallery of Art, Washington (1943.3.8981), via Wikimedia Commons
 
 *— inscription engraved on the second state of the plate, c. 1810.*
 
-## On Virgil
+## On Gothic and Grecian form
 
-From Blake's short prose piece *On Virgil*, etched on a broadside, undated but c. 1820–1822:
+The print's inscription calls Joseph one of "the Gothic Artists who Built the Cathedrals," under a Michelangelo attribution ("Michael Angelo Pinxit") — the same distinction Blake draws directly in his short prose piece *On Virgil* (c. 1822):
 
-> Sacred truth has pronounced that Greece and Rome, as Babylon and Egypt, so far from being parents of Arts and Sciences, as they pretend, were destroyers of all Art. Homer, Virgil, and Ovid, confirm this, and make us reverence the Word of God, the only light of Antiquity that remains unperverted by war. Virgil, in the *Æneid*, Book VI, line 848, says: "Let others study Art. Rome has somewhat better to do — namely, War and Dominion."
->
-> Rome and Greece swept art into their maw, and destroyed it. A warlike State never can produce art. It will rob and plunder, and accumulate into one place, and translate, and copy, and buy and sell, and criticise, but not make. Grecian is mathematic form. Mathematic form is eternal in the reasoning memory. Living form is eternal existence. Gothic is living form.
+> Grecian is Mathematic Form: Gothic is Living Form. Mathematic Form is eternal in the Reasoning Memory: Living Form is Eternal Existence.
 
-*Source:* Blake, *On Virgil* (c. 1820–1822), printed in Alexander Gilchrist, *Life of William Blake* (London: Macmillan, 1880), vol. II, "Sibylline Leaves," p. 180. Public domain.
+*Source:* printed in Sampson, *The Poetical Works of William Blake* (Oxford, 1913), pp. 430–432; see [[On Homer's Poetry and On Virgil]] for the full text. Public domain.
 
 ## Plate
 

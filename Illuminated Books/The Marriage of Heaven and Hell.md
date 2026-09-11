@@ -4,7 +4,7 @@ date: "1790"
 uid: c8f2b002
 cover: "marriage-01-title-page.jpg"
 description: Without Contraries is no progression. Attraction and repulsion, reason and energy, love and hate, are necessary to human existence.
-source: "Plates: William Blake Archive Copy F (Morgan Library and Museum). Public domain. Text: Project Gutenberg ebook #45315. Public domain."
+source: "All 27 plates: Library of Congress, Rosenwald Collection, Copy D (LC item 50041675, Rosenwald no. 1799; https://www.loc.gov/item/50041675/ — the Library's own catalogue, citing Keynes & Wolf's census of the illuminated books, identifies this as copy D, not copy C as an earlier pass here had it), each plate downloaded from the Library's own full-resolution digitisation (LC resource 2003rosen1799) and downscaled to 2000 px on the long edge; plate 1 was previously a 3.2x upscale of a 444×632 Wikimedia Commons mirror and is now the same Library scan as every other plate. Public domain — the Library of Congress states it is not aware of any copyright or other restriction on this item. Text: Project Gutenberg ebook #45315. Public domain."
 children_style: grid
 ---
 

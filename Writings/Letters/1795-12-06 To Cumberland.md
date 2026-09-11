@@ -1,7 +1,7 @@
 ---
 title: To George Cumberland
 uid: l17951206
-date: 1795-12-06
+date: "1795-12-06"
 description: Peace and plenty and domestic happiness is the source of sublime art.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 53–55. Public domain.
 ---

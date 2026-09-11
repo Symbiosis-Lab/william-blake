@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: l18270425
-date: 1827-04-25
+date: "1827-04-25"
 description: The six Dante plates proved, and the fighting devils reduced ready for the copper — "I am too much attached to Dante to think much of anything else."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 224–225. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Text recovered from 1906 OCR; spacing & date glyphs lightly normalized. Running heads and footnote bodies stripped. Original spelling preserved.

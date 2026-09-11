@@ -1,7 +1,7 @@
 ---
 title: To the Rev. Dr. Trusler
 uid: l17990823
-date: 1799-08-23
+date: "1799-08-23"
 description: I see everything I paint in this world, but everybody does not see alike.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 60–64. Public domain.
 ---

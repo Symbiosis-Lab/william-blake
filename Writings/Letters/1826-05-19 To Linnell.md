@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: "b7d30e5a"
-date: 1826-05-19
+date: "1826-05-19"
 description: Another shivering fit, brought on by a gnawing pain in the stomach, keeps him from Hampstead.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), p. 214. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Running heads and footnote bodies stripped.

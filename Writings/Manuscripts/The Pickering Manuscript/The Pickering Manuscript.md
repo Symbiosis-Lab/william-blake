@@ -4,7 +4,7 @@ children_style: list
 weight: 4
 uid: blk-pickering
 date: "1807"
-source: "John Sampson, ed., *The Poetical Works of William Blake: A New and Verbatim Text from the Manuscript Engraved and Letterpress Originals* (Oxford: Clarendon Press, 1905). Public domain, except *Auguries of Innocence*, from Edwin John Ellis & W. B. Yeats, eds., *The Works of William Blake* vol. III (1893), also public domain."
+source: "John Sampson, ed., *The Poetical Works of William Blake: A New and Verbatim Text from the Manuscript Engraved and Letterpress Originals* (Oxford: Clarendon Press, 1905). Public domain."
 ---
 
 The ten poems, in the manuscript's own order:

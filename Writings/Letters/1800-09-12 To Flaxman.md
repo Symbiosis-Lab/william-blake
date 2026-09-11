@@ -1,7 +1,7 @@
 ---
 title: To John Flaxman
 uid: l18000912
-date: 1800-09-12
+date: "1800-09-12"
 description: I bless thee, O Father of Heaven and Earth, that ever I saw Flaxman's face.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 70–72. Public domain.
 ---

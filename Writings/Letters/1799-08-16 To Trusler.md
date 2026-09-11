@@ -1,7 +1,7 @@
 ---
 title: To the Rev. Dr. Trusler
 uid: l17990816
-date: 1799-08-16
+date: "1799-08-16"
 description: I find more and more that my style of designing is a species by itself.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 57–60. Public domain.
 ---

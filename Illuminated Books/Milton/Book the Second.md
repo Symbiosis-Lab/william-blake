@@ -4,7 +4,7 @@ date: "1804"
 uid: 01dd7333
 description: There is a place where Contraries are equally True. This place is called Beulah.
 cover: "milton-032.jpg"
-source: "Text — A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Milton* (A. H. Bullen, 1904), via Wikisource. Public domain. Plates — Library of Congress, Rosenwald Collection, Copy D (50 plates). Public domain. Plate numbers follow the 1904 edition (Book the Second = Plates 30–45 there); Copy D's images run in the copy's own plate order and are not claimed to match the text plate-for-plate — see the note on the Milton index page."
+source: "Text — A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Milton* (A. H. Bullen, 1907), via Wikisource. Public domain. Plates — Library of Congress, Rosenwald Collection, Copy D (50 plates). Public domain. Plate numbers follow the 1907 edition (Book the Second = Plates 30–45 there); Copy D's images run in the copy's own plate order and are not claimed to match the text plate-for-plate — see the note on the Milton index page."
 children_style: grid
 ---
 

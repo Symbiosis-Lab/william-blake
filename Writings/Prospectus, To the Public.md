@@ -1,6 +1,6 @@
 ---
 title: Prospectus, To the Public
-date: 1793-10-10
+date: "1793-10-10"
 uid: blk-prospectus-1793
 weight: 7
 description: Blake's declaration of independence as a publisher — a single relief-etched broadside announcing his own illuminated printing, with a price list for ten works.

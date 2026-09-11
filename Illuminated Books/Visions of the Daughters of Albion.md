@@ -1,8 +1,10 @@
 ---
 title: Visions of the Daughters of Albion
-date: 1793-07-01
+date: "1793"
 uid: blk-visions
 cover: "visions-of-the-daughters-of-albion-02-title-page.jpg"
+description: "The Eye sees more than the Heart knows. Enslav'd, the Daughters of Albion weep: a trembling lamentation upon their mountains."
+source: "Text: the eleven plates as printed in 1793, checked against John Sampson, ed., The Poetical Works of William Blake (Oxford, 1913). Public domain."
 ---
 
 ![[visions-of-the-daughters-of-albion-01-frontispiece.jpg]]

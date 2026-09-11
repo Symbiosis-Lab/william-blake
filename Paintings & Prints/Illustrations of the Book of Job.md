@@ -1,6 +1,6 @@
 ---
 title: Illustrations of the Book of Job
-date: 1826-03
+date: "1826-03"
 uid: blk-job
 description: Twenty-two plates engraved by Blake from his own designs at the commission of John Linnell — designed 1823–25, engraved 1825–26, published March 1826. Blake's last completed great work.
 cover: job-01-job-and-his-family.jpg

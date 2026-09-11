@@ -4,7 +4,7 @@ date: "1804"
 uid: 0fabda6e
 description: Daughters of Beulah! Muses who inspire the Poet's Song, record the journey of immortal Milton thro' your Realms.
 cover: "milton-003.jpg"
-source: "Text — A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Milton* (A. H. Bullen, 1904), via Wikisource. Public domain. Plates — Library of Congress, Rosenwald Collection, Copy D (50 plates). Public domain. The plate numbers given here follow that 1904 edition's own count (Preface = Plate 2, Book the First = Plates 3–28); Copy D's fuller, later-state printing carries additional unnumbered or differently-ordered plates not in that edition's text, so the images above run in Copy D's own plate order and are not claimed to match the text one-for-one plate by plate — see the note on the Milton index page."
+source: "Text — A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Milton* (A. H. Bullen, 1907), via Wikisource. Public domain. Plates — Library of Congress, Rosenwald Collection, Copy D (50 plates). Public domain. The plate numbers given here follow that 1907 edition's own count (Preface = Plate 2, Book the First = Plates 3–28); Copy D's fuller, later-state printing carries additional unnumbered or differently-ordered plates not in that edition's text, so the images above run in Copy D's own plate order and are not claimed to match the text one-for-one plate by plate — see the note on the Milton index page."
 children_style: grid
 ---
 

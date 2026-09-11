@@ -4,7 +4,7 @@ date: "1804"
 uid: d5a8a25c
 description: Of the Sleep of Ulro! and of the passage through Eternal Death, and of the awaking to Eternal Life.
 cover: "jerusalem-004.jpg"
-source: Text — Wikisource transcription of Jerusalem, The Emanation of the Giant Albion (after David V. Erdman, The Complete Poetry and Prose of William Blake), plate numbering per Bentley/Erdman/Keynes. Public domain. Plates — Yale Center for British Art, Copy E (fully coloured), via Wikimedia Commons / Google Art Project. Public domain.
+source: "Text — Wikisource transcription of Jerusalem, The Emanation of the Giant Albion (after David V. Erdman, The Complete Poetry and Prose of William Blake), plate numbering per Bentley/Erdman/Keynes; cross-checked against A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Jerusalem* (A. H. Bullen, 1904). Public domain. Plates — Yale Center for British Art, Copy E (fully coloured), via Wikimedia Commons / Google Art Project. Public domain."
 children_style: grid
 ---
 
@@ -60,19 +60,18 @@ The Enthusiasm of the following Poem, the Author hopes [no Reader will think pre
 
 The Spirit of Jesus is continual forgiveness of Sin: he who waits to be righteous before he enters into the Saviours kingdom, the Divine Body; will never enter there. I am perhaps the most sinful of men! I pretend not to holiness! yet I pretend to love, to see, to converse with daily, as man with man, & the more to have an interest in the Friend of Sinners. Therefore [Dear] Reader, [forgive] what you do not approve, & [love] me for this energetic exertion of my talent.
 
-Reader! [lover] of books! [lover] of heaven,
-And of that God from whom [all books are given,]
-Who in mysterious Sinais awful cave
-To Man the wond'rous art of writing gave,
- Again he speaks in thunder and in fire!
-Thunder of Thought, & flames of fierce desire:
-Even from the depths of Hell his voice I hear,
-Within the unfathomed caverns of my Ear.
-Therefore I print; nor vain my types shall be:
- Heaven, Earth & Hell, henceforth shall live in harmony
+Reader! [lover] of books! [lover] of heaven,  
+And of that God from whom [all books are given,]  
+Who in mysterious Sinais awful cave  
+To Man the wond'rous art of writing gave,  
+Again he speaks in thunder and in fire!  
+Thunder of Thought, & flames of fierce desire:  
+Even from the depths of Hell his voice I hear,  
+Within the unfathomed caverns of my Ear.  
+Therefore I print; nor vain my types shall be:  
+Heaven, Earth & Hell, henceforth shall live in harmony
 
-Of the Measure, in which
-the following Poem is written
+*Of the Measure, in which the following Poem is written*
 
 We who dwell on Earth can do nothing of ourselves, every thing is conducted by Spirits, no less than Digestion or Sleep. [ to Note the last words of Jesus, Εδοθη μοι πασα εξουσια εν ουρανω και επι γης ]
 
@@ -345,7 +344,7 @@ If thou wast cast forth from my life! if I was dead upon the mountains
 Thou mightest be pitied & lovd: but now I am living; unless  
 Thou abstain ravening I will create an eternal Hell for thee.  
 Take thou this Hammer & in patience heave the thundering Bellows  
-Take thou these Tongs: strike thou alternate with me: labour obedient t  
+Take thou these Tongs: strike thou alternate with me: labour obedient  
 Hand & Hyle & Koban: Skofeld, Kox & Kotope, labour mightily  
 In the Wars of Babel & Shinar, all their Emanations were  
 Condensd. Hand has absorbd all his Brethren in his might  
@@ -447,7 +446,7 @@ O thou my enemy, where is my Great Sin? She is also thine
 I said: Now is my grief at worst: incapable of being  
 Surpassed: but every moment it accumulates more & more  
 It continues accumulating to eternity! the joys of God advance  
-For he is Righteous: he is not a Being of Pity & Compassion t  
+For he is Righteous: he is not a Being of Pity & Compassion  
 He cannot feel Distress: he feeds on Sacrifice & Offering:  
 Delighting in cries & tears & clothed in Holiness & solitude  
 But my griefs advance also, for ever & ever without end  
@@ -474,7 +473,7 @@ At the sublime Labours for Los. compelld the invisible Spectre
 
 To labours mighty, with vast strength, with his mighty chains,  
 In pulsations of time, & extensions of space, like Urns of Beulah  
-With great labour upon his anvils, & in his ladles the Ore t  
+With great labour upon his anvils, & in his ladles the Ore  
 He lifted, pouring it into the clay ground prepar'd with art;  
 Striving with Systems to deliver Individuals from those Systems;  
 That whenever any Spectre began to devour the Dead,  

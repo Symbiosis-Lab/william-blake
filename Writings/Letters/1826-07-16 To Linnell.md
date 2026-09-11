@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: l18260729
-date: 1826-07-16
+date: "1826-07-16"
 description: On Dr Young's addition to his prescription — dandelion — and the naming of Linnell's newest child.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 216–217. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: The prior vault carried this letter's text dated 1826-07-29; Russell dates it "16th July 1826, Sunday Afternoon," between the 8 July and 1 August letters, and that is the date corrected here (uid kept, since it is the same vault record). Running heads, footnote numerals and footnote bodies stripped.

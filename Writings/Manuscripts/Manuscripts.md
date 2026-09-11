@@ -1,5 +1,5 @@
 ---
-description: The manuscript works — *Tiriel*, *The French Revolution* (1791 letterpress proof), *Vala, or The Four Zoas*, and *The Pickering Manuscript* — none of which Blake engraved or saw through to publication.
+description: "The manuscript works — An Island in the Moon, Tiriel, The French Revolution (the 1791 proof), Vala, or The Four Zoas, and The Pickering Manuscript — none of which Blake printed."
 children_style: list
 weight: 6
 uid: blk-manuscripts

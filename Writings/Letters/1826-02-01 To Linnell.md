@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: l18260201
-date: 1826-02-01
+date: "1826-02-01"
 description: Too ill to come; invites Linnell to share a mutton chop instead — "Sir Francis Bacon is a liar."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 211–212. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Text recovered from 1906 OCR; spacing & date glyphs lightly normalized. Running heads and footnote bodies stripped. Original spelling preserved.

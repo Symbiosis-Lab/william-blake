@@ -1,7 +1,7 @@
 ---
 title: To George Cumberland
 uid: l17961223
-date: 1796-12-23
+date: "1796-12-23"
 description: Go on! Go on! Such works as yours Nature and Providence, the eternal parents, demand from their children.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 56–57. Public domain.
 ---

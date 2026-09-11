@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: "c2e91f08"
-date: 1826-07-02
+date: "1826-07-02"
 description: Cold weather has delayed the planned visit to North End — "weaker in muscle and bone than I supposed."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 215–216. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Running heads, footnote numerals and footnote bodies stripped; hyphenated line-breaks rejoined.

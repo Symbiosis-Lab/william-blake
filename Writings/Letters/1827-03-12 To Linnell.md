@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: "3a9c5d6e"
-date: 1827-03-12
+date: "1827-03-12"
 description: Cumberland's Bristol friends find Job "too much finished, or over-laboured"; Tatham senior looked over the Dante engravings and was pleased.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), p. 220. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Running heads and footnote bodies stripped.

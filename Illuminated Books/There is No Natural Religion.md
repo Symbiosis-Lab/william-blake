@@ -4,7 +4,7 @@ date: "1788"
 uid: blk-nnr
 cover: "no-natural-religion-a-a1.jpg"
 description: Man has no notion of moral fitness but from Education. Naturally he is only a Natural Organ, subject to Sense.
-source: "Plates: Library of Congress, Rosenwald Collection — Copy G (canonical series a) and Copy L (canonical series b), copy designations per the William Blake Archive. Public domain. Text: John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 425-426, cross-checked against Sampson's 1905 edition (Internet Archive poeticalworksofw00blakuoft). Public domain."
+source: "Plates: Library of Congress, Rosenwald Collection — Copy G (canonical series a) and Copy L (canonical series b). Public domain. Text: John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 425-426, cross-checked against Sampson's 1905 edition (Internet Archive poeticalworksofw00blakuoft). Public domain."
 children_style: grid
 ---
 

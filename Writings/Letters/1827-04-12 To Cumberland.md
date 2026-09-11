@@ -1,7 +1,7 @@
 ---
 title: To George Cumberland
 uid: l18270412
-date: 1827-04-12
+date: "1827-04-12"
 description: "I have been very near the gates of death, and have returned very weak, and an old man, feeble and tottering, but not in spirit and life, not in the real man, the imagination, which liveth for ever."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 221–224. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: The prior vault carried this letter twice, once truncated and mis-dated 1827-04-02; that duplicate is not carried forward. Running heads, footnote numerals and footnote bodies stripped; the price list reflowed into a table.

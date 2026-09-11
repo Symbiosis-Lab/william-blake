@@ -4,7 +4,7 @@ date: "1804"
 uid: 38c39b71
 description: To the Jews. Jerusalem the Emanation of the Giant Albion! Can it be?
 cover: "jerusalem-027.jpg"
-source: Text — Wikisource transcription of Jerusalem, The Emanation of the Giant Albion (after David V. Erdman, The Complete Poetry and Prose of William Blake), plate numbering per Bentley/Erdman/Keynes. Public domain. Plates — Yale Center for British Art, Copy E (fully coloured), via Wikimedia Commons / Google Art Project. Public domain. Chapter 2's plates 29–41 and 43–46 exist in two textual states across copies; the plates and text shown here follow Copy E's own state throughout.
+source: "Text — Wikisource transcription of Jerusalem, The Emanation of the Giant Albion (after David V. Erdman, The Complete Poetry and Prose of William Blake), plate numbering per Bentley/Erdman/Keynes; cross-checked against A. G. B. Russell & E. R. D. Maclagan, eds., *The Prophetic Books of William Blake: Jerusalem* (A. H. Bullen, 1904). Public domain. Plates — Yale Center for British Art, Copy E (fully coloured), via Wikimedia Commons / Google Art Project. Public domain. Chapter 2's plates 29–41 and 43–46 exist in two textual states across copies; the plates and text shown here follow Copy E's own state throughout."
 children_style: grid
 ---
 
@@ -35,115 +35,115 @@ You have a tradition, that Man anciently containd in his mighty limbs all things
 
 Albion was the Parent of the Druids; & in his Chaotic State of Sleep Satan & Adam & the whole World was Created by the Elohim.
 
-&nbsp; &nbsp; &nbsp; The fields from Islington to Marybone,
-To Primrose Hill and Saint John's Wood:
-&nbsp; &nbsp; &nbsp; Were builded over with pillars of gold,
-And there Jerusalems pillars stood.
+The fields from Islington to Marybone,  
+To Primrose Hill and Saint John's Wood:  
+Were builded over with pillars of gold,  
+And there Jerusalems pillars stood.  
 
-:5<<<Her Little-ones ran on the fields
-The Lamb of God among them seen
-:And fair Jerusalem his Bride:
-Among the little meadows green.
+Her Little-ones ran on the fields  
+The Lamb of God among them seen  
+And fair Jerusalem his Bride:  
+Among the little meadows green.  
 
-:Pancrass & Kentish-town repose
-10<<<Among her golden pillars high:
-:Among her golden arches which
-Shine upon the starry sky.
+Pancrass & Kentish-town repose  
+Among her golden pillars high:  
+Among her golden arches which  
+Shine upon the starry sky.  
 
-:The Jews-harp-house & the  Green Man;
-The Ponds where Boys to bathe delight:
-:15<<<The fields of Cows by Willans farm:
-Shine in Jerusalems pleasant sight.
+The Jews-harp-house & the Green Man;  
+The Ponds where Boys to bathe delight:  
+The fields of Cows by Willans farm:  
+Shine in Jerusalems pleasant sight.  
 
-:She walks upon our meadows green:
-The Lamb of God walks by her side:
-:And every English Child is seen,
-20<<<Children of Jesus & his Bride,
+She walks upon our meadows green:  
+The Lamb of God walks by her side:  
+And every English Child is seen,  
+Children of Jesus & his Bride,  
 
-:Forgiving trespasses and sins
-Lest Babylon with cruel Og,
-:With Moral & Self-righteous Law
-Should Crucify in Satans Synagogue!
+Forgiving trespasses and sins  
+Lest Babylon with cruel Og,  
+With Moral & Self-righteous Law  
+Should Crucify in Satans Synagogue!  
 
-:25<<<What are those golden Builders doing
-Near mournful ever-weeping  Paddington
-:Standing above that mighty Ruin
-Where Satan the first victory won.
+What are those golden Builders doing  
+Near mournful ever-weeping Paddington  
+Standing above that mighty Ruin  
+Where Satan the first victory won.  
 
-:Where Albion slept beneath the Fatal Tree
-30<<<And the Druids golden Knife,
-:Rioted in human gore,
-In Offerings of Human Life
+Where Albion slept beneath the Fatal Tree  
+And the Druids golden Knife,  
+Rioted in human gore,  
+In Offerings of Human Life  
 
-:They groan'd aloud on  London Stone
-They groand aloud on Tyburns
-:35<<<Albion gave his deadly groan,
-And all the Atlantic Mountains shook
+They groan'd aloud on London Stone  
+They groand aloud on Tyburns  
+Albion gave his deadly groan,  
+And all the Atlantic Mountains shook  
 
-:Albions Spectre from his Loins
-Tore forth in all the pomp of War!
-:Satan his name: in flames of fire
-40<<<He stretch'd his Druid Pillars far.
+Albions Spectre from his Loins  
+Tore forth in all the pomp of War!  
+Satan his name: in flames of fire  
+He stretch'd his Druid Pillars far.  
 
-:Jerusalem fell from Lambeth's Vale,
-Down thro Poplar & Old Bow;
-:Thro Malden & acros the Sea,
-In War & howling death & woe.
+Jerusalem fell from Lambeth's Vale,  
+Down thro Poplar & Old Bow;  
+Thro Malden & acros the Sea,  
+In War & howling death & woe.  
 
-:45<<<The Rhine was red with human blood:
-The Danube rolld a purple tide:
-:On the Euphrates Satan stood:
-And over Asia stretch'd his pride.
+The Rhine was red with human blood:  
+The Danube rolld a purple tide:  
+On the Euphrates Satan stood:  
+And over Asia stretch'd his pride.  
 
-:He witherd up sweet Zions Hill,
-50<<<From every Nation of the Earth:
-:He witherd up Jerusalems Gates,
-And in a dark Land gave her birth.
+He witherd up sweet Zions Hill,  
+From every Nation of the Earth:  
+He witherd up Jerusalems Gates,  
+And in a dark Land gave her birth.  
 
-:He witherd up the Human Form,
-By laws of sacrifice for sin:
-:55<<<Till it became a Mortal Worm:
-But O! translucent all within.
+He witherd up the Human Form,  
+By laws of sacrifice for sin:  
+Till it became a Mortal Worm:  
+But O! translucent all within.  
 
-:The Divine Vision still was seen
-Still was the Human Form, Divine
-:Weeping in weak & mortal clay
-60<<<O Jesus still the Form was thine.
+The Divine Vision still was seen  
+Still was the Human Form, Divine  
+Weeping in weak & mortal clay  
+O Jesus still the Form was thine.  
 
-:And thine the Human Face & thine
-The Human Hands & Feet & Breath
-:Entering thro' the Gates of Birth
-And passing thro' the Gates of Death
+And thine the Human Face & thine  
+The Human Hands & Feet & Breath  
+Entering thro' the Gates of Birth  
+And passing thro' the Gates of Death  
 
-:65<<<And O thou Lamb of God, whom I
-Slew in my dark self-righteous pride:
-:Art thou return'd to Albions Land!
-And is Jerusalem thy Bride?
+And O thou Lamb of God, whom I  
+Slew in my dark self-righteous pride:  
+Art thou return'd to Albions Land!  
+And is Jerusalem thy Bride?  
 
-:Come to my arms & never more
-70<<<Depart; but dwell for ever here:
-:Create my Spirit to thy Love:
-Subdue my Spectre to thy Fear,
+Come to my arms & never more  
+Depart; but dwell for ever here:  
+Create my Spirit to thy Love:  
+Subdue my Spectre to thy Fear,  
 
-:Spectre of Albion! warlike Fiend!
-In clouds of blood & ruin roll'd:
-:75<<< I here reclaim thee as my own
-My Selfhood! Satan! armd in gold.
+Spectre of Albion! warlike Fiend!  
+In clouds of blood & ruin roll'd:  
+I here reclaim thee as my own  
+My Selfhood! Satan! armd in gold.  
 
-:Is this thy soft Family-Love
-Thy cruel Patriarchal pride
-:Planting thy Family alone
-80<<<Destroying all the World beside.
+Is this thy soft Family-Love  
+Thy cruel Patriarchal pride  
+Planting thy Family alone  
+Destroying all the World beside.  
 
-:A mans worst enemies are those
-Of his own house & family;
-:And he who makes his law a curse,
-By his own law shall surely die.
+A mans worst enemies are those  
+Of his own house & family;  
+And he who makes his law a curse,  
+By his own law shall surely die.  
 
-:85<<<In my Exchanges every Land
-Shall walk, & mine in every Land,
-:Mutual shall build Jerusalem:
-Both heart in heart & hand in hand.
+In my Exchanges every Land  
+Shall walk, & mine in every Land,  
+Mutual shall build Jerusalem:  
+Both heart in heart & hand in hand.  
 
 If Humility is Christianity; you O Jews are the true Christians; If your tradition that Man contained in his Limbs, all Animals, is True & they were separated from him by cruel Sacrifices: and when compulsory cruel Sacrifices had brought Humanity into a Feminine Tabernacle, in the loins of Abraham & David: the Lamb of God, the Saviour became apparent on Earth as the Prophets had foretold? The Return of Israel is a Return to Mental Sacrifice & War. Take up the Cross O Israel & follow Jesus.
 
@@ -759,11 +759,6 @@ Seen only by Emanations, by vegetations viewless,
 Bending across the road of Oxford Street; it from Hyde Park  
 To Tyburns deathful shades, admits the wandering souls  
 Of multitudes who die from Earth: this Gate cannot be found  
-
-<gallery>  
-William Blake - Jerusalem, Plate 39, "By Satans Watch-fiends...." - Google Art Project.jpg  
-William Blake - Jerusalem, Plate 40, "Los shudderd at beholding Albion...." - Google Art Project.jpg  
-</gallery>  
 
 ##### Plate 39
 

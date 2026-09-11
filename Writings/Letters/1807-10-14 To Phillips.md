@@ -1,7 +1,7 @@
 ---
 title: To Richard Phillips
 uid: "2f84d1b6"
-date: 1807-10-14
+date: "1807-10-14"
 description: On a surgeon's seizure of an astrologer — "we are all subject to error," and, he adds, to crime.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 197–198. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Not in the prior vault; recovered from the Russell OCR. Running heads, footnote numerals and footnote bodies stripped; hyphenated line-breaks rejoined.

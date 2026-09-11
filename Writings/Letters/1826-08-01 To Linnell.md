@@ -1,7 +1,7 @@
 ---
 title: To John Linnell
 uid: "85e8788d"
-date: 1826-08-01
+date: "1826-08-01"
 description: Recovering enough to travel by cabriolet — "only bones and sinews, all strings and bobbins like a weaver's loom."
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), p. 218. Public domain. OCR via Internet Archive item lettersofwilliam00blak.
 ocr_note: Text recovered from 1906 OCR. Running heads, footnote numerals and footnote bodies stripped; hyphenated line-breaks rejoined.

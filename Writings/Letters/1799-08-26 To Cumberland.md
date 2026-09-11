@@ -1,7 +1,7 @@
 ---
 title: To George Cumberland
 uid: l17990826
-date: 1799-08-26
+date: "1799-08-26"
 description: As to myself, about whom you are so kindly interested, I live by miracle.
 source: Archibald G. B. Russell, ed., *The Letters of William Blake* (Methuen, 1906), pp. 64–68. Public domain.
 ---

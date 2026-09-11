@@ -1,4 +1,5 @@
 ---
+nav: true
 uid: blk-paintings
 cover: the-large-colour-prints-newton.jpg
 title: Paintings & Prints
