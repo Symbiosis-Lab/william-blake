@@ -1,5 +1,5 @@
 ---
-title: "Poems from the Notebook, c. 1793"
+title: "Poems from the Notebook, 1793"
 date: "1793"
 uid: blk-notebook-earlier-poems
 weight: 4
