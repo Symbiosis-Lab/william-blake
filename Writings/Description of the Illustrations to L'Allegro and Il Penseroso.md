@@ -8,7 +8,7 @@ source: "Written c. 1816, accompanying a set of watercolours made for Thomas But
 ocr_note: "Design 7, introducing the Il Penseroso series on the pattern of Design 1 for L'Allegro, is numbered by inference from that pattern and from the continuous 1–10 numbering long used for this set; the source prints the figure faintly or not at all at the head of that paragraph."
 ---
 
-*Blake made twelve watercolours illustrating Milton's companion poems for Thomas Butts, and wrote a short descriptive note for each of the first ten — the last two, a "Conclusion" to each poem, are left undescribed. No copy of the watercolours is available here under a free licence; the text alone is given.*
+*Blake made twelve watercolours illustrating Milton's companion poems for Thomas Butts, and wrote a short descriptive note for each of the first ten — the last two, a "Conclusion" to each poem, are left undescribed. The watercolours themselves are on [[Illustrations to Milton]].*
 
 ## L'Allegro
 
@@ -34,7 +34,7 @@ These personifications are all brought together in the First design, Surrounding
 
 ### 2
 
-The Lark is an Angel on the Wing. Dull Night starts from her Watch Tower on a Cloud. The Dawn with her Dappled Horses arises above the Earth. The Earth beneath awakes at the Lark's Voice.
+The Lark is an Angel on the Wing. Dull Night starts from his Watch Tower on a Cloud. The Dawn with her Dappled Horses arises above the Earth. The Earth beneath awakes at the Lark's Voice.
 
 ### 3
 

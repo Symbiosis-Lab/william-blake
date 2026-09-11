@@ -4,7 +4,7 @@ date: "1794"
 uid: blk-europe
 cover: "europe-007.jpg"
 description: "The nameless shadowy female rose from out the breast of Orc,"
-source: "Text: Wikisource, Europe a Prophecy, its Preludium and A Prophecy, proofread from the 1794 plates; cross-checked against Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 257-273. Plates: Library of Congress, Lessing J. Rosenwald Collection copy (call number PR4144 .E8 1794), 27 leaves photographed of the bound volume; plate 16 was not among the images staged into this vault. Public domain."
+source: "Text: Wikisource, Europe a Prophecy — its Introduction, Preludium and A Prophecy subpages — proofread from the 1794 plates; cross-checked against Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 303-309, which corrects two evident Wikisource typos ('thro' on' to 'thro' one', 'growth' to 'groweth'). Plates: Library of Congress, Lessing J. Rosenwald Collection copy (loc.gov/item/48031341); of the 28 leaf images photographed for this copy, 17 are Blake's illuminated plates (frontispiece, title page, two Preludium plates, thirteen Prophecy plates) and the remaining 11 are the front and back bindings, pastedowns, blank flyleaves and a later owner's bookplate, none of them Blake's work. The Introduction — engraved in only one known copy, the Linnell copy — has no plate in this one. Public domain."
 children_style: grid
 ---
 
@@ -38,9 +38,41 @@ children_style: grid
 
 ![[europe-021.jpg|Plate 15]]
 
+![[europe-016.jpg|Plate 16]]
+
 ![[europe-023.jpg|Plate 17]]
 
 ---
+
+*Introduction* — engraved in the Linnell copy only; no plate for it survives in this copy.
+
+'Five windows light the cavern'd Man: thro' one he breathes the air;  
+Thro' one hears music of the spheres; thro' one the eternal vine  
+Flourishes, that he may receive the grapes; thro' one can look  
+And see small portions of the eternal world that ever groweth;  
+Thro' one himself pass out what time he please, but he will not;  
+For stolen joys are sweet, & bread eaten in secret pleasant.'
+
+So sang a Fairy mocking as he sat on a streak'd Tulip,  
+Thinking none saw him; when he ceas'd I started from the trees,  
+And caught him in my hat as boys knock down a butterfly.  
+'How know you this,' said I, 'small Sir? where did you learn this song?'  
+seeing himself in my possession, thus he answer'd me:  
+'My Master, I am yours; command me, for I must obey.'
+
+'Then tell me what is the material world, and is it dead?'  
+He laughing answer'd: 'I will write a book on leaves of flowers,  
+If you will feed me on love-thoughts, & give me now and then  
+A cup of sparkling poetic fancies. So, when I am tipsie,  
+I'll sing to you to this soft lute, and shew you all alive  
+The world, where every particle of dust breathes forth its joy.'
+
+I took him home in my warm bosom. As we went along  
+Wild flowers I gather'd, & he shew'd me each eternal flower.  
+He laugh'd aloud to see them whimper because they were pluck'd.  
+They hover'd round me like a cloud of incense. When I came  
+Into my parlour and sat down, and took my pen to write,  
+My Fairy sat upon the table, and dictated 'EUROPE.'
 
 *Preludium*
 

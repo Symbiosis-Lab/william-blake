@@ -4,7 +4,7 @@ date: "1795"
 uid: blk-song-of-los
 cover: "song-of-los-002.jpg"
 description: "I will sing you a song of Los, the Eternal Prophet: he sung it to four harps at the tables of Eternity, in heart-formed Africa."
-source: "Plates: Library of Congress, Rosenwald Collection (item 49034234), Copy A. Public domain. Text: Wikisource, The Song of Los (https://en.wikisource.org/wiki/The_Song_of_Los), cross-checked against John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 331-334. Public domain."
+source: "Plates: Library of Congress, Rosenwald Collection (item 49034234), Copy B. Public domain. Text: Wikisource, The Song of Los (https://en.wikisource.org/wiki/The_Song_of_Los), cross-checked against John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 331-334. Public domain. Two misprints of the transcription corrected against the plates and Sampson 1913"
 children_style: grid
 ---
 

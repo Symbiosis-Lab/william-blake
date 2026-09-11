@@ -3,8 +3,8 @@ uid: blk-color-prints
 cover: the-large-colour-prints-newton.jpg
 date: "1795"
 title: The Large Colour Prints
-description: Twelve large colour-printed drawings, 1795 — made at Hercules Buildings by a unique method, opaque colour on millboard pulled as a single impression and finished by hand in watercolour. Each impression is unique.
-source: Wikimedia Commons, reproducing institutional originals at Tate Britain, the Fitzwilliam Museum (Cambridge), the Metropolitan Museum of Art, the J. Paul Getty Museum, and the National Gallery of Art, Washington. Per-file attribution below. Public domain.
+description: "Twelve large colour-printed drawings of 1795, of which the ten with a public-domain reproduction are shown; Lamech and his Two Wives and The House of Death have none."
+source: Wikimedia Commons, reproducing institutional originals at Tate Britain, the Fitzwilliam Museum (Cambridge), the Metropolitan Museum of Art, the J. Paul Getty Museum, and the National Gallery of Art, Washington. Per-file attribution below. Public domain, except the two files flagged in the provenance note as unresolved Tate stock photos.
 ---
 
 Twelve large colour-printed drawings, 1795.
@@ -15,8 +15,6 @@ Twelve large colour-printed drawings, 1795.
 
 ![[the-large-colour-prints-god_judging_adam.jpg|God Judging Adam (Genesis)|100%]]
 
-![[the-large-colour-prints-lamech.jpg|Lamech and his Two Wives (Genesis)]]
-
 ![[the-large-colour-prints-naomi.jpg|Naomi entreating Ruth and Orpah (the Book of Ruth)]]
 
 ![[the-large-colour-prints-nebuchadnezzar.jpg|Nebuchadnezzar (Daniel)]]
@@ -26,8 +24,6 @@ Twelve large colour-printed drawings, 1795.
 ![[the-large-colour-prints-pity.jpg|Pity (Macbeth)]]
 
 ![[the-large-colour-prints-hecate.jpg|Hecate, or The Night of Enitharmon's Joy]]
-
-![[the-large-colour-prints-house.jpg|The House of Death (Milton, Paradise Lost)]]
 
 ![[the-large-colour-prints-good.jpg|The Good and Evil Angels]]
 
@@ -40,22 +36,12 @@ Twelve large colour-printed drawings, 1795.
 | `the-large-colour-prints-elohim.jpg` | Elohim Creating Adam | Tate Britain (N05055) | colour print finished in watercolour, 1795 |
 | `the-large-colour-prints-satan.jpg` | Satan Exulting over Eve | J. Paul Getty Museum (84.GC.49) | graphite, pen and ink, watercolour over colour print, 1795 |
 | `the-large-colour-prints-god_judging_adam.jpg` | God Judging Adam | Metropolitan Museum of Art (16.38) | relief etching, colour print finished in pen, ink and watercolour, c. 1795 |
-| `the-large-colour-prints-lamech.jpg` | Lamech and his Two Wives | Tate Britain (N05061) | colour print finished in ink and watercolour, 1795 |
 | `the-large-colour-prints-naomi.jpg` | Naomi entreating Ruth and Orpah | Fitzwilliam Museum, Cambridge | colour print finished in watercolour, 1795 |
 | `the-large-colour-prints-nebuchadnezzar.jpg` | Nebuchadnezzar | Tate Britain (N05059) | colour print finished in ink and watercolour, 1795/c. 1805 |
 | `the-large-colour-prints-newton.jpg` | Newton | Tate Britain (N05058) | monotype finished in pen, ink and watercolour, c. 1795–1805 |
 | `the-large-colour-prints-pity.jpg` | Pity | Tate Britain (N05062) | colour-printed relief etching with ink and watercolour, 1795, printed 1805 |
 | `the-large-colour-prints-hecate.jpg` | Hecate, or the Three Fates | Tate Britain | pen and ink with watercolour, c. 1795 |
-| `the-large-colour-prints-house.jpg` | The House of Death | Fitzwilliam Museum, Cambridge | colour-printed monotype finished in black chalk, body colour, watercolour and ink, c. 1795 |
 | `the-large-colour-prints-good.jpg` | The Good and Evil Angels | Tate Britain | colour-printed relief etching with ink and watercolour, 1795, printed 1805 |
 | `the-large-colour-prints-christ_appearing.jpg` | Christ Appearing to the Apostles after the Resurrection | National Gallery of Art, Washington (1943.3.8995, Rosenwald Collection) | colour print monotype finished in watercolour and tempera, c. 1795 |
 
-Public domain — Blake d. 1827.
-
-Six of the twelve prints above are Tate-held originals, represented here only through their Wikimedia Commons mirrors, each carrying Commons's own Public Domain Mark 1.0 / PD-Art tag (Commons hosts the photographic reproduction as PD-Art of a public-domain work, independently of any reuse terms Tate states on its own site; each checked live via the Commons API): `the-large-colour-prints-elohim.jpg` is Commons *File:William Blake - Elohim Creating Adam - WGA2219.jpg*; `the-large-colour-prints-nebuchadnezzar.jpg` is Commons *File:William Blake - Nebuchadnezzar (Tate Britain).jpg*; `the-large-colour-prints-newton.jpg` is Commons *File:Newton-WilliamBlake.jpg*; `the-large-colour-prints-pity.jpg` is Commons *File:Pity by William Blake 1795.jpg*; `the-large-colour-prints-hecate.jpg` is Commons *File:William Blake - Hecate or the Three Fates - WGA02218.jpg*; `the-large-colour-prints-good.jpg` is Commons *File:The Good and Evil Angels Tate Blake.jpg*. None of the six were drawn from tate.org.uk.
-
-Three files are direct institutional Open Access / CC0 downloads, not Commons mirrors of a Tate original: `the-large-colour-prints-satan.jpg` from the J. Paul Getty Museum's Open Content Program; `the-large-colour-prints-god_judging_adam.jpg` from the Metropolitan Museum of Art's Open Access program, CC0; `the-large-colour-prints-christ_appearing.jpg` from the National Gallery of Art's Open Access program, CC0.
-
-`the-large-colour-prints-naomi.jpg` is Commons *File:1795-William-Blake-Naomi-entreating-Ruth-Orpah.jpg*, a PD-tagged reproduction of the Fitzwilliam Museum impression (a second impression is at the Victoria and Albert Museum).
-
-Two files' specific Commons source was not re-identified in this pass, and neither is covered by the PD-Art group above. `the-large-colour-prints-lamech.jpg` reproduces the Tate Britain original (N05061, table above), but no Commons file of "Lamech and his Two Wives" by Blake was found on a fresh Commons search — its own PD basis is unconfirmed and it should not be treated as verified until one is located or the file is re-sourced directly from an institution with an open licence. `the-large-colour-prints-house.jpg` reproduces the Fitzwilliam-held original named in the table above; its Commons digitisation likewise was not individually re-identified, and it was not drawn from the Fitzwilliam's own site. Both files stay on the page because the underlying works are unquestionably public domain (Blake d. 1827) and the images were already in the vault before this pass, but their specific reproduction source needs confirming before either is cited as PD-Art-verified.
+Provenance, per print, checked against the Commons API and each file's own embedded rights metadata: `the-large-colour-prints-elohim.jpg`, `the-large-colour-prints-nebuchadnezzar.jpg`, `the-large-colour-prints-newton.jpg`, `the-large-colour-prints-pity.jpg`, `the-large-colour-prints-hecate.jpg` and `the-large-colour-prints-good.jpg` are Commons mirrors of Tate Britain originals — respectively *File:William Blake - Elohim Creating Adam - WGA2219.jpg*, *File:William Blake - Nebuchadnezzar (Tate Britain).jpg*, *File:Newton-WilliamBlake.jpg*, *File:Pity by William Blake 1795.jpg*, *File:William Blake - Hecate or the Three Fates - WGA02218.jpg* and *File:The Good and Evil Angels Tate Blake.jpg* — each tagged "Public domain" on Commons, none drawn from tate.org.uk; `the-large-colour-prints-naomi.jpg` is likewise Commons-tagged Public domain, reproducing the Fitzwilliam Museum impression as *File:1795-William-Blake-Naomi-entreating-Ruth-Orpah.jpg* (a second impression is at the V&A); and `the-large-colour-prints-satan.jpg`, `the-large-colour-prints-god_judging_adam.jpg` and `the-large-colour-prints-christ_appearing.jpg` are direct Open Access/CC0 downloads from the Getty, the Met and the National Gallery of Art, not Commons mirrors. That accounts for seven Tate-held originals among the twelve, not six once *Lamech and His Two Wives* (N05061) is counted — and it is a Tate original with no Commons record at all: the file saved as carries embedded Tate Images (tate-images.com) rights-managed metadata for a different print, *The Good and Evil Angels* (N05057), and the file saved as carries that same commercial service's metadata for *Lamech and His Two Wives* itself — both are misfiled Tate stock photos, neither Commons-sourced nor public domain by any institution's own statement, and *The House of Death* currently has no image under either name. Both files need re-sourcing from an open-licence original before this page can honestly call all twelve prints public domain.

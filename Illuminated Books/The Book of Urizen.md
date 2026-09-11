@@ -2,23 +2,67 @@
 title: The Book of Urizen
 date: "1794"
 uid: blk-urizen
-cover: "urizen-012.jpg"
+cover: "urizen-001.jpg"
 description: "Of the primeval Priests assum'd power,"
-source: "Text: Wikisource, The Book of Urizen, proofread from Library of Congress copy G; cross-checked against Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 227-240, where it appears as The [First] Book of Urizen. Plates: Library of Congress, Lessing J. Rosenwald Collection, copy G (call number PR4144 .E8 1794); the frontispiece and plates 1-5 are staged into this vault -- plates 6 onward are not yet staged, though Wikisource's own transcription shows Commons holds at least plates 6, 7, 9, 14, 18 and 27 of this copy. Public domain."
+source: "Text: Wikisource, The Book of Urizen (https://en.wikisource.org/wiki/The_Book_of_Urizen), transcribed from Library of Congress copy G; checked complete chapter by chapter against Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 313-330, where it appears as The [First] Book of Urizen. Plates: Library of Congress, Lessing J. Rosenwald Collection (loc.gov/item/17002222), William Muir's hand-coloured facsimile of The First Book of Urizen, one of an edition of 50 copies (Muir, Muir, Watts & Webster, Facsimilied at Edmonton, 1888, from the original then belonging to Macgregor of Glasgow); all 28 plates of the book, in Blake's own order. Public domain."
 children_style: grid
 ---
 
-![[urizen-005.jpg|Frontispiece]]
+![[urizen-001.jpg|Title page]]
 
-![[urizen-012.jpg|Title page]]
+![[urizen-002.jpg|Preludium, plate 2]]
 
-![[urizen-016.jpg|Preludium, plate 2]]
+![[urizen-003.jpg|Plate 3]]
 
-![[urizen-020.jpg|Plate 3]]
+![[urizen-004.jpg|Plate 4]]
 
-![[urizen-022.jpg|Plate 4]]
+![[urizen-005.jpg|Plate 5]]
 
-![[urizen-027.jpg|Plate 5]]
+![[urizen-006.jpg|Plate 6]]
+
+![[urizen-007.jpg|Plate 7]]
+
+![[urizen-008.jpg|Plate 8]]
+
+![[urizen-009.jpg|Plate 9]]
+
+![[urizen-010.jpg|Plate 10]]
+
+![[urizen-011.jpg|Plate 11]]
+
+![[urizen-012.jpg|Plate 12]]
+
+![[urizen-013.jpg|Plate 13]]
+
+![[urizen-014.jpg|Plate 14]]
+
+![[urizen-015.jpg|Plate 15]]
+
+![[urizen-016.jpg|Plate 16]]
+
+![[urizen-017.jpg|Plate 17]]
+
+![[urizen-018.jpg|Plate 18]]
+
+![[urizen-019.jpg|Plate 19]]
+
+![[urizen-020.jpg|Plate 20]]
+
+![[urizen-021.jpg|Plate 21]]
+
+![[urizen-022.jpg|Plate 22]]
+
+![[urizen-023.jpg|Plate 23]]
+
+![[urizen-024.jpg|Plate 24]]
+
+![[urizen-025.jpg|Plate 25]]
+
+![[urizen-026.jpg|Plate 26]]
+
+![[urizen-027.jpg|Plate 27]]
+
+![[urizen-028.jpg|Plate 28]]
 
 ---
 

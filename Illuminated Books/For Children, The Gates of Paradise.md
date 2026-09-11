@@ -4,7 +4,7 @@ date: "1793"
 uid: blk-gates
 cover: "gates-02-title-page.jpg"
 description: Mutual Forgiveness of each vice, such are the Gates of Paradise, against the Accuser's chief desire, who walk'd among the stones of fire.
-source: "Plates: an uncolored impression of the first (\"For Children\") issue, 1793; the holding institution is not recorded for these scans (see open issue). Public domain. Text (Prologue, The Keys of the Gates, Epilogue, from the later \"For the Sexes\" issue): John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 413-417. Public domain."
+source: "Plates: Library of Congress, Lessing J. Rosenwald Collection (item 49034231, call number PR4144.F6 1793), the 1793 \"For Children\" issue. Public domain. Text (Prologue, The Keys of the Gates, Epilogue, from the later \"For the Sexes\" issue): John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 413-417. Public domain."
 ocr_note: "Epilogue, line 2: the source text shows no end punctuation after 'the man' (a marginal line-count numeral sits where a mark might be); rendered here without one rather than guessed."
 children_style: grid
 ---
@@ -33,9 +33,9 @@ children_style: grid
 
 ![[gates-12-plate-12.jpg|Help! Help!]]
 
-![[gates-14-aged-ignorance.jpg|Aged Ignorance]]
+![[gates-13-aged-ignorance.jpg|Aged Ignorance]]
+![[gates-14-plate-14.jpg|Does thy God, O Priest, take such vengeance as this?]]
 
-![[gates-13-plate-13.jpg|Does thy God, O Priest, take such vengeance as this?]]
 
 ![[gates-15-plate-15.jpg|Fear & Hope are — Vision]]
 

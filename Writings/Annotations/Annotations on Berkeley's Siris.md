@@ -27,11 +27,11 @@ They also considered God as abstracted or distinct from the Imaginative World, b
 
 *Page 213. "The perceptions of sense are gross: but even in the senses there is a difference. Though harmony and proportion are not objects of sense, yet the eye and the ear are organs, which offer to the mind such materials, by means whereof she may apprehend both the one and the other."*
 
-Harmony & Proportion are Qualities & Not Things. The Harmony & Proportion of a Horse are not the same with those of a Bull. Every Thing has its own Harmony & Proportion, Two Inferior Qualities in it, for its Reality is its Imaginative Form.
+Harmony and Proportion are Qualities & Not Things. The Harmony & Proportion of a Horse are not the same with those of a Bull. Every Thing has its own Harmony & Proportion, Two Inferior Qualities in it. For its Reality is its Imaginative Form.
 
 *Page 214. "By experiments of sense we become acquainted with the lower faculties of the soul; and from them, whether by a gradual evolution or ascent, we arrive at the highest. These become subjects for fancy to work upon. Reason considers and judges of the imaginations. And these acts of reason become new objects to the understanding."*
 
-Knowledge is not by deduction, but Immediate by Perception or Sense at once. Christ addresses himself to the Man, not to his Reason. Plato did not bring Life & Immortality to Light. Jesus only did this.
+Knowledge is not by deduction, but Immediate by Perception or Sense at once. Christ adresses himself to the Man, not to his Reason. Plato did not bring Life & Immortality to Light. Jesus only did this.
 
 *Page 215. "There is according to Plato properly no knowledge, but only opinion concerning things sensible and perishing, not because they are naturally abstruse and involved in darkness: but because their nature and existence is uncertain, ever fleeting and changing."*
 

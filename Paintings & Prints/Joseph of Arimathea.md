@@ -25,7 +25,7 @@ The print's inscription calls Joseph one of "the Gothic Artists who Built the Ca
 
 > Grecian is Mathematic Form: Gothic is Living Form. Mathematic Form is eternal in the Reasoning Memory: Living Form is Eternal Existence.
 
-*Source:* printed in Sampson, *The Poetical Works of William Blake* (Oxford, 1913), pp. 430–432; see [[On Homer's Poetry and On Virgil]] for the full text. Public domain.
+*Source:* printed in Sampson, *The Poetical Works of William Blake* (Oxford, 1913), p. 432; see [[On Homer's Poetry and On Virgil]] for the full text. Public domain.
 
 ## Plate
 

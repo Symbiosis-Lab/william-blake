@@ -4,7 +4,7 @@ date: "1793"
 uid: blk-visions
 cover: "visions-of-the-daughters-of-albion-02-title-page.jpg"
 description: "The Eye sees more than the Heart knows. Enslav'd, the Daughters of Albion weep: a trembling lamentation upon their mountains."
-source: "Text: the eleven plates as printed in 1793, checked against John Sampson, ed., The Poetical Works of William Blake (Oxford, 1913). Public domain."
+source: "Text: the eleven plates as printed in 1793, checked against John Sampson, ed., The Poetical Works of William Blake (Oxford, 1913). Public domain. Images: Library of Congress, Rosenwald Collection, copy J (LC control no. 48031325, https://www.loc.gov/item/48031325/). The Library of Congress states it is not aware of any U.S. copyright or other restrictions on these images."
 ---
 
 ![[visions-of-the-daughters-of-albion-01-frontispiece.jpg]]

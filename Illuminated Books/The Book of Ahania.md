@@ -4,7 +4,7 @@ date: "1795"
 uid: blk-ahania
 cover: "ahania-002.jpg"
 description: Fuzon, on a chariot iron-wing'd, on spiked flames rose; his hot visage flam'd furious.
-source: "Plates: Library of Congress, Rosenwald Collection (item 48031699), Copy A — the only complete copy of this work; plate 4 of 6 is not among the scans staged for this site. Public domain. Text: Wikisource, The Book of Ahania (https://en.wikisource.org/wiki/The_Book_of_Ahania), cross-checked against John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 341-347. Public domain."
+source: "Plates: Library of Congress, Rosenwald Collection (item 48031699), Copy A — the only complete copy of this work; plate 4 of 6 is not among the scans staged for this site. Public domain. Text: Wikisource, The Book of Ahania (https://en.wikisource.org/wiki/The_Book_of_Ahania), cross-checked against John Sampson, ed., The Poetical Works of William Blake (Oxford: Clarendon Press, 1913), pp. 341-347. Public domain. Two misprints of the transcription corrected against the plates and Sampson 1913"
 children_style: grid
 ---
 
@@ -285,7 +285,7 @@ When he took the daughters of life
 into my chambers of love;
 
 10. When I found babes of bless on my beds,  
-And bosoms of milk in my chambers  
+And bosoms of mild in my chambers  
 Fill'd with eternal seed,  
 O! eternal births sung round Ahania  
 In interchange sweet of their joys.

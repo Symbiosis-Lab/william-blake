@@ -2,24 +2,34 @@
 title: Illustrations to Gray's Poems
 date: "1797"
 uid: "gray1797"
-description: Forty-two of the 116 watercolour designs Blake made for a private, extra-illustrated copy of Thomas Gray's Poems — one design bound facing nearly every page of William Mason's 1775 edition, commissioned by Blake's friend John Flaxman as a gift for his wife.
+description: Fifty-eight of the 116 watercolour designs Blake made for a private, extra-illustrated copy of Thomas Gray's Poems — one design bound facing nearly every page of William Mason's 1775 edition, commissioned by Blake's friend John Flaxman as a gift for his wife.
 cover: gray-005-brushd-by-the-hand-of.jpg
-source: Watercolour with pen and ink over Gray's own printed page, c. 1797–98, commissioned by John Flaxman. All 116 designs have been at the Yale Center for British Art, Paul Mellon Collection, since 1972 (call number B1992.8.11). Forty-two designs retrieved here by walking the Center's IIIF manifests for TMS object ids 3560–3700; every one carries rights statement CC0 (Creative Commons Public Domain) on its own manifest. Seventy-four designs — mostly the even-numbered versos, which this walk's id range did not reach — are not reproduced on this page; see the note below.
+source: Watercolour with pen and ink over Gray's own printed page, c. 1797–98, commissioned by John Flaxman. All 116 designs have been at the Yale Center for British Art, Paul Mellon Collection, since 1972 (call number B1992.8.11(1) through (58), one per sheet). Fifty-eight designs — every recto in the set — retrieved here by walking the Center's IIIF manifests for TMS object ids 3560–3700; every one carries rights statement CC0 (Creative Commons Public Domain) on its own manifest. Fifty-eight designs — every even-numbered verso — are not reproduced on this page; see the note below.
 ---
 
 Blake's friend the sculptor John Flaxman commissioned the set as a gift for his wife Nancy: a drawing on the blank verso or facing margin of nearly every page of William Mason's 1775 edition of Gray's *Poems*, so that picture and printed text share the same sheet. Blake worked through the book's own sequence of poems, Mason's "Ode on the Spring" to the *Elegy*'s "Epitaph." The set was never published in Blake's lifetime. Designs below are arranged by poem, in the order they fall in Mason's edition; each caption gives the Yale Center's design number and, where Blake's watercolour has an inscribed line of Gray's verse facing it, that line.
 
+## Title Page
+
+![[gray-001-poems-by-mr-gray-title-page.jpg|Design 1, title page of Poems by Mr. Gray]]
+
 ## Ode on the Spring
+
+![[gray-003-ode-on-the-spring-title-page.jpg|Design 3, title page for "Ode on the Spring"]]
 
 ![[gray-005-brushd-by-the-hand-of.jpg|Design 5, "Brush'd by the hand of rough Mischance, Or chill'd by Age..."]]
 
 ## Ode on the Death of a Favourite Cat
+
+![[gray-007-favourite-cat-title-page.jpg|Design 7, title page for "Ode on the Death of a Favourite Cat, Drowned in a Tub of Gold Fishes"]]
 
 ![[gray-009-the-pensive-selima-her-ears.jpg|Design 9, "The Pensive Selima, Her ears of jet, and emerald eyes, She saw; and purr'd applause..."]]
 
 ![[gray-011-malignant-fate-sat-by-and.jpg|Design 11, "Malignant Fate sat by, and smil'd, The slipp'ry verge her feet beguil'd..."]]
 
 ## Ode on a Distant Prospect of Eton College
+
+![[gray-013-eton-college-title-page.jpg|Design 13, title page for "Ode on a Distant Prospect of Eton College"]]
 
 ![[gray-015-her-henrys-holy-shade.jpg|Design 15, "Her Henry's holy shade..."]]
 
@@ -30,6 +40,8 @@ Blake's friend the sculptor John Flaxman commissioned the set as a gift for his 
 ![[gray-021-where-ignorance-is-bliss-tis.jpg|Design 21, "Where ignorance is bliss, 'Tis folly to be wise."]]
 
 ## A Long Story
+
+![[gray-023-a-long-story-title-page.jpg|Design 23, title page for "A Long Story"]]
 
 ![[gray-025-an-ancient-pile-of-building.jpg|Design 25, "An ancient pile of building stands... there Employed the power of Fairy hands"]]
 
@@ -43,9 +55,15 @@ Blake's friend the sculptor John Flaxman commissioned the set as a gift for his 
 
 ## Ode to Adversity
 
+![[gray-035-ode-to-adversity-title-page.jpg|Design 35, title page for "Ode to Adversity"]]
+
 ![[gray-037-and-purple-tyrants-vainly-groan.jpg|Design 37, "And purple tyrants vainly groan..."]]
 
+![[gray-039-with-screaming-horrors-funeral-cry.jpg|Design 39, "With screaming Horror's funeral cry, Despair, and fell Disease, and ghastly Poverty..."]]
+
 ## The Progress of Poesy
+
+![[gray-041-the-progress-of-poesy-title-page.jpg|Design 41, title page for "The Progress of Poesy, A Pindaric Ode"]]
 
 ![[gray-043-the-laughing-flowers-that-round.jpg|Design 43, "The laughing flowers, that round them blow, Drink life and fragrance as they flow..."]]
 
@@ -58,6 +76,8 @@ Blake's friend the sculptor John Flaxman commissioned the set as a gift for his 
 ![[gray-051-yet-oft-before-his-infant.jpg|Design 51, "Yet oft before his infant eyes would run Such forms as glitter in the Muse's ray..."]]
 
 ## The Bard
+
+![[gray-053-the-bard-title-page.jpg|Design 53, title page for "The Bard, A Pindaric Ode"]]
 
 ![[gray-055-the-bard-weaving-edwards-fate.jpg|Design 55, "The Bard Weaving Edward's Fate"]]
 
@@ -73,13 +93,19 @@ Blake's friend the sculptor John Flaxman commissioned the set as a gift for his 
 
 ## The Fatal Sisters
 
+![[gray-067-the-fatal-sisters-title-page.jpg|Design 67, title page for "The Fatal Sisters, An Ode"]]
+
 ![[gray-069-sigtryg-with-the-silken-beard.jpg|Design 69, "Sigtryg with the Silken Beard"]]
 
 ![[gray-071-iron-sleet-of-arrowy-shower.jpg|Design 71, "Iron sleet of arrowy shower Hurtles in the darkened air..."]]
 
 ![[gray-073-we-the-reins-to-slaughter.jpg|Design 73, "We the reins to slaughter give..."]]
 
+![[gray-075-hurry-hurry-to-the-field.jpg|Design 75, "Hurry, hurry, to the field!"]]
+
 ## The Descent of Odin
+
+![[gray-077-the-descent-of-odin-title-page.jpg|Design 77, title page for "The Descent of Odin, An Ode"]]
 
 ![[gray-079-him-the-dog-of-darkness.jpg|Design 79, "Him the dog of darkness spied..."]]
 
@@ -91,11 +117,15 @@ Blake's friend the sculptor John Flaxman commissioned the set as a gift for his 
 
 ## The Triumphs of Owen
 
+![[gray-087-the-triumphs-of-owen-title-page.jpg|Design 87, title page for "The Triumphs of Owen, A Fragment"]]
+
 ![[gray-089-the-bard-singing-owens-praise.jpg|Design 89, "The Bard Singing Owen's Praise"]]
 
 ![[gray-091-fear-to-stop-and-shame.jpg|Design 91, "Fear to stop, and shame to fly..."]]
 
 ## Ode for Music
+
+![[gray-093-ode-for-music-title-page.jpg|Design 93, title page for "Ode for Music, Performed in the Senate-House"]]
 
 ![[gray-095-comus-his-midnight-crew.jpg|Design 95, "Comus & his midnight-crew..."]]
 
@@ -105,7 +135,13 @@ Blake's friend the sculptor John Flaxman commissioned the set as a gift for his 
 
 ![[gray-101-nor-fear-the-rocks-nor.jpg|Design 101, "Nor fear the rocks, nor seek the shore..."]]
 
+## Epitaph on Mrs. Clarke
+
+![[gray-103-epitaph-on-mrs-clarke-title-page.jpg|Design 103, title page for "Epitaph on Mrs. Clarke"]]
+
 ## Elegy Written in a Country Church-Yard
+
+![[gray-105-elegy-title-page.jpg|Design 105, title page for "Elegy Written in a Country Church-Yard"]]
 
 ![[gray-107-the-plowman-homeward-plods-his.jpg|Design 107, "The plowman homeward plods his weary way, And leaves the world to darkness, and to me..."]]
 
@@ -117,4 +153,4 @@ Blake's friend the sculptor John Flaxman commissioned the set as a gift for his 
 
 ![[gray-115-a-shepherd-reading-the-epitaph.jpg|Design 115, "A Shepherd Reading the Epitaph"]]
 
-The complete set runs to 116 designs on 58 sheets, recto and verso. This page holds the 42 recto designs whose Yale Center object ids fell inside the TMS range 3560–3700 walked for this page; every one is catalogued there with Creator William Blake and rights CC0. Sixteen recto designs in that same numbering — 1, 3, 7, 13, 23, 35, 39, 41, 53, 67, 75, 77, 87, 93, 103, and 105 — sit at TMS ids outside that range and were not retrieved by this pass. Every even-numbered design (2 through 116) is a verso, bound on the back of one of these 58 sheets; none of the versos were retrieved either, since the walk kept to the range given for this page. Both gaps are a matter of widening the same walk, not a missing source.
+The complete set runs to 116 designs on 58 sheets, recto and verso. This page now holds all 58 recto designs, one per sheet, call numbers B1992.8.11(1) through (58). The sixteen that an earlier pass could not find — 1, 3, 7, 13, 23, 35, 39, 41, 53, 67, 75, 77, 87, 93, 103, and 105 — turn out to sit inside the same TMS range 3560–3700 already walked, not outside it: fourteen of them are each ode's own title-page design, where Blake's watercolour frames the printed title rather than a line of Gray's verse, so the catalogue label carries no "(Design N)" text for a caption search to match; the other two, 39 and 75, do carry an inscribed line and a design number, but Yale's own label is missing the opening parenthesis before "Design 39)" and "Design 75)", which also defeats a literal search for "(Design N)". Every even-numbered design (2 through 116) is still a verso, bound on the back of one of these 58 sheets, and none of the 58 versos have been retrieved, since this walk covers only rectos. Fifty-eight designs remain missing from this page — the full set of versos — and closing that gap means reading the back of each sheet already found here, not a further search for new sheets.

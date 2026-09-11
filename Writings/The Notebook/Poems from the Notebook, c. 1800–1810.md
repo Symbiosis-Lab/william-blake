@@ -1,9 +1,9 @@
 ---
 title: "Poems from the Notebook, c. 1800–1810"
-date: "1800-10"
+date: "1800"
 uid: blk-notebook-later-poems
 weight: 5
-description: "My Spectre around me night and day / Like a wild beast guards my way;"
+description: "Written c. 1800–1810. My Spectre around me night and day / Like a wild beast guards my way;"
 source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1913), pp. 127–145. Public domain. OCR via Internet Archive poeticalworksofw0000will_l0j4."
 ocr_note: Sampson's manuscript-variant footnotes, textual-history headnotes, running heads, and page numbers are omitted throughout; only Blake's verse as Sampson printed it is given, including "My Spectre around me night and day"'s three supplementary stanzas, which Blake wrote later on the same page without a clear place in the poem and which Sampson's own note places before stanzas ix, x and xi; they are given here, as he gives them, in square brackets. "To the Queen" is Sampson's own addendum to this section — his note explains it is Blake's dedication to his *Illustrations of Blair's Grave*, published 1808, not part of the Rossetti manuscript itself, but closely connected to the lines before it.
 ---

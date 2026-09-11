@@ -4,23 +4,45 @@ date: "1793"
 uid: blk-america
 cover: "america-02-title-page.jpg"
 description: "The shadowy daughter of Urthona stood before red Orc."
-source: "Text: Wikisource, America a Prophecy (Preludium and A Prophecy), proofread from the 1793 plates; cross-checked against Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 241-256. Plates: Library of Congress, Lessing J. Rosenwald Collection, from Three Cancelled Plates from America, a Prophecy (loc.gov/item/48031339) -- the finished frontispiece and title page, plus five trial and cancelled proof states, captioned below with the Library's own pencilled leaf numbers. Public domain."
+source: "Text: Wikisource, America a Prophecy (Preludium and A Prophecy subpages), proofread from the 1793 plates; verified line by line against Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 292-302 (Internet Archive scan poeticalworksofw0000will_l0j4), whose modernized spelling is not followed here. Plates: Library of Congress, Lessing J. Rosenwald Collection (loc.gov/item/17002219), William Muir's hand-coloured photolithographic facsimile of America a Prophecy, one of an edition of 50 copies (Muir, Muir, Druitt & Hitchins, Facsimilied at Edmonton, 1887); all 18 plates of the book, in Blake's own order. Public domain."
 children_style: grid
 ---
 
 ![[america-01-frontispiece.jpg|Frontispiece]]
 
-![[america-12-plate-12.jpg|Cancelled proof of the frontispiece design, with the Library of Congress's own pencilled note "America page 1" -- the design differs from the published copies]]
-
 ![[america-02-title-page.jpg|Title page]]
 
-![[america-14-plate-14.jpg|Cancelled proof toward the Preludium, pencilled "America page 4 -- not this"]]
+![[america-03-preludium.jpg|Preludium]]
 
-![[america-16-plate-16.jpg|Trial proof toward the opening of "A Prophecy", pencilled "America page 5"; the design differs from the published copies]]
+![[america-04-preludium-2.jpg|Preludium, plate 4]]
 
-![[america-17-plate-17.jpg|Trial proof, pencilled "America page 6"]]
+![[america-05-a-prophecy-title.jpg|A Prophecy, title page]]
 
-![[america-09-plate-9.jpg|Trial proof, pencilled "America page 11"]]
+![[america-06-plate-6.jpg|Plate 6]]
+
+![[america-07-plate-7.jpg|Plate 7]]
+
+![[america-08-plate-8.jpg|Plate 8]]
+
+![[america-09-plate-9.jpg|Plate 9]]
+
+![[america-10-plate-10.jpg|Plate 10]]
+
+![[america-11-plate-11.jpg|Plate 11]]
+
+![[america-12-plate-12.jpg|Plate 12]]
+
+![[america-13-plate-13.jpg|Plate 13]]
+
+![[america-14-plate-14.jpg|Plate 14]]
+
+![[america-15-plate-15.jpg|Plate 15]]
+
+![[america-16-plate-16.jpg|Plate 16]]
+
+![[america-17-plate-17.jpg|Plate 17]]
+
+![[america-18-plate-18.jpg|Plate 18]]
 
 ---
 

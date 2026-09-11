@@ -15,7 +15,7 @@ This is true Christian philosophy far above all abstraction.
 
 Let me refer here to a remark on aphorism 533 & another on 630.
 
-*8. Who pursues means of enjoyment contradictory, irreconcilable, and self-destructive, is a fool, or what is called a sinner—Sin and destruction of order are the same.*
+*8. Who pursues means of enjoyment contradictory, irreconcilable, and selfdestructive, is a fool, or what is called a sinner—Sin and destruction of order are the same.*
 
 A golden sentence.
 
@@ -189,7 +189,7 @@ Sweet!
 
 *203. Who seeks those that are greater than himself, their greatness enjoys, and forgets his greatest qualities in their greater ones, is already truly great.*
 
-I hope I do not flatter myself that this is pleasant to me.
+I hope I do not flatter my self that this is pleasant to me.
 
 *226. There is no mortal truly wise and restless at once—wisdom is the repose of minds.*
 
