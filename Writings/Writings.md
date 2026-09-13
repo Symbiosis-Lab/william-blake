@@ -3,7 +3,7 @@ cover: '[[illustrations-to-dante-circle-of-the-lustful-whirlwind-of-lovers.jpg]]
 uid: blk-writings
 title: Writings
 weight: 3
-description: The Descriptive Catalogue, the Notebook, the Letters, the Annotations on other men's books, the unprinted Manuscripts, and the Refusals.
+description: The Descriptive Catalogue, the Notebook, the Annotations on other men's books, the unprinted Manuscripts, and the Refusals.
 children_style: summary
 ---
 
