@@ -8,6 +8,8 @@ cover: joseph-joseph_of_arimathea_second_state.jpg
 source: "Engraved 1773 after an old Italian drawing then attributed to Michelangelo; reworked and inscribed c. 1810, second state, line engraving on paper. National Gallery of Art, Washington, Rosenwald Collection, 1943.3.8981, via Wikimedia Commons. Inscription transcription verified against the National Gallery of Art object record for NGA 11483. Public domain (NGA Open Access)."
 ---
 
+![[joseph-joseph_of_arimathea_second_state.jpg|Joseph of Arimathea Among the Rocks of Albion, second state (c. 1803–1810)]]
+
 > JOSEPH of Arimathea among The Rocks of Albion
 >
 > Engraved by W Blake 1773 from an old Italian Drawing
@@ -23,5 +25,3 @@ source: "Engraved 1773 after an old Italian drawing then attributed to Michelang
 > Grecian is Mathematic Form: Gothic is Living Form. Mathematic Form is eternal in the Reasoning Memory: Living Form is Eternal Existence.
 
 — On Virgil, c. 1822, printed in Sampson, *The Poetical Works of William Blake* (Oxford, 1913), p. 432; see [[On Homer's Poetry and On Virgil]] for the full text.
-
-![[joseph-joseph_of_arimathea_second_state.jpg|Joseph of Arimathea Among the Rocks of Albion, second state (c. 1803–1810)]]
