@@ -8,8 +8,6 @@ source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 
 ocr_note: Blake's own spelling "Ceasar" for Caesar is kept throughout, as his own. Words and phrases Blake struck through are marked, following Keynes, as "[... del.]"; a handful of single words the scan could not recover are marked [word illegible] as Keynes marks them. At the end of his paraphrase of Thornton's version, Blake adds a separate sentence swearing that the Greek word for "kingdom" (basileia) means "Kingship" and not "Kingdom"; the Greek itself renders as unreadable characters in this scan and is dropped rather than guessed.
 ---
 
-(Annotations to Dr. Robert John Thornton's* A New Translation of the Lord's Prayer *(London, MDCCCXXVII). Written 1827, the year of Blake's death.)
-
 (On the title-page.)
 
 I look upon this as a Most Malignant & Artful attack upon the Kingdom of Jesus By the Classical Learned, thro' the Instrumentality of Dr. Thornton. The Greek & Roman Classics is the Antichrist. I say Is & not Are as most expressive & correct too.

@@ -8,8 +8,6 @@ source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 
 ocr_note: Two short words the scan could not recover are a Greek phrase Berkeley himself quotes on page 219 of Siris (left here as [Greek, illegible in this scan]) and one stray OCR-mangled page header; both are Keynes's or Berkeley's matter, not Blake's.
 ---
 
-(Blake's remarks here follow, in Keynes's larger type, the passages from Berkeley's* Siris *(Dublin, 1744) to which they refer.)
-
 Page 203. "God knoweth all things, as pure mind or intellect, but nothing by sense, nor in nor through a sensory. Therefore to suppose a sensory of any kind, whether space or any other, in God would be very wrong, and lead us into false conceptions of his nature."
 
 Imagination or the Human Eternal Body in Every Man.

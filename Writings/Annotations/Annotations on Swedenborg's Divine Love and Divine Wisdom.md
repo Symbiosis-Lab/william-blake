@@ -8,7 +8,7 @@ source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 
 ocr_note: Running heads and page numbers are removed, and wrapped OCR lines are rejoined into paragraphs. Swedenborg's own sentences, which Keynes prints in smaller type before Blake's remarks, are set in italics here; Blake's own cross-references to Swedenborg's numbered paragraphs, and Keynes's bracketed page-glosses on them (e.g. "N. 257 [p. 220]"), are kept because Blake's notes depend on them. Blake's spelling and capitals are kept. A handful of broken ligatures left by the scan ("aéts", "Readion" for "Reaction") are silently restored, and one plainly misread word ("Ong" for "One") is corrected. The opening note, written in pencil on the fly-leaf, is badly worn in the original; Keynes marks several words illegible, and a run of stray characters past the point he could read no further is dropped rather than guessed at.
 ---
 
-(Written in pencil on the fly-leaf; Keynes notes that the remainder of this passage is illegible.)
+(Written in pencil on the fly-leaf.)
 
 There can be no Good Will. Will is always Evil; it is Experience to others or suffering. If God is anything he is Understanding. He is the Influx from that into the Will. Good to others or his instant Understanding comes [?] to Will continually, but never comes ..., because Man is only Evil.
 

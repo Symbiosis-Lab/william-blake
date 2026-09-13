@@ -8,8 +8,6 @@ source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 
 ocr_note: The scan's "Gowper" is an OCR misreading of "Cowper" (the poet William Cowper, whom Blake believed he had conversed with in vision); corrected here. The run of repeated opening quotation marks the scan carries down the side of Cowper's speech (a printing convention for a quotation continued over several lines) is collapsed into one pair of quotation marks.
 ---
 
-(Blake's notes accompany the passages in Spurzheim's* Observations on the Deranged Manifestations of the Mind, or Insanity *(London, 1817) to which they refer.)
-
 Page 106. "In children... the disturbances of the organization appear merely as organic diseases, because the functions are entirely suppressed."
 
 Corporeal disease, to which I readily agree. Diseases of the mind: I pity him. Denies mental health and perfection. Stick to this, all is right. But see page 152.

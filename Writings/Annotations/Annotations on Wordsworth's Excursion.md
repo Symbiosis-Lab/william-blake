@@ -8,8 +8,6 @@ source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 
 ocr_note: Keynes notes that Blake also copied out, in his own hand on two separate leaves, the poetical portion of Wordsworth's Preface — the lemmas below are that copied-out verse, not Wordsworth's printed page.
 ---
 
-(Annotations to "The Excursion, being a portion of The Recluse, a Poem" by William Wordsworth, London, MDCCCXIV. Blake's notes, in Keynes's larger type, follow the passages from Wordsworth's Preface to which they refer, copied out in Blake's own hand.)
-
 Page xi.
 All strength—all terror, single or in bands,
 That ever was put forth in personal form;
