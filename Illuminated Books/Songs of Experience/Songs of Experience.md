@@ -11,8 +11,6 @@ series: true
 sort: weight
 ---
 
-![[songs-of-experience-01-frontispiece.jpg|Frontispiece]]
-
 Hear the voice of the Bard!  
 Who Present, Past, & Future sees  
 Whose ears have heard,  

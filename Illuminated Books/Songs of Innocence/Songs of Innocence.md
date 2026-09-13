@@ -11,8 +11,6 @@ series: true
 sort: weight
 ---
 
-![[songs-of-innocence-01-frontispiece.jpg|Frontispiece]]
-
 Piping down the valleys wild,  
 Piping songs of pleasant glee,  
 On a cloud I saw a child,  

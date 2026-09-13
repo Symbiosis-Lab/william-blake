@@ -9,12 +9,3 @@ source: "Plates — Yale Center for British Art, Copy E (Blake's only complete c
 children_style: grid
 series: true
 ---
-
-![[jerusalem-001.jpg|Frontispiece]]
-
-Blake's longest illuminated book, and his only one printed to completion in a fully coloured copy: Copy E, at Yale, shown here in full. One hundred plates in four chapters of twenty-five, each chapter opening with a prose address — to the Public, to the Jews, to the Deists, to the Christians.
-
-- [[Chapter 1]] — Plates 1–25, opening "To the Public."
-- [[Chapter 2]] — Plates 26–50, opening "To the Jews."
-- [[Chapter 3]] — Plates 51–75, opening "To the Deists."
-- [[Chapter 4]] — Plates 76–100, opening "To the Christians."
