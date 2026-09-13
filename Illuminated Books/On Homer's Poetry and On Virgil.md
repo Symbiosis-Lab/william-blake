@@ -5,7 +5,7 @@ date_basis: "Not dated by Blake; Bentley's Blake Books assigns the plate to c. 1
 uid: blk-homer-virgil
 weight: 17
 description: "The Classics! it is the Classics, and not Goths nor Monks, that desolate Europe with wars."
-source: "Two pieces engraved together on a single plate, c. 1822; printed in Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 430–432. Public domain."
+source: "Two pieces engraved together on a single plate, c. 1822; printed in Sampson, The Poetical Works of William Blake (Oxford, 1913), pp. 430–432. Public domain. No reproduction of the plate is available here under a free licence."
 ---
 
 ## On Homer's Poetry
