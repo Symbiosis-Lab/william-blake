@@ -2,7 +2,6 @@
 title: Prospectus of the Chaucer Engraving
 date: "1809-05"
 uid: blk-chaucer-prospectus
-weight: 5
 description: "Blake's Chaucer, the Canterbury Pilgrims. The Fresco Picture, representing Chaucer's Characters painted by William Blake, as it is now submitted to the Public."
 source: "Printed May 1809; a draft from the Rossetti MS, written 1809; and a revised prospectus, printed about 1810; all printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain."
 ---

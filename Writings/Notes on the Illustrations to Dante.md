@@ -3,7 +3,6 @@ title: Notes on the Illustrations to Dante
 date: "1825-06"
 date_basis: "The source gives a 1825–1827 span for these inscriptions; no month is documented, so mid-1825 is an arbitrary placeholder within that range, taken at the earlier end since the Dante commission and watercolours were already under way by then."
 uid: blk-dante-illustration-notes
-weight: 10
 description: "Every thing in Dante's Comedia shews That for Tyrannical Purposes he has made This World the Foundation of All, & the Goddess Nature is his Inspirer & not the Holy Ghost."
 source: "Written 1825–1827, inscribed on three of the 102 Dante watercolours; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain."
 ocr_note: "Keynes's own ellipses mark words illegible in Blake's pencil on the drawings themselves (his notes identify exactly which); they are kept here rather than guessed at. Two single-word gaps he could not decipher at all — a name after \"As Poor ... said\", and a word he thought might be \"Kate\" — are his, not this site's."

@@ -3,7 +3,6 @@ title: Advertisement of the Exhibition of Paintings
 date: "1809-05"
 date_basis: "Printed for the same Exhibition of Paintings in Fresco that opened at 28 Broad Street in May 1809."
 uid: blk-exhibition-advertisement
-weight: 4
 description: "Exhibition of Paintings in Fresco, Poetical and Historical Inventions, by Wm. Blake — \"Fit audience find tho' few\"."
 source: "Printed 1809; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain."
 ---

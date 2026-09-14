@@ -1,7 +1,6 @@
 ---
 description: "To Generalize is to be an Idiot. To Particularize is the Alone Distinction of Merit."
 date: "1803-07-06"
-weight: 8
 uid: blk-refusals
 source: "Letter to Thomas Butts, 6 July 1803, written in the last months of the Felpham residence (Russell 1906, pp. 121–123); the title page and fly-leaf of Blake's copy of The Works of Sir Joshua Reynolds, ed. Edmond Malone (1798), annotated c. 1798–1809 (Ellis & Yeats 1893, vol. II, p. 318); the Public Address, Blake's unpublished Notebook defence of his own engraving against the men who had displaced him on commissioned work, c. 1810 (Notebook at British Library Add. MS 49460; text in Gilchrist 1880, vol. II); and Blake's annotations on Reynolds's Discourse III."
 ---

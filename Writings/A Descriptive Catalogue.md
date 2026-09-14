@@ -4,7 +4,6 @@ date: "1809-05"
 date_basis: "Blake's one-man Exhibition of Paintings in Fresco opened at 28 Broad Street in May 1809, and this catalogue was printed for it."
 uid: "7ac3a83c"
 cover: "a-descriptive-catalogue-jacobs_ladder.jpg"
-weight: 1
 description: "Poetical and Historical Inventions, painted by William Blake in water-colours — the ancient method of Fresco Painting Restored."
 source: "A Descriptive Catalogue of Pictures, Poetical and Historical Inventions (London: D. N. Shury, 1809). Public domain."
 ocr_note: "Two OCR letter-misreadings corrected against the printed text — \"awful things\" to \"awful thing\" (Number II) and \"this l[i]ne\" to \"this line\" (Number XV). A paragraph split by a page turn after \"Mr.\" (before Number XVI) has been rejoined, sentence-ending periods lost to the OCR are restored after \"Towers\" (Number II) and after \"Drawing\" (Number XVI), and the quoted Chaucer and Gray verse is given the line breaks the OCR collapsed into running prose. Several more page-turn losses have since been repaired: the Monk's-tragedy quotation (Number III) was bleeding into the following prose sentence across the blockquote boundary and has been rejoined as prose after the quote closes; sentence-ending periods and paragraph breaks lost to page turns are restored after \"Newton\" (Number VI), after the second \"Picture\" (Number IX), and after \"Drawing\" (Number XIV); and the Ruth entry's paragraph opening (Number XV) had a stray quotation mark and an OCR fragment (\"/a\") from the page-turn, both removed."
