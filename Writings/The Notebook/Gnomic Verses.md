@@ -5,7 +5,7 @@ date_basis: "No month is documented for these Notebook epigrams beyond the year 
 uid: blk-gnomic-verses
 weight: 6
 description: "What is it men in women do require? / The lineaments of gratified desire."
-source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1913), pp. 193–198. Public domain. OCR via Internet Archive poeticalworksofw0000will_l0j4."
+source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1913), pp. 193–198. Public domain. OCR via Internet Archive poeticalworksofw0000will_l0j4. Manuscript image ('Merlin's Prophecy'): British Library, Add MS 49460 (Blake's Notebook, the Rossetti Manuscript), p. 106, reversed pagination — Sampson's note in the 1905 variorum (*The Poetical Works of William Blake: A New and Verbatim Text from the Manuscript Engraved and Letterpress Originals*, Oxford: Clarendon Press) reads \"MS. Book, p. 106. Only printed by EY, i. 207.\" Wikimedia Commons, File:Blake manuscript - Notebook 36 - Merlins prophecy.jpg. Public domain (PD-old-100)."
 ocr_note: Sampson's manuscript-variant footnotes, textual-history headnotes, running heads, and page numbers are omitted throughout; only Blake's verse as Sampson printed it is given, in his numbered order. Bracketed titles such as "[Eternity]" are Blake's own first-draft titles for these pieces, as Sampson reports them.
 ---
 
@@ -73,6 +73,8 @@ But Desire gratified
 Plants fruits of life and beauty there.
 
 ## Merlin's Prophecy
+
+![[notebook-merlins-prophecy.jpg|Blake's Notebook, Add MS 49460, p. 106 (reversed)]]
 
 'The harvest shall flourish in wintry weather  
 When two Virginities meet together:  

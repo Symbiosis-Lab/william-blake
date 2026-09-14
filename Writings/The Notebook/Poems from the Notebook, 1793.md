@@ -5,7 +5,7 @@ date_basis: "No month is documented for these earlier Notebook poems beyond the 
 uid: blk-notebook-earlier-poems
 weight: 4
 description: "Never seek to tell thy love, / Love that never told can be;"
-source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1913), pp. 109–127. Public domain. OCR via Internet Archive poeticalworksofw0000will_l0j4."
+source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1913), pp. 109–127. Public domain. OCR via Internet Archive poeticalworksofw0000will_l0j4. Manuscript image ('To Nobodaddy'): British Library, Add MS 49460 (Blake's Notebook, the Rossetti Manuscript), p. 109, reversed pagination — Sampson's note in the 1905 variorum (*The Poetical Works of William Blake: A New and Verbatim Text from the Manuscript Engraved and Letterpress Originals*, Oxford: Clarendon Press) reads \"MS. Book, p. 109. The title added later in different ink.\" Wikimedia Commons, File:Blake manuscript - Notebook 21 - To Nobodaddy.jpg. Public domain (PD-old-100)."
 ocr_note: Sampson's manuscript-variant footnotes, textual-history headnotes, running heads, and page numbers are omitted throughout; only Blake's verse as Sampson printed it is given. Obvious OCR misprints are corrected against sense (e.g. "forc'd" for "fore'd", "live" for "Iive"). The bracketed final stanza of "I heard an Angel singing" is Sampson's own assembly of Blake's cancelled and final readings into one text, as he prints it; "Lafayette" and "A Fairy leapt upon my knee" are Sampson's titles for poems Blake left untitled.
 ---
 
@@ -304,6 +304,8 @@ Why should I be bound to thee,
 O my lovely Myrtle-tree?
 
 ## To Nobodaddy
+
+![[notebook-to-nobodaddy.jpg|Blake's Notebook, Add MS 49460, p. 109 (reversed)]]
 
 Why art thou silent and invisible,  
 Father of Jealousy?  

@@ -5,7 +5,7 @@ date_basis: "These poems are dated only to the span 1800–1810 in the page's ow
 uid: blk-notebook-later-poems
 weight: 5
 description: "My Spectre around me night and day / Like a wild beast guards my way;"
-source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1913), pp. 127–145. Public domain. OCR via Internet Archive poeticalworksofw0000will_l0j4."
+source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1913), pp. 127–145. Public domain. OCR via Internet Archive poeticalworksofw0000will_l0j4. Manuscript images: British Library, Add MS 49460 (Blake's Notebook, the Rossetti Manuscript). 'Morning' (printed by Rossetti and later editors as 'Daybreak'), p. 12 — Sampson's note in the 1905 variorum (*The Poetical Works of William Blake: A New and Verbatim Text from the Manuscript Engraved and Letterpress Originals*, Oxford: Clarendon Press) reads \"MS. Book, p. 12. Title added later.\" Wikimedia Commons, File:Blake manuscript - Notebook 1800 - 06 Morning.jpg. 'The Birds', p. 14, shared with 'Three Virgins at the Break of Day' — Sampson's note reads \"MS. Book, p. 14.\" Wikimedia Commons, File:Blake manuscript - Notebook 1800 - 10 The Birds.jpg. Both public domain (PD-old-100)."
 ocr_note: Sampson's manuscript-variant footnotes, textual-history headnotes, running heads, and page numbers are omitted throughout; only Blake's verse as Sampson printed it is given, including "My Spectre around me night and day"'s three supplementary stanzas, which Blake wrote later on the same page without a clear place in the poem and which Sampson's own note places before stanzas ix, x and xi; they are given here, as he gives them, in square brackets. "Spirit who lov'st Britannia's Isle" breaks off unfinished on the manuscript page; Sampson marks this with "[Cetera desunt.]" ("the rest is missing"), omitted here as his editorial mark rather than Blake's text. "To the Queen" is Sampson's own addendum to this section — his note explains it is Blake's dedication to his *Illustrations of Blair's Grave*, published 1808, not part of the Rossetti manuscript itself, but closely connected to the lines before it.
 ---
 
@@ -277,6 +277,8 @@ Is an arrow from the Almighty's bow.'
 
 ## Morning
 
+![[notebook-morning.jpg|Blake's Notebook, Add MS 49460, p. 12]]
+
 To find the Western path,  
 Right thro' the Gates of Wrath  
 I urge my way;  
@@ -292,6 +294,8 @@ And with soft grateful tears
 Ascends the sky.
 
 ## The Birds
+
+![[notebook-the-birds.jpg|Blake's Notebook, Add MS 49460, p. 14]]
 
 He. Where thou dwellest, in what grove,  
 Tell me Fair One, tell me Love;  
