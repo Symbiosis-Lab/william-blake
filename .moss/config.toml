@@ -4,3 +4,4 @@ schema_version = 4
 
 [site]
 lang = "en"
+domain = "www.blakesnotebook.com"
