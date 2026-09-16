@@ -1,7 +1,7 @@
 ---
 title: To Tirzah
-date: "1794-06"
-date_basis: "Songs of Experience's title page is dated 1794, its combined first printing with Songs of Innocence is documented to 1794, and the Prospectus 'To the Public' of 10 October 1793 already lists Songs of Experience as available; no record narrows the month itself, so placed at mid-year by convention."
+date: "1803"
+date_basis: "'To Tirzah' was not among Blake's 1794 Experience plates; it was etched and added to the sequence several years later. The earliest copy with firm date evidence (copy P) is on paper watermarked 1802, and scholars tie the poem's Hebraic material to Blake's 30 January 1803 letter about studying Hebrew — no source narrows it to a specific month, and estimates in the literature range into 1805."
 uid: blk-songs-exp-to-tirzah
 cover: "songs-of-experience-25-to-tirzah.jpg"
 description: Whate'er is Born of Mortal Birth, / Must be consumed with the Earth.

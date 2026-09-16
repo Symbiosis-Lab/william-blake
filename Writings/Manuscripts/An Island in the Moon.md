@@ -1,7 +1,7 @@
 ---
 title: An Island in the Moon
-date: "1784-06"
-date_basis: "The source gives only \"c. 1784\" for this manuscript; no month is documented, so mid-year is an arbitrary placeholder."
+date: "1784"
+date_basis: "The manuscript is dated only to c. 1784; no month is documented, so the year alone is given."
 uid: blk-island-in-the-moon
 weight: 5
 description: "In the Moon, is a certain Island near by a mighty continent, which small island seems to have some affinity to England."

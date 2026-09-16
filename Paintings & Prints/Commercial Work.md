@@ -1,8 +1,8 @@
 ---
 title: Commercial Work
-date: "1791-12"
+date: "1791"
 uid: "caf69179"
-date_basis: "Dated to the earliest commission named in the description, Wollstonecraft's Original Stories from Real Life (J. Johnson); its illustrated edition carries a 1791 imprint and, like most Johnson gift books of the period, was issued in the winter bookselling season ahead of the new year's date on its title page."
+date_basis: "The earliest commission named on this page is Wollstonecraft's Original Stories from Real Life (J. Johnson), which carries a 1791 imprint; no document fixes a month for when Blake engraved it, so only the year is kept."
 description: Plates engraved on commission for the booksellers, 1791–1817 — Stedman's *Narrative* (1796), Wollstonecraft's *Original Stories* (1791), and Flaxman's *Hesiod* (1817) among them.
 cover: commercial-europe_supported.jpg
 source: "Blake's letter to George Cumberland, 6 December 1795, written from Lambeth during the years he was engraving the plates for Stedman's *Narrative* (Russell 1906, *The Letters of William Blake*, p. 53). Plate images via the National Gallery of Art, Washington (CC0) and Wikimedia Commons mirrors of institutional originals. Public domain."

@@ -1,7 +1,7 @@
 ---
 title: The Little Boy Found
-date: "1789-06"
-date_basis: "Songs of Innocence's title page is dated 1789, and Bentley's Blake Books dates the first copies to 1789; no record narrows the month itself, so placed at mid-year by convention."
+date: "1789"
+date_basis: "Songs of Innocence's title page is dated 1789 and Bentley's Blake Books and the Blake Archive date the work to that year; no source documents a month, so none is claimed."
 uid: blk-songs-inn-little-boy-found
 cover: "songs-of-innocence-13-the-little-boy-found.jpg"
 description: The little boy lost in the lonely fen, / Led by the wandering light.

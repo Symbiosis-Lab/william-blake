@@ -1,8 +1,8 @@
 ---
 title: Annotations on Reynolds
 uid: blk-notes-reynolds
-date: "1808-06"
-date_basis: "No month is documented for these annotations beyond the year 1808; mid-year is an arbitrary placeholder."
+date: "1808"
+date_basis: "Blake's notes on Reynolds's Discourses were written in two layers — pencil circa 1798, then copied over and expanded in ink circa 1808-9 while Blake was preparing his 1809 Descriptive Catalogue and exhibition; scholarship conventionally cites the annotations as a whole under c. 1808, but no month is documented for either layer."
 description: "To Generalize is to be an Idiot; To Particularize is the Alone Distinction of Merit."
 source: Edwin John Ellis & W. B. Yeats, eds., *The Works of William Blake, Poetic, Symbolic, and Critical*, vol. II (Bernard Quaritch, London, 1893), pp. 318ff. Public domain. OCR via Internet Archive worksofwilliambl02blakuoft.
 ocr_note: Running heads, volume and page numbers, and binder's-cut notices are removed, and wrapped OCR lines are rejoined into paragraphs. Ellis & Yeats's brief note of where each annotation stands in Blake's copy, and the Reynolds passage it answers, are kept and set in italics; their own critical essay on the annotations as a whole, and their unrelated notes on the designs of other books, which follow the annotations in the source volume, are not part of this page. Blake's spelling and capitals are kept. The French footnote Blake copied out (on Pope Leo X) was badly garbled by the scan, including its closing citation; rather than reproduce unreadable French, it is summarised here in English, with the citation folded into the summary. Two short words the scan could not recover are left as [?], one in Discourse II ("without [?] or innate science") and one in Discourse VIII, where Ellis & Yeats themselves had already marked their own doubt with a "(?)" in 1893.

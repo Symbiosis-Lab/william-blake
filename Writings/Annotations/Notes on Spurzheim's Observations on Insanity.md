@@ -1,8 +1,8 @@
 ---
 title: Notes on Spurzheim's Observations on Insanity
 uid: blk-notes-spurzheim
-date: "1819-06"
-date_basis: "No month is documented for these notes beyond the year 1819; mid-year is an arbitrary placeholder."
+date: "1819"
+date_basis: "Blake's copy is J. G. Spurzheim's Observations on the Deranged Manifestations of the Mind, or Insanity (London, 1817), and his annotations are dated to 1819; no month is documented."
 description: "Cowper came to me and said: \"O that I were insane always... Can you not make me truly insane?\""
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3, p. 352. Public domain (US). OCR via Internet Archive writingsofwillia03blak.
 ocr_note: The scan's "Gowper" is an OCR misreading of "Cowper" (the poet William Cowper, whom Blake believed he had conversed with in vision); corrected here. The run of repeated opening quotation marks the scan carries down the side of Cowper's speech (a printing convention for a quotation continued over several lines) is collapsed into one pair of quotation marks.

@@ -1,8 +1,8 @@
 ---
 title: Illustrations to Gray's Poems
-date: "1797-09"
+date: "1797"
 uid: "gray1797"
-date_basis: "Bentley's Blake Books assigns the Gray watercolours to c. 1797–98; no month is recorded in the letters, so autumn 1797 — shortly after Flaxman commissioned the set — is an estimate, not a documented date."
+date_basis: "Bentley's Blake Books assigns the Gray watercolours to c. 1797-98; no letter or document records a month, so only the year is kept."
 description: "Brush'd by the hand of rough Mischance, Or chill'd by Age..."
 cover: gray-005-brushd-by-the-hand-of.jpg
 source: "Fifty-eight of the 116 watercolour designs made for a private, extra-illustrated copy of Thomas Gray's Poems — one design bound facing nearly every page of William Mason's 1775 edition, commissioned by his friend John Flaxman as a gift for Flaxman's wife Nancy, a drawing on the blank verso or facing margin of nearly every page so that picture and printed text share the same sheet, working through the book's own sequence of poems, Mason's \"Ode on the Spring\" to the Elegy's \"Epitaph\"; never published in his lifetime. Watercolour with pen and ink over Gray's own printed page, c. 1797–98. All 116 designs have been at the Yale Center for British Art, Paul Mellon Collection, since 1972 (call number B1992.8.11(1) through (58), one per sheet). Designs below are arranged by poem, in the order they fall in Mason's edition; each caption gives the Yale Center's design number and, where the watercolour has an inscribed line of Gray's verse facing it, that line. Fifty-eight designs — every recto in the set — retrieved here by walking the Center's IIIF manifests for TMS object ids 3560–3700; every one carries rights statement CC0 (Creative Commons Public Domain) on its own manifest. Fifty-eight designs — every even-numbered verso — are not reproduced on this page."

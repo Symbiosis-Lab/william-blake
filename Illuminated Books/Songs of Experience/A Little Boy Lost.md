@@ -1,7 +1,7 @@
 ---
 title: A Little Boy Lost
-date: "1794-06"
-date_basis: "Songs of Experience's title page is dated 1794, its combined first printing with Songs of Innocence is documented to 1794, and the Prospectus 'To the Public' of 10 October 1793 already lists Songs of Experience as available; no record narrows the month itself, so placed at mid-year by convention."
+date: "1794"
+date_basis: "Songs of Experience was first printed combined with Songs of Innocence in 1794, and Blake's Prospectus of 10 October 1793 already advertised it as available; no source dates the printing to a specific month, so only the year is documented."
 uid: blk-songs-exp-little-boy-lost
 cover: "songs-of-experience-23-a-little-boy-lost.jpg"
 description: Nought loves another as itself, / Nor venerates another so.

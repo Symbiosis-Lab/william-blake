@@ -1,8 +1,8 @@
 ---
 title: The Land of Dreams
 description: From the Pickering Manuscript, c. 1807.
-date: "1807-06"
-date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so mid-year is an arbitrary placeholder."
+date: "1807"
+date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so the year alone is given."
 uid: blk-pickering-the-land-of-dreams
 weight: 4
 source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1905), p. 279. Public domain. OCR via Internet Archive cu31924013436013."

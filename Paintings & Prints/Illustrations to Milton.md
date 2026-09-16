@@ -1,8 +1,8 @@
 ---
 title: Illustrations to Milton
-date: "1801-06"
+date: "1801"
 uid: milt-illus
-date_basis: "Dated to the earliest set named in the body, the eight Comus watercolours commissioned by the Rev. Joseph Thomas in 1801; no month survives in the record, so mid-1801 is an estimate."
+date_basis: "The earliest set named here, the eight Comus watercolours, was commissioned by the Rev. Joseph Thomas in 1801; no document records a month, so only the year is kept."
 cover: "milton-allegro-penseroso-01-mirth.jpg"
 description: "Watercolours to Comus, Paradise Lost, the Nativity Ode, L'Allegro and Il Penseroso, and Paradise Regained, 1801–1820"
 source: Wikimedia Commons (Public domain / PD-Art of public-domain originals), reproducing originals at the Huntington Library, the Museum of Fine Arts (Boston), the Whitworth Art Gallery (Manchester), the Victoria and Albert Museum, the Houghton Library (Harvard), the National Gallery of Victoria (Melbourne), the Morgan Library & Museum (New York), and the Fitzwilliam Museum (Cambridge). Per-image collection noted in each caption. Public domain.

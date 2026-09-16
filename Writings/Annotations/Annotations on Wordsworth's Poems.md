@@ -1,8 +1,8 @@
 ---
 title: Annotations on Wordsworth's Poems
 uid: blk-notes-wordsworth-poems
-date: "1826-06"
-date_basis: "No month is documented for these annotations beyond the year 1826; mid-year is an arbitrary placeholder."
+date: "1826"
+date_basis: "Blake annotated the 1815 Poems in a copy lent to him by Henry Crabb Robinson, whose diary places their Wordsworth conversations in December 1825 and February-May 1826; the annotations are conventionally dated 1826, with no documented month for the annotating itself."
 description: "Natural objects always did & now do weaken, deaden & obliterate Imagination in me."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3, pp. 376-378. Public domain (US). OCR via Internet Archive writingsofwillia03blak.
 ocr_note: The book was lent to Blake by Henry Crabb Robinson; one word Keynes himself could not recover ("the opinions of [word missing] landscape painter") is kept as Keynes marks it. Blake's citation of the Michelangelo sonnet's volume and page is badly garbled in this scan ("vol 9ep. 170"); the page number is taken instead from Keynes's bracketed citation ("[Poems, 1815, vol. II, p. 179.]") attached to Blake's own transcript of the same sonnet in an 1826 Upcott album inscription, a separate document also printed in Keynes vol. 3.

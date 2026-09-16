@@ -1,7 +1,7 @@
 ---
 title: The Mental Traveller
-date: "1807-06"
-date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so mid-year is an arbitrary placeholder."
+date: "1807"
+date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so the year alone is given."
 uid: blk-mental-traveller
 weight: 3
 description: From the Pickering Manuscript, c. 1807. "I travell'd thro' a Land of Men / A Land of Men & Women too."

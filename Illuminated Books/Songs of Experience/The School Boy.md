@@ -1,7 +1,7 @@
 ---
 title: The School Boy
-date: "1794-06"
-date_basis: "Songs of Experience's title page is dated 1794, its combined first printing with Songs of Innocence is documented to 1794, and the Prospectus 'To the Public' of 10 October 1793 already lists Songs of Experience as available; no record narrows the month itself, so placed at mid-year by convention."
+date: "1789"
+date_basis: "'The School Boy' was etched and first printed as a plate of Songs of Innocence in 1789; Blake moved it into the Experience sequence only in later copies. The 1794 combined-edition date describes the book's Innocence+Experience joining, not this plate's own origin."
 uid: blk-songs-exp-school-boy
 cover: "songs-of-experience-26-the-school-boy.jpg"
 description: I love to rise in a summer morn, / When the birds sing on every tree.

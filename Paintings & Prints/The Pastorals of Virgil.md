@@ -1,8 +1,8 @@
 ---
 title: The Pastorals of Virgil
-date: "1821-01"
+date: "1821"
 uid: "past1821"
-date_basis: "Thornton's third edition carries a 1821 imprint; schoolbooks of this kind were typically issued ahead of the new year's start of term, so January 1821 is an estimate."
+date_basis: "Thornton's third edition carries an 1821 imprint; no document records the month of actual publication, so only the year is kept."
 description: Thenot and Colinet Lead Their Flocks Together
 cover: virgil-01-thenot-and-colinet-lead-their-flocks-together.jpg
 source: "Fourteen of the seventeen wood engravings cut for Dr. Robert John Thornton's schoolbook edition of Ambrose Philips's imitation of Virgil's first Eclogue, \"Imitation of the First Eclogue of Virgil\" — his only work in wood engraving, and the only one of his print series meant for schoolchildren rather than collectors. Thornton's fellow editors thought the results too rough and had three of the seventeen blocks re-cut by a journeyman before publication; the fourteen below are his own, as the Metropolitan Museum holds them. Captions are the Met's own titles. Engraved 1821 for R. J. Thornton, \"The Pastorals of Virgil, with a Course of English Reading, Adapted for Schools\" (3rd ed., London, 1821). Fourteen of the seventeen designs, Metropolitan Museum of Art, Harris Brisbane Dick Fund, 1931–32 (accession numbers below), CC0 / Open Access, isPublicDomain true. Three designs in the traditional set of seventeen are not held by the Met and are not reproduced here."

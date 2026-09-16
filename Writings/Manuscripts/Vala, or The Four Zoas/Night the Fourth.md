@@ -1,8 +1,8 @@
 ---
 title: Vala — Night the Fourth
 description: "But Tharmas rode on the dark Abyss; the voice of Tharmas roll'd over the heaving deluge, where he saw Los and Enitharmon emerge."
-date: "1797-06"
-date_basis: "The manuscript as a whole is dated only to a span of c. 1796–1807; no month is documented for this Night, so mid-year of the page's own 1797 date is an arbitrary placeholder."
+date: "1797"
+date_basis: "The manuscript as a whole is dated only to c. 1796-1807; scholarship's conventional anchor year for its inception is 1797, and no month is documented for any individual Night, so the year alone is given."
 uid: blk-vala-night-iv
 weight: 4
 source: "printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 2, pp. 47–56. Public domain."

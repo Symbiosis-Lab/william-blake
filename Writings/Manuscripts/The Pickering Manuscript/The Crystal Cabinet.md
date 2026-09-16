@@ -1,8 +1,8 @@
 ---
 title: The Crystal Cabinet
 description: From the Pickering Manuscript, c. 1807.
-date: "1807-06"
-date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so mid-year is an arbitrary placeholder."
+date: "1807"
+date_basis: "The Pickering fair-copy manuscript is dated only to c. 1807; no month is documented, so the year alone is given."
 uid: blk-pickering-the-crystal-cabinet
 weight: 6
 source: "John Sampson, ed., *The Poetical Works of William Blake* (Oxford: Clarendon Press, 1905), pp. 282–283. Public domain. OCR via Internet Archive cu31924013436013."

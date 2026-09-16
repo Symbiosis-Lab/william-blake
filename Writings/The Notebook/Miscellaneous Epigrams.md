@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous Epigrams"
-date: "1808-06"
-date_basis: "No month is documented for these Notebook epigrams beyond the year 1808; mid-year is an arbitrary placeholder."
+date: "1808"
+date_basis: "These Notebook epigrams are dated only to 1808; no month is documented, so the year alone is given."
 uid: blk-miscellaneous-epigrams
 weight: 9
 description: "Here lies John Trot, the friend of all mankind: He has not left one enemy behind."

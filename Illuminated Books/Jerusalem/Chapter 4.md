@@ -1,7 +1,7 @@
 ---
 title: Chapter 4
-date: "1804-06"
-date_basis: "The title page reads '1804', though Bentley's Blake Books dates the first complete copies to c. 1820; no month is recorded, so placed at mid-year by convention within the title-page year."
+date: "1804"
+date_basis: "The title page reads '1804', the year scholarship conventionally cites for the work, but no source dates it to a specific month: Aileen Ward's dating study and Bentley both note the title-page date may have been added after the poem was largely finished, actual composition, etching and revision ran to c. 1820, and Blake did not print Copy E until 1821."
 uid: becf100a
 description: I give you the end of a golden string. Only wind it into a ball.
 cover: "jerusalem-077.jpg"

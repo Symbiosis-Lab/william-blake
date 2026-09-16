@@ -1,7 +1,7 @@
 ---
 title: "Description of the Illustrations to L'Allegro and Il Penseroso"
-date: "1816-06"
-date_basis: "The source gives only \"c. 1816\" for the Butts watercolour set this text accompanies; no month is documented, so mid-year is an arbitrary placeholder within that range."
+date: "1816"
+date_basis: "The Butts watercolour series this text accompanies is dated only to c. 1816 (the full set of twelve is usually given as executed across 1816-1820); no month is documented, so the year alone is given."
 uid: blk-allegro-penseroso-desc
 description: "The Lark is an Angel on the Wing. Dull Night starts from his Watch Tower on a Cloud."
 source: "Written c. 1816, accompanying a set of watercolours made for Thomas Butts; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain. Keynes's own heading dates the manuscript \"about 1810\"; this site follows the later date now generally given to the Butts set."

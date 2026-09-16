@@ -1,7 +1,7 @@
 ---
 title: The Marriage of Heaven and Hell
-date: "1790-06"
-date_basis: "The plates carry only the year 1790; no month is recorded in Bentley's Blake Books, so placed at mid-year by convention."
+date: "1790"
+date_basis: "The plates carry only the year 1790; Bentley's Blake Books records no month, so mid-year is an invented placeholder."
 uid: c8f2b002
 cover: "marriage-01-title-page.jpg"
 description: Without Contraries is no progression. Attraction and repulsion, reason and energy, love and hate, are necessary to human existence.

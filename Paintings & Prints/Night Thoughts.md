@@ -1,8 +1,8 @@
 ---
 title: Night Thoughts
-date: "1797-11"
+date: "1797"
 uid: "nigh1797"
-date_basis: "Richard Edwards's first edition is dated 1797 on its title page; large illustrated subscription volumes of this kind were customarily issued ahead of the Christmas gift-book season, so November 1797 is an estimate."
+date_basis: "Richard Edwards's first edition is dated 1797 on its title page; no document records the month of actual publication, so only the year is kept."
 description: "Night the First, on Life, Death and Immortality"
 cover: night-thoughts-nt-i-title.jpg
 source: "Forty-three engravings published by Richard Edwards, 1797, illustrating Edward Young's *Night Thoughts*; 537 watercolour designs were made for the commission in all, only these 43 engraved and published, covering Nights the First through the Fourth, before Edwards's project collapsed — the remaining five Nights never went to press. First edition 1797 (R. Edwards, Bond Street), engraved from his own watercolour designs; the title-plate's subtitle, repeated at the head of each of the nine Nights, is Young's own words, not his. Remarked on once, in a letter to George Cumberland, 26 August 1799: \"since my Young's Night Thoughts have been published, even Johnson and Fuseli have discarded my graver\" (Russell 1906, *The Letters of William Blake*, pp. 66–67). All 43 plates from the Yale Center for British Art's hand-coloured copy of the 1797 edition, via Wikimedia Commons (Google Art Project digitisation), object record \"Young's Night Thoughts, Page N\" per plate, collection Yale Center for British Art, Paul Mellon Collection; licence Public domain on each file's Commons page. The British Museum's 537 working watercolours (1929,0713.1–537) are not reproduced here — that set is CC BY-NC-SA and outside the licence this site uses. Public domain."

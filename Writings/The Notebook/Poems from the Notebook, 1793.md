@@ -1,7 +1,7 @@
 ---
 title: "Poems from the Notebook, 1793"
-date: "1793-06"
-date_basis: "No month is documented for these earlier Notebook poems beyond the year 1793; mid-year is an arbitrary placeholder."
+date: "1793"
+date_basis: "These earlier Notebook poems are dated only to 1793; no month is documented, so the year alone is given."
 uid: blk-notebook-earlier-poems
 weight: 4
 description: "Never seek to tell thy love, / Love that never told can be;"

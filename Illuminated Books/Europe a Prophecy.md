@@ -1,7 +1,7 @@
 ---
 title: Europe a Prophecy
-date: "1794-06"
-date_basis: "The title page imprint reads only '1794'; no record narrows the month further, so placed at mid-year by convention."
+date: "1794"
+date_basis: "The title page imprint reads only '1794'; no record narrows the date to a month, so mid-year is an invented placeholder."
 uid: blk-europe
 cover: "europe-007.jpg"
 description: "The nameless shadowy female rose from out the breast of Orc,"

@@ -1,8 +1,8 @@
 ---
 title: Public Address
 description: "The originality of this production makes it necessary to say a few words."
-date: "1810-06"
-date_basis: "Scholarship dates this Notebook text to 1810; no month is documented, so mid-year is an arbitrary placeholder."
+date: "1810"
+date_basis: "Scholarship dates this Notebook text to 1810; no month is documented, so the year alone is given."
 uid: blk-public-address
 weight: 2
 source: "Alexander Gilchrist, *Life of William Blake, \"Pictor Ignotus\"* (London: Macmillan, 2nd ed. 1880), vol. II, pp. 164–178. Public domain. OCR via Internet Archive lifeofwilliambla02gilcuoft."

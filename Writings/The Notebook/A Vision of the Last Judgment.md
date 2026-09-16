@@ -1,8 +1,8 @@
 ---
 title: A Vision of the Last Judgment
 description: "The Last Judgment is not fable, or allegory, but vision. Fable, or allegory, is a totally distinct and inferior kind of poetry."
-date: "1810-06"
-date_basis: "Scholarship dates this Notebook text to 1810; no month is documented, so mid-year is an arbitrary placeholder."
+date: "1810"
+date_basis: "Scholarship dates this Notebook text to 1810; no month is documented, so the year alone is given."
 uid: blk-vision-last-judgment
 weight: 3
 source: "Alexander Gilchrist, *Life of William Blake, \"Pictor Ignotus\"* (London: Macmillan, 2nd ed. 1880), vol. II, pp. 185–204. Public domain. OCR via Internet Archive lifeofwilliambla02gilcuoft."

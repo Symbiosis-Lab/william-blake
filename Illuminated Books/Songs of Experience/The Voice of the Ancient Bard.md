@@ -1,7 +1,7 @@
 ---
 title: The Voice of the Ancient Bard
-date: "1794-06"
-date_basis: "Songs of Experience's title page is dated 1794, its combined first printing with Songs of Innocence is documented to 1794, and the Prospectus 'To the Public' of 10 October 1793 already lists Songs of Experience as available; no record narrows the month itself, so placed at mid-year by convention."
+date: "1789"
+date_basis: "'The Voice of the Ancient Bard' was etched and first printed as a plate of Songs of Innocence in 1789, printed as verso to 'The Little Black Boy'; Blake moved it into Experience only after 1818, where it became the collection's terminal poem. The 1794 combined-edition date describes the book's Innocence+Experience joining, not this plate's own origin."
 uid: blk-songs-exp-voice-ancient-bard
 cover: "songs-of-experience-27-the-voice-of-the-ancient-bard.jpg"
 description: Youth of delight come hither, / And see the opening morn.

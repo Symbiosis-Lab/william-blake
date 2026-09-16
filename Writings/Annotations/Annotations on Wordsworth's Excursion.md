@@ -1,8 +1,8 @@
 ---
 title: Annotations on Wordsworth's Excursion
 uid: blk-notes-wordsworth-excursion
-date: "1826-06"
-date_basis: "No month is documented for these annotations beyond the year 1826; mid-year is an arbitrary placeholder."
+date: "1826"
+date_basis: "Blake's copied-out and annotated Preface to The Excursion is associated with Henry Crabb Robinson's diary entries from December 1825 through May 1826 (Blake gave Robinson the copy on 18 February 1826), and is conventionally dated 1826; no month is documented as the date of Blake's own annotating, only of the gift to Robinson."
 description: "You shall not bring me down to believe such fitting & fitted. I know better & please your Lordship."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3, pp. 379-380. Public domain (US). OCR via Internet Archive writingsofwillia03blak.
 ocr_note: Keynes notes that Blake also copied out, in his own hand on two separate leaves, the poetical portion of Wordsworth's Preface — the lemmas below are that copied-out verse, not Wordsworth's printed page.

@@ -1,6 +1,7 @@
 ---
 title: Canterbury Pilgrims
 date: "1810-10-08"
+date_basis: "The plate's own engraved imprint line reads \"Painted in Fresco by William Blake & by him Engraved & Published Oct 8 1810, at No.28 Corner of Broad Street, Golden Square\" — a formal publication-date line required by the period's Engraving Copyright Act, not an estimate. (No date_basis field currently exists on this page; this would be new.)"
 uid: "03de7e57"
 description: Sir Jeffery Chaucer and the nine and twenty Pilgrims on their journey to Canterbury.
 cover: canterbury-canterbury_pilgrims_engraving.jpg

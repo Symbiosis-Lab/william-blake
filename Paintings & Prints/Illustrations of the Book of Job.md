@@ -1,6 +1,7 @@
 ---
 title: Illustrations of the Book of Job
 date: "1826-03"
+date_basis: "The plates carry an engraved publication line dated 8 March 1825, but issue was delayed; the title label pasted onto the boards in which the set was actually sold is dated March 1826, and it is that later date this page follows. (No date_basis field currently exists on this page; this would be new.)"
 uid: blk-job
 description: Job and his Family
 cover: job-01-job-and-his-family.jpg
