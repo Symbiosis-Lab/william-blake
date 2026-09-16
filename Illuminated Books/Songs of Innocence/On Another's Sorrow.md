@@ -1,7 +1,7 @@
 ---
 title: On Another's Sorrow
 date: "1789"
-date_basis: "Songs of Innocence's title page is dated 1789 and Bentley's Blake Books and the Blake Archive date the work to that year; no source documents a month, so none is claimed."
+date_basis: "Tate states Songs of Innocence was published by Blake in 1789 and its title page is dated 1789; no source documents a month, so none is claimed."
 uid: blk-songs-inn-on-anothers-sorrow
 cover: "songs-of-innocence-26-on-anothers-sorrow-1.jpg"
 description: Can I see another's woe, / And not be in sorrow too?

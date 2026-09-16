@@ -2,7 +2,7 @@
 title: Annotations on Bacon's Essays
 uid: blk-notes-bacon
 date: "1798"
-date_basis: "Blake's annotated copy is the 1798 London edition of Bacon's Essays; Bentley (Blake Books) dates the annotations to not long after that edition appeared, on internal evidence (Blake's repeated comparisons of Bacon to Christ), but no month or day is documented."
+date_basis: "ASU Library's edition of Blake's marginalia confirms Blake's annotated copy is the London, 1798 edition of Bacon's Essays; that edition date is the earliest Blake could have written the notes, but no source consulted here documents how soon after 1798 he wrote them, or any month."
 description: "Good advice for Satan's Kingdom."
 source: printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 2, pp. 169ff. Public domain in the United States (the 1925 edition's US copyright term expired 1 January 2021).
 ocr_note: Running heads and page numbers are removed, and wrapped OCR lines are rejoined into paragraphs. Keynes notes that not all of Bacon's passages could be identified; where none is given, Blake's note stands alone. Bacon's own sentences, where Keynes could identify them, are set in italics immediately before Blake's reply to them. Blake's spelling and capitals are kept; a handful of broken ligatures left by the scan ("aét", "chara¢ter" and the like, where the printer's combined ct-character defeated the OCR) are silently restored to "act", "character".

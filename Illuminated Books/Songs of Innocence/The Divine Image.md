@@ -1,7 +1,7 @@
 ---
 title: The Divine Image
 date: "1789"
-date_basis: "Songs of Innocence's title page is dated 1789 and Bentley's Blake Books and the Blake Archive date the work to that year; no source documents a month, so none is claimed."
+date_basis: "Tate states Songs of Innocence was published by Blake in 1789 and its title page is dated 1789; no source documents a month, so none is claimed."
 uid: blk-songs-inn-divine-image
 cover: "songs-of-innocence-17-the-divine-image.jpg"
 description: To Mercy Pity Peace and Love, / All pray in their distress.

@@ -1,7 +1,7 @@
 ---
 title: The Little Black Boy
 date: "1789"
-date_basis: "Songs of Innocence's title page is dated 1789 and Bentley's Blake Books and the Blake Archive date the work to that year; no source documents a month, so none is claimed."
+date_basis: "Tate states Songs of Innocence was published by Blake in 1789 and its title page is dated 1789; no source documents a month, so none is claimed."
 uid: blk-songs-inn-little-black-boy
 cover: "songs-of-innocence-08-the-little-black-boy-1.jpg"
 description: My mother bore me in the southern wild, / And I am black, but O! my soul is white.

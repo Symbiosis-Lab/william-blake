@@ -1,7 +1,7 @@
 ---
 title: Notes on the Illustrations to Dante
 date: "1826"
-date_basis: "The William Blake Archive catalogues Blake's Illustrations of Dante, including these critical notes, as composed 1826-27; no month is documented, so the year alone is given, using the start of that span."
+date_basis: "Blake inscribed these notes directly on three of his Dante watercolours; Tate dates Blake's Dante illustration project 1824-7, and this file's own source note places the inscriptions at 1825-1827. No source narrows any single note to one year within that span, so 1826 is used as a midpoint estimate rather than an attested date."
 uid: blk-dante-illustration-notes
 description: "Every thing in Dante's Comedia shews That for Tyrannical Purposes he has made This World the Foundation of All, & the Goddess Nature is his Inspirer & not the Holy Ghost."
 source: "Written 1825–1827, inscribed on three of the 102 Dante watercolours; printed in Keynes, The Writings of William Blake (Nonesuch, 1925), vol. 3. Public domain."

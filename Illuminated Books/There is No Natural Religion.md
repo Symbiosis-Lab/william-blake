@@ -1,7 +1,7 @@
 ---
 title: There is No Natural Religion
 date: "1788"
-date_basis: "Only the year '1788' appears on the plate; Bentley's Blake Books groups this with All Religions are One among Blake's earliest relief etchings but names no month."
+date_basis: "Union College's Schaffer Library exhibit catalogue dates the two series that make up this work to 1788-1794, with the material begun in 1788 and amended in 1795; no month is documented for the 1788 work."
 uid: blk-nnr
 cover: "no-natural-religion-a-a1.jpg"
 description: Man has no notion of moral fitness but from Education. Naturally he is only a Natural Organ, subject to Sense.

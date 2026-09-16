@@ -1,7 +1,7 @@
 ---
 title: Spring
 date: "1789"
-date_basis: "Songs of Innocence's title page is dated 1789 and Bentley's Blake Books and the Blake Archive date the work to that year; no source documents a month, so none is claimed."
+date_basis: "Tate states Songs of Innocence was published by Blake in 1789 and its title page is dated 1789; no source documents a month, so none is claimed."
 uid: blk-songs-inn-spring
 cover: "songs-of-innocence-21-spring-1.jpg"
 description: Sound the Flute! / Now it's mute.

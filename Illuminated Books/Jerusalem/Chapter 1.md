@@ -1,7 +1,7 @@
 ---
 title: Chapter 1
 date: "1804"
-date_basis: "The title page reads '1804', the year scholarship conventionally cites for the work, but no source dates it to a specific month: Aileen Ward's dating study and Bentley both note the title-page date may have been added after the poem was largely finished, actual composition, etching and revision ran to c. 1820, and Blake did not print Copy E until 1821."
+date_basis: "The Yale Center for British Art's catalogue entry for the title page (copy E) transcribes the lettering as '1804 Printed by W. Blake, Sth. Molton St.' and dates the work '1804 to 1820', reflecting that Blake continued printing copies for years after that title-page date; no source consulted here narrows it to a month."
 uid: d5a8a25c
 description: Of the Sleep of Ulro! and of the passage through Eternal Death, and of the awaking to Eternal Life.
 cover: "jerusalem-004.jpg"

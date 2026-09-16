@@ -1,7 +1,7 @@
 ---
 title: Preface
 date: "1804"
-date_basis: "The title page reads '1804', the year the work is conventionally dated by; Viscomi's printing chronology and Bentley's Blake Books show the actual etching and printing ran in campaigns into c. 1811, but no source narrows any of this to a month."
+date_basis: "Wikimedia Commons' catalogue metadata for the title-page plates gives 1804 as the work's initial date, with later copies (e.g. Copy D) printed as late as 1818; no source consulted here narrows the 1804 date to a month."
 uid: a91f9e05
 description: And did those feet in ancient time, walk upon England's mountains green?
 cover: "milton-002.jpg"

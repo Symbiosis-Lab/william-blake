@@ -4,7 +4,7 @@ title: Songs of Innocence
 cover: songs-of-innocence-01-frontispiece.jpg
 description: Piping down the valleys wild, / Piping songs of pleasant glee.
 date: "1789"
-date_basis: "Songs of Innocence's title page is dated 1789 and Bentley's Blake Books and the Blake Archive date the work to that year; no source documents a month, so none is claimed."
+date_basis: "Tate states Songs of Innocence was published by Blake in 1789 and its title page is dated 1789; no source documents a month, so none is claimed."
 weight: 1
 children_style: grid
 series: true

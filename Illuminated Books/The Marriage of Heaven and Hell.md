@@ -1,7 +1,7 @@
 ---
 title: The Marriage of Heaven and Hell
 date: "1790"
-date_basis: "The plates carry only the year 1790; Bentley's Blake Books records no month."
+date_basis: "Wikipedia's article on the work states it was composed between 1790 and 1793; no source consulted here documents a month for the 1790 start."
 uid: c8f2b002
 cover: "marriage-01-title-page.jpg"
 description: Without Contraries is no progression. Attraction and repulsion, reason and energy, love and hate, are necessary to human existence.
