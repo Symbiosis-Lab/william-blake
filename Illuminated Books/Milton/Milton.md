@@ -1,7 +1,7 @@
 ---
 title: Milton
 date: "1804"
-date_basis: "The title page reads '1804', the year the work is conventionally dated by; Viscomi's printing chronology and Bentley's Blake Books show the actual etching and printing ran in campaigns into c. 1811, but no source narrows any of this to a month, so mid-year is an invented placeholder."
+date_basis: "The title page reads '1804', the year the work is conventionally dated by; Viscomi's printing chronology and Bentley's Blake Books show the actual etching and printing ran in campaigns into c. 1811, but no source narrows any of this to a month."
 uid: blk-milton
 description: Milton, a Poem in 2 Books, 1804–1811. To Justify the Ways of God to Men.
 cover: "milton-001.jpg"

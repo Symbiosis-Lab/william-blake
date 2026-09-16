@@ -1,7 +1,7 @@
 ---
 title: The Book of Ahania
 date: "1795"
-date_basis: "The colophon reads only '1795'; no record narrows the date to a month, so mid-year is an invented placeholder."
+date_basis: "The colophon reads only '1795'; no source narrows the date to a month."
 uid: blk-ahania
 cover: "ahania-002.jpg"
 description: Fuzon, on a chariot iron-wing'd, on spiked flames rose; his hot visage flam'd furious.

@@ -1,7 +1,7 @@
 ---
 title: "Poems from the Notebook, 1800-1810"
 date: "1800"
-date_basis: "This page collects Notebook poems documented only to the span 1800-1810; no finer date is established for the page as a whole, so the year given is the span's start, without an invented month."
+date_basis: "This page collects Notebook poems documented only to the span 1800-1810; no finer date is established for the page as a whole, so the year given is the span's start."
 uid: blk-notebook-later-poems
 weight: 5
 description: "My Spectre around me night and day / Like a wild beast guards my way;"

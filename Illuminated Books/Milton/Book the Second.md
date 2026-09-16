@@ -1,7 +1,7 @@
 ---
 title: Book the Second
 date: "1804"
-date_basis: "The title page reads '1804', the year the work is conventionally dated by; Viscomi's printing chronology and Bentley's Blake Books show the actual etching and printing ran in campaigns into c. 1811, but no source narrows any of this to a month, so mid-year is an invented placeholder."
+date_basis: "The title page reads '1804', the year the work is conventionally dated by; Viscomi's printing chronology and Bentley's Blake Books show the actual etching and printing ran in campaigns into c. 1811, but no source narrows any of this to a month."
 uid: 01dd7333
 description: There is a place where Contraries are equally True. This place is called Beulah.
 cover: "milton-032.jpg"

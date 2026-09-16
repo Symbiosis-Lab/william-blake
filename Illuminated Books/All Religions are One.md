@@ -1,7 +1,7 @@
 ---
 title: All Religions are One
 date: "1788"
-date_basis: "Only the year '1788' appears on the plate; Bentley's Blake Books groups this with There is No Natural Religion among Blake's earliest relief etchings but names no month, so the month printed here is invented."
+date_basis: "Only the year '1788' appears on the plate; Bentley's Blake Books groups this with There is No Natural Religion among Blake's earliest relief etchings but names no month."
 uid: blk-arone
 cover: "all-religions-01.jpg"
 description: That the Poetic Genius is the True Man, and that the Body or Outward Form of Man is derived from the Poetic Genius.

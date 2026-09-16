@@ -1,7 +1,7 @@
 ---
 title: Laocoön
 date: "1826"
-date_basis: "No date appears on the plate; Bentley's Blake Books and the Blake Archive date the engraved text c. 1826-27 on paper and style evidence (the central image may derive from work c. 1815), and no source narrows any month, so the month printed here is invented."
+date_basis: "No date appears on the plate; Bentley's Blake Books and the Blake Archive date the engraved text c. 1826-27 on paper and style evidence (the central image may derive from work c. 1815), and no source narrows it to a month."
 uid: blk-laocoon
 weight: 16
 description: "Without unceasing Practice nothing can be done: Practice is Art. If you leave off you are lost."

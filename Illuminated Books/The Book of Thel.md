@@ -1,7 +1,7 @@
 ---
 title: The Book of Thel
 date: "1789"
-date_basis: "The title page is dated '1789' with no month; no record narrows the date further, so mid-year is an invented placeholder."
+date_basis: "The title page is dated '1789' with no month; no source narrows the date further."
 uid: blk-thel
 cover: "the-book-of-thel-02-title-page.jpg"
 children_style: grid

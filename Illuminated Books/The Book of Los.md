@@ -1,7 +1,7 @@
 ---
 title: The Book of Los
 date: "1795"
-date_basis: "The colophon reads only '1795'; no record narrows the date to a month, so mid-year is an invented placeholder."
+date_basis: "The colophon reads only '1795'; no source narrows the date to a month."
 uid: blk-book-of-los
 description: Eno, aged Mother, who the chariot of Leutha guides, since the day of thunders in old time.
 source: "Text: John Sampson, ed., The Poetical Works of William Blake (Oxford, 1913), checked against the Wikisource transcription. Public domain. No reproduction of the plates is available under a free licence: the only complete copy is at the British Museum."

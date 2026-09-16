@@ -1,7 +1,7 @@
 ---
 title: "On Homer's Poetry and On Virgil"
 date: "1822"
-date_basis: "Blake did not date the plate; Bentley's Blake Books assigns it to c. 1822 on paper evidence, with no month recorded, so mid-year is an invented placeholder."
+date_basis: "Blake did not date the plate; Bentley's Blake Books assigns it to c. 1822 on paper evidence, with no month recorded."
 uid: blk-homer-virgil
 weight: 17
 description: "The Classics! it is the Classics, and not Goths nor Monks, that desolate Europe with wars."
