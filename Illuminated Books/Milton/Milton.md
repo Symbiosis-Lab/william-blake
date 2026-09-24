@@ -9,4 +9,5 @@ source: "Plates — Library of Congress, Rosenwald Collection (item 48031331), C
 ocr_note: "Copy D carries more plates than the earlier copies the 1907 text edition was set from; where a plate falls outside that edition's own count, the plate (shown in Copy D's own order) and the text section carrying its number are not the same etched page."
 children_style: grid
 series: true
+sort: ["Preface", "Book the First", "Book the Second"]
 ---
